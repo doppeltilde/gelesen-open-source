@@ -33,9 +33,9 @@
         "settings": {
             "auto_translate": "Auto Translate",
             "typing_recorder": "Typing Recorder",
-            "sensitive_content": "sensitive Content (NSFW)",
-            "sensitive_content_description": "This will allow you to upload, search, and view content that is flagged as sensitive content.",
-            "turn_off_nsfw_blur": "Turn Off NSFW Blur",
+            "sensitive_content": "Sensitive user-generated content",
+            "sensitive_content_description": "This will allow you to upload, search, and view user-generated content that is flagged as sensitive.",
+            "turn_off_nsfw_blur": "Turn off sensitive UGC blur",
             "logout": "Log Out",
             "close_account": "Close Account",
             "clear_cache": "Clear Cache"
