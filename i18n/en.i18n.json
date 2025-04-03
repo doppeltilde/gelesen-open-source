@@ -1,0 +1,87 @@
+{
+    "common": {
+        "continue": "Continue",
+        "cancel": "Cancel",
+        "close": "Close",
+        "save": "Save",
+        "media": "Media",
+        "images": "Images",
+        "videos": "Videos",
+        "audio": "Audio",
+        "actions": "Actions",
+        "new_message": "New Message",
+        "version": "Version {version}",
+        "release_number": "Release Number: {number}"
+    },
+    "home": {
+        "navigation": {
+            "craft": "Craft",
+            "explore": "Explore",
+            "library": "Library",
+            "profile": "Profile"
+        },
+        "account": {
+            "Account": "Account",
+            "profile": "Profile",
+            "appearance": "Appearance",
+            "settings": "Settings",
+            "privacy_policy": "Privacy Policy",
+            "terms_of_use": "Terms of Use",
+            "community_guidelines": "Community Guidelines",
+            "join_the_discord": "Join the Discord"
+        },
+        "settings": {
+            "auto_translate": "Auto Translate",
+            "typing_recorder": "Typing Recorder",
+            "sensitive_content": "sensitive Content (NSFW)",
+            "sensitive_content_description": "This will allow you to upload, search, and view content that is flagged as sensitive content.",
+            "turn_off_nsfw_blur": "Turn Off NSFW Blur",
+            "logout": "Log Out",
+            "close_account": "Close Account",
+            "clear_cache": "Clear Cache"
+        },
+        "close_account": {
+            "close_my_account": "Close My Account 😔😢",
+            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
+            "close_my_account_cancel": "Nevermind, take me back!",
+            "close_my_account_step_1_title": "Close My Account",
+            "close_my_account_step_1_description": "Are you sure you want to close your account?",
+            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+        }
+    },
+    "login": {
+        "title": "Get started with Gelesen",
+        "agreement": "Agreement",
+        "agreement_description": "By continuing, you confirm that you have read and agree to the End User License Agreement (EULA), Terms of Service, Privacy Policy, and Community Guidelines.",
+        "agree_button": "I agree",
+        "continue_with_email": "Continue with Email",
+        "continue_with_google": "Continue with Google",
+        "sign_in_with_apple": "Sign in with Apple",
+        "enter_email": "Enter your Email",
+        "invalid_email": "Please enter a valid email address.",
+        "unsupported_email_provider": "This email provider is not supported.",
+        "email_code": "Please enter the code sent to your email address: {email}",
+        "account_not_found": "Account was either not found or has been closed."
+    },
+    "library": {
+        "my_library": "My Library",
+        "no_stories_found": "No Stories Found."
+    },
+    "craft": {
+        "title": "Title",
+        "short_summary": "short Summary",
+        "full_description": "Full Description",
+        "scrap_story_title": "Scrap Story",
+        "scrap_story_description": "Are you sure you want to scrap this story?",
+        "tags": "Tags",
+        "chapter_screen": {
+            "chapters_title": "Chapters",
+            "title": "Title",
+            "chat": "Chat",
+            "interlude": "Interlude",
+            "visual_novel": "Visual Novel",
+            "main_menu": "Main Menu",
+            "chapter_label": "Chapter Label"
+        }
+    }
+}
