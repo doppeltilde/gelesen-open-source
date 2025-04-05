@@ -1,3 +1,5 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
 files:
   - source: /i18n/en.i18n.json
     translation: /i18n/%two_letters_code%.i18n.%file_extension%

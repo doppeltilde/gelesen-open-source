@@ -21,7 +21,7 @@
             "profile": "Profile"
         },
         "account": {
-            "Account": "Account",
+            "account": "Account",
             "profile": "Profile",
             "appearance": "Appearance",
             "settings": "Settings",
@@ -33,6 +33,7 @@
         "settings": {
             "auto_translate": "Auto Translate",
             "typing_recorder": "Typing Recorder",
+            "sensitive_content_title": "Sensitive UGC",
             "sensitive_content": "Sensitive user-generated content",
             "sensitive_content_description": "This will allow you to upload, search, and view user-generated content that is flagged as sensitive.",
             "turn_off_nsfw_blur": "Turn off sensitive UGC blur",
