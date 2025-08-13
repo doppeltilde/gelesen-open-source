@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "gelesen.app",
+      "sha256_cert_fingerprints": [
+        "5F:BF:32:5D:5E:81:76:5F:A7:EC:32:CA:92:F5:7A:F1:4A:C9:24:E3:88:8B:B9:43:4A:C4:D6:65:C0:1F:FA:B3"
+      ]
+    }
+  }
+]

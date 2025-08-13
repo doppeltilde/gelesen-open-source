@@ -1,0 +1,27 @@
+{
+   "applinks": {
+      "apps": [],
+      "details": [
+         {
+            "appIDs": [
+               "PUT375PW9V.doppeltilde.com.gelesen"
+            ],
+            "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "/s/*",
+                  "comment": "Matches any URL with a path that starts with /story/."
+               },
+               {
+                  "/": "/p/*",
+                  "comment": "Matches any URL with a path that starts with /profile/."
+               }
+            ]
+         }
+      ]
+   }
+}
