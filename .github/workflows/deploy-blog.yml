@@ -22,7 +22,7 @@ jobs:
       matrix:
         include:
           - docker_file: blog/Dockerfile
-            label: "latest"
+            label: "blog"
     steps:
       - uses: actions/checkout@v4
 
@@ -38,7 +38,6 @@ jobs:
             type=ref,event=branch
             type=ref,event=pr
             type=ref,event=tag
-            type=sha,prefix=sha-
           labels: |
             type=raw,value=image-type=${{ matrix.label }}
 
@@ -57,5 +56,5 @@ jobs:
           push: ${{ github.event_name != 'pull_request' }}
           tags: |
             ${{ steps.meta.outputs.tags }}
-            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:blog
           platforms: linux/amd64,linux/arm64

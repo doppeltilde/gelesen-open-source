@@ -1,11 +1,7 @@
 services:
   nextjs-blog:
-    build:
-      context: .
-      dockerfile: Dockerfile
-      args:
-        - NODE_ENV=production
-    container_name: nextjs-blog
+    image: ghcr.io/doppeltilde/gelesen-open-source:blog
+    container_name: gelesen-blog
     restart: unless-stopped
     ports:
       - "3000:3000"
@@ -17,3 +13,5 @@ services:
       - SKIP_ENV_VALIDATION=true
     env_file:
       - .env.docker
+    volumes:
+      - ./content:/content:rw
