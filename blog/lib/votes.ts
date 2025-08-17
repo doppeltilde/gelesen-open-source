@@ -53,6 +53,7 @@ export function getPostVotes(postSlug: string): PostVotes {
 
 // Get all votes
 export function getAllVotes(): VotesData {
+  noStore()
   return readVotes()
 }
 

@@ -4,15 +4,13 @@ import { PlayfulLanding } from '@/components/blog/playful-landing'
 
 export const dynamic = 'force-dynamic'
 
-export default async function HomePage() {
-  const posts = await getPublishedPosts()
+export default function HomePage() {
+  const posts = getPublishedPosts()
   
-  const postsWithVotes = await Promise.all(
-    posts.map(async post => ({
-      ...post,
-      votes: await getPostVotes(post.slug)
-    }))
-  )
-
+  const postsWithVotes = posts.map(post => ({
+    ...post,
+    votes: getPostVotes(post.slug)
+  }))
+  
   return <PlayfulLanding posts={postsWithVotes} />
 }
