@@ -15,7 +15,7 @@ RUN NODE_OPTIONS="--max-old-space-size=4096" bun run build
 
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
-d
+
 RUN chown -R nextjs:nodejs /app
 
 USER nextjs
