@@ -1,0 +1,42 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/blog/.pnp
+/blog/.pnp.*
+/blog/.yarn/*
+/blog/!.yarn/patches
+/blog/!.yarn/plugins
+/blog/!.yarn/releases
+/blog/!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/blog/.next/
+/blog/out/
+
+# production
+/blog/build
+
+# misc
+/blog/.DS_Store
+/blog/*.pem
+
+# debug
+/blog/npm-debug.log*
+/blog/yarn-debug.log*
+/blog/yarn-error.log*
+/blog/.pnpm-debug.log*
+
+# vercel
+/blog/.vercel
+
+# typescript
+/blog/*.tsbuildinfo
+/blog/next-env.d.ts
+/blog/.env.local
+/blog/.env.example
+/blog/.next
+/blog/node_modules
+/blog/bun.lock
