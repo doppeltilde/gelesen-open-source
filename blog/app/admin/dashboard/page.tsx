@@ -4,12 +4,26 @@ import { getAllVotes } from '@/lib/votes'
 import { Heart } from 'lucide-react'
 import Link from 'next/link'
 
-export default function AdminDashboard() {
-  const posts = getAllPosts()
-  const votes = getAllVotes()
-  
+export type Post = {
+  slug: string
+  frontMatter: {
+    title: string
+    date: string
+    excerpt: string
+    tags: string[]
+    published: boolean
+    slug: string
+  }
+  content: string
+}
+
+type AdminDashboardProps = {
+  posts: Post[]
+  votes: Record<string, { upvotes: number; downvotes: number; voters: string[] }>
+}
+
+export default function AdminDashboard({ posts, votes }: AdminDashboardProps) {
   const publishedPosts = posts.filter(post => post.frontMatter.published)
-  // const draftPosts = posts.filter(post => !post.frontMatter.published)
   const totalVotes = Object.values(votes).reduce((sum, vote) => sum + vote.upvotes, 0)
   const recentPosts = posts.slice(0, 5)
 
@@ -74,4 +88,16 @@ export default function AdminDashboard() {
       </div>
     </AdminLayout>
   )
+}
+
+export async function getServerSideProps() {
+  const posts = getAllPosts()
+  const votes = getAllVotes()
+
+  return {
+    props: {
+      posts,
+      votes,
+    },
+  }
 } 

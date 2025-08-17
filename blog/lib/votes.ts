@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import { unstable_noStore as noStore } from 'next/cache'
 
 const votesFile = path.join(process.cwd(), 'content/votes/post-votes.json')
 
@@ -45,6 +46,7 @@ function writeVotes(votes: VotesData): void {
 
 // Get votes for a specific post
 export function getPostVotes(postSlug: string): PostVotes {
+  noStore()
   const allVotes = readVotes()
   return allVotes[postSlug] || { upvotes: 0, downvotes: 0, voters: [] }
 }

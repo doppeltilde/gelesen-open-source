@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { unstable_noStore as noStore } from 'next/cache'
 
 const postsDirectory = path.join(process.cwd(), 'content/posts')
 
@@ -28,6 +29,7 @@ export function ensurePostsDirectory() {
 
 // Get all posts
 export function getAllPosts(): Post[] {
+  noStore()
   ensurePostsDirectory()
   
   if (!fs.existsSync(postsDirectory)) {
@@ -69,6 +71,7 @@ export function getPublishedPosts(): Post[] {
 
 // Get single post by slug
 export function getPostBySlug(slug: string): Post | null {
+  noStore()
   ensurePostsDirectory()
   
   const fullPath = path.join(postsDirectory, `${slug}.mdx`)
