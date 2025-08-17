@@ -74,31 +74,22 @@
             padding: 2rem;
         }
 
-        /* .modal-header,
-        .modal-body,
-        .modal-footer {
-            background-color: #eee;
-            color: white;
-        } */
 
-        /* #announcement {
-            color: white;
-            font-weight: bold;
-            border-radius: 8px;
+        .announcement-banner {
+            background-color: #0d6efd;
+            color: #fff;
             padding: 1rem;
             text-align: center;
-            align-self: center;
-
+            border-radius: 0;
+            font-family: 'Lexend', sans-serif;
         }
 
-        #announcement p {
-            color: white;
+        .announcement-banner a {
+            color: #fff;
+            text-decoration: underline;
+            font-weight: bold;
+            font-family: 'Lexend', sans-serif;
         }
-
-        #announcement table {
-            margin-left: auto;
-            margin-right: auto;
-        } */
 
         img {
             transition: opacity 0.3s;
@@ -144,6 +135,10 @@
 </head>
 
 <body>
+    <div class="announcement-banner alert alert-primary alert-dismissible fade show mb-0" role="alert">
+        <strong>🎉 Gelesen Version 1.3.0 is now available!</strong>
+        <a href="https://blog.gelesen.app/blog/release-1-3-0" class="alert-link">Learn More</a>
+    </div>
 
     <div class="switch">
         <label>
@@ -173,7 +168,7 @@
                             src="./images/googleplay.png" height="65px" style="padding: 2.5px;" />
                     </a>
                 </div>
-           
+
             </div>
         </div>
     </section>
@@ -217,7 +212,7 @@
                             src="./images/googleplay.png" height="65px" style="padding: 2.5px;" />
                     </a>
                 </div>
-               
+
             </div><br>
             <br>
             <a href="https://discord.gg/dSC639j3up"><img src="./images/discord.png" width="200px"
