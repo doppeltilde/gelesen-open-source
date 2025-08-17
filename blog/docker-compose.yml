@@ -8,4 +8,4 @@ services:
     env_file:
       - .env
     volumes:
-      - ./content:/content:rw
+      - ./content:/app/content:rw
