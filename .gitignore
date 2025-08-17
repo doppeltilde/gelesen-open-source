@@ -41,3 +41,4 @@
 /blog/node_modules
 /blog/bun.lock
 /blog/content
+blog/.env

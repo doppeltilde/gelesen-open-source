@@ -5,13 +5,7 @@ services:
     restart: unless-stopped
     ports:
       - "3000:3000"
-    environment:
-      - NODE_ENV=production
-      - PORT=3000
-      - NEXT_TELEMETRY_DISABLED=1
-      - CI=true
-      - SKIP_ENV_VALIDATION=true
     env_file:
-      - .env.docker
+      - .env
     volumes:
       - ./content:/content:rw
