@@ -40,5 +40,6 @@
 /blog/.next
 /blog/node_modules
 /blog/bun.lock
-/blog/content
+/blog/content/votes
+/blog/content/posts
 blog/.env
