@@ -3,7 +3,6 @@ FROM oven/bun:1
 WORKDIR /app
 
 COPY . .
-RUN rm -rf /content
 RUN bun install
 RUN bun run build
 
