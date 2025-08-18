@@ -3,6 +3,7 @@
 import * as React from "react"
 import { Moon, Sun } from "lucide-react"
 import { useTheme } from "next-themes"
+import config from "@/content/config/site.json"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -14,6 +15,10 @@ import {
 
 export function ModeToggle() {
   const { setTheme } = useTheme()
+
+  if (!config.features.darkMode) {
+    return null;
+  }
 
   return (
     <DropdownMenu>
