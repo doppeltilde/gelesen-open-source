@@ -8,6 +8,7 @@ export async function GET() {
         const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
         return NextResponse.json(config.features);
     } catch (error) {
+        console.error("An error occurred while reading the config file:", error);
         return NextResponse.json({ darkMode: false });
     }
 } 
