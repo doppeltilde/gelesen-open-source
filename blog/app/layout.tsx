@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
-import config from "@/content/config/site.json";
+import { useState, useEffect } from "react"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -24,7 +24,15 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const isDarkModeEnabled = config.features.darkMode;
+  const [isDarkModeEnabled, setIsDarkModeEnabled] = useState(true)
+
+  useEffect(() => {
+    fetch('/api/config')
+      .then(res => res.json())
+      .then(features => setIsDarkModeEnabled(features.darkMode))
+      .catch(() => setIsDarkModeEnabled(false));
+  }, []);
+
 
   return (
     <html lang="en" suppressHydrationWarning>
