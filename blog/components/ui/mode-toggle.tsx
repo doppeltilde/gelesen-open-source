@@ -3,7 +3,7 @@
 import * as React from "react"
 import { Moon, Sun } from "lucide-react"
 import { useTheme } from "next-themes"
-import config from "@/content/config/site.json"
+import { useState, useEffect } from "react"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -14,9 +14,17 @@ import {
 } from "@/components/ui/dropdown-menu"
 
 export function ModeToggle() {
+  const [isDarkModeEnabled, setIsDarkModeEnabled] = useState(true)
   const { setTheme } = useTheme()
 
-  if (!config.features.darkMode) {
+  useEffect(() => {
+    fetch('/api/config')
+      .then(res => res.json())
+      .then(features => setIsDarkModeEnabled(features.darkMode))
+      .catch(() => setIsDarkModeEnabled(false));
+  }, []);
+
+  if (!isDarkModeEnabled) {
     return null;
   }
 
