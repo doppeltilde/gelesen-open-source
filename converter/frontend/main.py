@@ -1,5 +1,6 @@
 import streamlit as st
-import requests, os
+import requests
+import os
 
 API_URL = os.getenv("API_URL")
 if not API_URL:
