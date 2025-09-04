@@ -1,10 +1,15 @@
 import streamlit as st
 import requests
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 API_URL = os.getenv("API_URL")
 if not API_URL:
-    st.error("Configuration error: The API_URL environment variable is not set. The application cannot function.")
+    st.error(
+        "Configuration error: The API_URL environment variable is not set. The application cannot function."
+    )
     st.stop()
 
 
