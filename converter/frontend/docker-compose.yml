@@ -3,7 +3,7 @@ services:
     container_name: "converter-frontend"
     image: ghcr.io/doppeltilde/gelesen-open-source:converter-frontend
     ports:
-      - "8080:8080"
+      - "8051:8051"
     environment:
       - API_URL
     restart: unless-stopped

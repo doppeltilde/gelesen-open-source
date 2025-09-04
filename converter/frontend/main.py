@@ -13,6 +13,17 @@ if not API_URL:
     st.stop()
 
 
+def show_intro():
+    with st.expander("Introduction", expanded=True):
+        st.write(
+            """        
+        Welcome to the Gelesen Story Converter, which converts Seen Stories to Gelesen Stories.
+
+        What you will need is a Seen Story .xml file.
+        """
+        )
+
+
 def show_basic_tutorial():
     st.header("📚 How to add to Gelesen")
 
@@ -45,6 +56,8 @@ st.set_page_config(
 
 
 st.title("Convert a Seen Story to a Gelesen Story")
+
+show_intro()
 
 uploaded_file = st.file_uploader("Choose a file", type=["xml"])
 
