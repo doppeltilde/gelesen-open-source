@@ -1,7 +1,10 @@
 import streamlit as st
 import requests, os
 
-API_URL = os.environ["API_URL"]
+API_URL = os.getenv("API_URL")
+if not API_URL:
+    st.error("Configuration error: The API_URL environment variable is not set. The application cannot function.")
+    st.stop()
 
 
 def show_basic_tutorial():
