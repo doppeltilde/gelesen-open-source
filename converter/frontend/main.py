@@ -25,15 +25,13 @@ def show_intro():
 
 
 def show_basic_tutorial():
-    st.header("📚 How to add to Gelesen")
-
-    with st.expander("Tutorial", expanded=True):
+    with st.expander("Tutorial", expanded=False):
         st.write(
-            """        
-        1. After having downloaded the story, **navigate** to your file manager.
+            """
+        1. After having downloaded the story, navigate to your file manager.
         2. Move the downloaded story folder with all its contents to where all Gelesen Stories are stored.
             - Under iOS: Files App > Browse > Gelesen > user_stories
-            - Under Android: 
+            - Under Android: Files App > Internal Storage > Android > data > gelesen.app > files > user_stories
         """
         )
 
@@ -59,14 +57,18 @@ st.title("Convert a Seen Story to a Gelesen Story")
 
 show_intro()
 
+st.warning(
+    "⚠️ Caution: Not everything may be converted correctly. Please double check the final story data."
+)
+
 uploaded_file = st.file_uploader("Choose a file", type=["xml"])
 
 
 if uploaded_file is not None:
     file_content = uploaded_file.getvalue()
 
-    if st.button("Upload File"):
-        st.info("Sending file...")
+    if st.button("Start converting the file"):
+        st.info("Converting file...")
 
         try:
             response = requests.post(
@@ -77,7 +79,7 @@ if uploaded_file is not None:
             )
 
             if response.status_code == 200 or response.status_code == 201:
-                st.success("File successfully sent!")
+                st.success("File successfully converted to a Gelesen Story!")
 
                 filename = "download.zip"
                 if "Content-Disposition" in response.headers:
@@ -92,6 +94,7 @@ if uploaded_file is not None:
                     data=response.content,
                     file_name=filename,
                     mime="application/zip",
+                    icon="⬇️",
                 )
                 show_basic_tutorial()
             else:
