@@ -17,10 +17,13 @@ def show_intro():
     with st.expander("Introduction", expanded=True):
         st.write(
             """        
-        Welcome to the Gelesen Story Converter, which converts Seen Stories to Gelesen Stories.
+        👋 Welcome to the Gelesen Story Converter, which converts old Seen stories to Gelesen stories.
 
-        What you will need is a Seen Story .xml file.
+        📄 What you will need is a Seen Story .xml file.
         """
+        )
+        st.warning(
+            "⚠️ Caution: Not everything may be converted correctly. Please double check the final story data."
         )
 
 
@@ -30,9 +33,13 @@ def show_basic_tutorial():
             """
         1. After having downloaded the story, navigate to your file manager.
         2. Move the downloaded story folder with all its contents to where all Gelesen Stories are stored.
-            - Under iOS: Files App > Browse > Gelesen > user_stories
-            - Under Android: Files App > Internal Storage > Android > data > gelesen.app > files > user_stories
+            - 📱 Under iOS: Files App > Browse > Gelesen > user_stories
+            - 🤖 Under Android: Files App > Internal Storage > Android > data > gelesen.app > files > user_stories
         """
+        )
+        st.info(
+            "Images are not automatically converted, and will need to be added manually.",
+            icon="ℹ️",
         )
 
 
@@ -53,13 +60,9 @@ st.set_page_config(
 )
 
 
-st.title("Convert a Seen Story to a Gelesen Story")
+st.title("📚 Convert a Seen Story to a Gelesen Story")
 
 show_intro()
-
-st.warning(
-    "⚠️ Caution: Not everything may be converted correctly. Please double check the final story data."
-)
 
 uploaded_file = st.file_uploader("Choose a file", type=["xml"])
 
@@ -67,8 +70,8 @@ uploaded_file = st.file_uploader("Choose a file", type=["xml"])
 if uploaded_file is not None:
     file_content = uploaded_file.getvalue()
 
-    if st.button("Start converting the file"):
-        st.info("Converting file...")
+    if st.button("Start converting the story"):
+        st.info("Converting story...")
 
         try:
             response = requests.post(
