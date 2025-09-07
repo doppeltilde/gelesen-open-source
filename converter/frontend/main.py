@@ -28,7 +28,7 @@ def show_intro():
 
 
 def show_basic_tutorial():
-    with st.expander("Tutorial", expanded=False):
+    with st.expander("Tutorial", expanded=True):
         st.write(
             """
         1. After having downloaded the story, navigate to your file manager.
@@ -36,6 +36,10 @@ def show_basic_tutorial():
             - 📱 Under iOS: Files App > Browse > On My iPhone > Gelesen > user_stories
             - 🤖 Under Android: Files App > Internal Storage > Android > data > gelesen.app > files > user_stories
         """
+        )
+        st.warning(
+            "Please make sure to have Gelesen fully closed, before doing the transfer.",
+            icon="🚨",
         )
         st.info(
             "Images are not automatically converted, and will need to be added manually.",
@@ -99,6 +103,7 @@ if uploaded_file is not None:
                     mime="application/zip",
                     icon="⬇️",
                 )
+
                 show_basic_tutorial()
             else:
                 st.error(f"Error: {response.status_code}")
