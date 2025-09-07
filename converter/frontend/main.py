@@ -33,7 +33,7 @@ def show_basic_tutorial():
             """
         1. After having downloaded the story, navigate to your file manager.
         2. Move the downloaded story folder with all its contents to where all Gelesen Stories are stored.
-            - 📱 Under iOS: Files App > On My iPhone > Browse > Gelesen > user_stories
+            - 📱 Under iOS: Files App > Browse > On My iPhone > Gelesen > user_stories
             - 🤖 Under Android: Files App > Internal Storage > Android > data > gelesen.app > files > user_stories
         """
         )
