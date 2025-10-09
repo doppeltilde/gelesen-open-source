@@ -24,7 +24,7 @@ Our community guidelines are designed to help us maintain a healthy experience. 
 - Fraud and deliberate misrepresentation and/or deception are not allowed.
 - Child or vulnerable person exploitation and abuse is not allowed.
 - Revenge pornography is not allowed.
-- Adult content must be clearly marked as sensitive material. Please refer to our adult content guidelines.
+- Adult content must be clearly marked as sensitive material. Please refer to our [adult content guidelines](./community-guidelines-adult-content).
 
 #### 4. Reporting:
 - If you encounter any behavior that violates our guidelines, report it.

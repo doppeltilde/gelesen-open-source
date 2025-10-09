@@ -39,6 +39,12 @@ class App extends StatelessComponent {
           builder: (_, __) =>
               MarkdownPage('lib/content/community_guidelines.md'),
         ),
+        Route(
+          path: '/community-guidelines-adult-content',
+          title: 'Community Guidelines - Adult Content',
+          builder: (_, __) =>
+              MarkdownPage('lib/content/community_guidelines_adult_content.md'),
+        ),
       ],
     );
   }
