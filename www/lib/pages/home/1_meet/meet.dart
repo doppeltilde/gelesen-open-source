@@ -1,7 +1,6 @@
 import 'package:jaspr/jaspr.dart';
 
 import '../../../constants/theme.dart';
-import 'components/modes_animation.dart';
 
 class Meet extends StatelessComponent {
   const Meet({super.key});

@@ -22,7 +22,7 @@ class Icon extends StatelessComponent {
     children.add(
       i(
         classes: 'icon-$name',
-        styles: Styles(fontSize: size ?? 1.2.em, color: Colors.white),
+        styles: Styles(fontSize: size ?? 1.2.em),
         [],
       ),
     );
