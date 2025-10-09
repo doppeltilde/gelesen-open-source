@@ -18,10 +18,8 @@ import 'package:website/constants/theme.dart' as prefix9;
 import 'package:website/layout/footer.dart' as prefix10;
 import 'package:website/layout/header.dart' as prefix11;
 import 'package:website/pages/home/0_hero/hero.dart' as prefix12;
-import 'package:website/pages/home/1_meet/components/modes_animation.dart'
-    as prefix13;
-import 'package:website/pages/home/1_meet/meet.dart' as prefix14;
-import 'package:website/pages/home/5_community/community.dart' as prefix15;
+import 'package:website/pages/home/1_meet/meet.dart' as prefix13;
+import 'package:website/pages/home/5_community/community.dart' as prefix14;
 
 /// Default [JasprOptions] for use with your jaspr project.
 ///
@@ -45,10 +43,6 @@ JasprOptions get defaultJasprOptions => JasprOptions(
       'layout/header',
       params: _prefix11Header,
     ),
-
-    prefix13.ModesAnimation: ClientTarget<prefix13.ModesAnimation>(
-      'pages/home/1_meet/components/modes_animation',
-    ),
   },
   styles: () => [
     ...prefix0.Banner.styles,
@@ -66,9 +60,9 @@ JasprOptions get defaultJasprOptions => JasprOptions(
     ...prefix11.HeaderState.styles,
 
     ...prefix12.Hero.styles,
-    ...prefix14.Meet.styles,
+    ...prefix13.Meet.styles,
 
-    ...prefix15.Community.styles,
+    ...prefix14.Community.styles,
   ],
 );
 

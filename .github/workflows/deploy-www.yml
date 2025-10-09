@@ -2,8 +2,6 @@ name: Deploy WWW
 
 on:
   push:
-    branches:
-      - master
     tags:
       - "www-*"
 
@@ -37,5 +35,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy www/build/jaspr --project-name=gelesen-open-source
+          command: pages deploy www/build/jaspr --project-name=gelesen-open-source --production-branch master
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
