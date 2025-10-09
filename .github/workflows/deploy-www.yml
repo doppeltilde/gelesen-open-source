@@ -1,4 +1,4 @@
-name: Deploy WWWW"
+name: Deploy WWW
 
 on:
   push:
@@ -12,6 +12,9 @@ jobs:
       contents: read
       deployments: write
     name: Deploy to Cloudflare Pages
+    defaults:
+      run:
+        working-directory: www
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,7 +31,6 @@ jobs:
       - name: Build Jaspr app
         run: jaspr build
 
-        working-directory: ./www
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
