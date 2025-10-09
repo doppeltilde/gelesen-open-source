@@ -1,0 +1,28 @@
+name: Deploy WWWW"
+
+on:
+  push:
+    tags:
+      - "www-*"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    name: Deploy to Cloudflare Pages
+    defaults:
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        run: jaspr build
+        working-directory: ./www
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy www/build/jaspr --project-name=gelesen-open-source
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
