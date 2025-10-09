@@ -50,10 +50,7 @@ class Meet extends StatelessComponent {
           ),
         ]),
         div([
-          h3(classes: 'select-target-1', [
-            text('Simulated '),
-            ModesAnimation(),
-          ]),
+          h3(classes: 'select-target-1', [text('Simulated Typing & Dialogue')]),
           p(classes: 'select-target-2', [
             text(
               'Use the simulated keyboard to type out responses, '
