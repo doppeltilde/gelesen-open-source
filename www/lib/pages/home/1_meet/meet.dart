@@ -88,53 +88,6 @@ class Meet extends StatelessComponent {
           ),
         ]),
       ]),
-      // div(
-      //   styles: Styles(flexDirection: FlexDirection.row, display: Display.flex),
-      //   [
-      //     div(classes: 'theme-image-swap', [
-      //       img(
-      //         src: 'images/interlude-light.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'light-image-only',
-      //       ),
-      //       img(
-      //         src: 'images/interlude-dark.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'dark-image-only',
-      //       ),
-      //     ]),
-      //     div(classes: 'theme-image-swap', [
-      //       img(
-      //         src: 'images/chat-light.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'light-image-only',
-      //       ),
-      //       img(
-      //         src: 'images/chat-dark.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'dark-image-only',
-      //       ),
-      //     ]),
-      //     div(classes: 'theme-image-swap', [
-      //       img(
-      //         src: 'images/chat-light.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'light-image-only',
-      //       ),
-      //       img(
-      //         src: 'images/chat-dark.png',
-      //         alt: 'App Screen',
-      //         height: 850,
-      //         classes: 'dark-image-only',
-      //       ),
-      //     ]),
-      //   ],
-      // ),
     ]);
   }
 
