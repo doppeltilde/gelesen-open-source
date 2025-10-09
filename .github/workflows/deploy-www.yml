@@ -35,5 +35,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy www/build/jaspr --project-name=gelesen-site
+          command: pages deploy www/build/jaspr --project-name=gelesen-site --branch=production
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
