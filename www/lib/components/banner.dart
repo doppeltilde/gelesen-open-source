@@ -30,7 +30,6 @@ class Banner extends StatelessComponent {
       css('&').styles(
         display: Display.flex,
         zIndex: ZIndex(10),
-        width: 100.percent,
         padding: Padding.all(0.75.rem),
         justifyContent: JustifyContent.center,
         alignItems: AlignItems.center,
