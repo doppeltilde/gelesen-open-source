@@ -7,7 +7,7 @@ sitemap:
   lastmod: 2025-02-03
 ---
 
-Hello All! 👋 Gelesen version 1.1.0 is now out! 🥳
+Hello All! :wave: Gelesen version 1.1.0 is now out!
 
 ## This update includes, but is not limited to:
 - Custom Variables

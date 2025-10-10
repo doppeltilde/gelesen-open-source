@@ -7,7 +7,7 @@ sitemap:
   lastmod: 2025-3-31
 ---
 
-Salutations, @everyone!👋 Gelesen version 1.1.5 has been released!
+Salutations, everyone! :wave: Gelesen version 1.1.5 has been released!
 
 ## Notable changes and improvements:
 - The new sound effects library is now available, allowing you to quickly search, download and use sound effects in your story.
