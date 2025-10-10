@@ -15,7 +15,6 @@ class Hero extends StatelessComponent {
             textAlign: TextAlign.center,
             fontFamily: FontFamily("Alata"),
             fontWeight: FontWeight.bold,
-            letterSpacing: 15.px,
           ),
           [text('GELESEN')],
         ),
