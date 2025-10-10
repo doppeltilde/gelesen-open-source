@@ -38,7 +38,7 @@ Download the update: https://gelesen.app
 - New: Different sound for delivery status.
 - New: You can now customize the text.
 - Improvements: Visual Novel theme was refined.
-- Fix: Change background action not working properly.
+- Fixed: Change background action not working properly.
 - New: Title & Interlude text customization.
 - New: Message Hide/Show Option
 - New: Modifiable Screen Fade.
