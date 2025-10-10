@@ -11,7 +11,9 @@ void main() {
     Document(
       title: 'Gelesen - Social Gaming Platform',
       lang: 'en',
-      head: [link(rel: 'icon', type: 'image/x-icon', href: 'favicon.png')],
+      head: [
+        link(rel: 'icon', type: 'image/x-icon', href: 'images/favicon.png'),
+      ],
       body: App(),
     ),
   );
