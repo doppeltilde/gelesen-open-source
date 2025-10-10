@@ -5,56 +5,35 @@ on:
     tags:
       - "blog-*"
 
-env:
-  IMAGE_NAME: ${{ github.repository }}
-
 jobs:
-  build-blog:
+  deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      packages: write
-    env:
-      REGISTRY: "ghcr.io"
-      REGISTRY_USER: ${{ github.actor }}
-      REGISTRY_SECRET: ${{ secrets.GITHUB_TOKEN }}
-    strategy:
-      matrix:
-        include:
-          - docker_file: blog/Dockerfile
-            label: "blog"
+      deployments: write
+    name: Deploy to Cloudflare Pages
+    defaults:
+      run:
+        working-directory: blog
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2.21.0
 
-      - name: Meta
-        id: meta
-        uses: docker/metadata-action@v5
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build Jaspr
+        run: |
+          dart pub global activate jaspr_cli
+          jaspr build --verbose
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3.14.1
         with:
-          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
-          tags: |
-            type=ref,event=branch
-            type=ref,event=pr
-            type=ref,event=tag
-          labels: |
-            type=raw,value=image-type=${{ matrix.label }}
-
-      - name: Log in to GHCR
-        uses: docker/login-action@v3
-        with:
-          registry: ${{ env.REGISTRY }}
-          username: ${{ env.REGISTRY_USER }}
-          password: ${{ env.REGISTRY_SECRET }}
-
-      - name: Build and push
-        uses: docker/build-push-action@v5
-        with:
-          context: ./blog
-          file: blog/Dockerfile
-          push: ${{ github.event_name != 'pull_request' }}
-          tags: |
-            ${{ steps.meta.outputs.tags }}
-            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:blog
-          platforms: linux/amd64,linux/arm64
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy blog/build/jaspr --project-name=gelesen-blog ${{ startsWith(github.ref, 'refs/tags/blog-production-') && ' --branch=production' || '' }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
