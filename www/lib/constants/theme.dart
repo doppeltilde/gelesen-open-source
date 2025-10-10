@@ -193,13 +193,13 @@ List<StyleRule> get root => [
   css.media(MediaQuery.all(maxWidth: mobileBreakpoint), [
     css(
       ':root',
-    ).styles(raw: {'--contentPadding': '2rem', '--sectionPadding': '8rem'}),
+    ).styles(raw: {'--contentPadding': '3rem', '--sectionPadding': '8rem'}),
   ]),
 
   css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
     css(
       ':root',
-    ).styles(raw: {'--contentPadding': '1rem', '--sectionPadding': '4rem'}),
+    ).styles(raw: {'--contentPadding': '2rem', '--sectionPadding': '4rem'}),
   ]),
 
   // Typography
@@ -235,10 +235,14 @@ List<StyleRule> get root => [
       ),
 
   css.media(MediaQuery.all(maxWidth: mobileBreakpoint), [
-    css('h1').styles(fontSize: 2.6.rem),
+    css('h1').styles(fontSize: 2.6.rem, letterSpacing: 15.px),
     css('h2').styles(fontSize: 1.8.rem),
     css('h3').styles(fontSize: 1.8.rem),
     css('h4').styles(fontSize: 1.2.rem),
+  ]),
+
+  css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
+    css('h1').styles(fontSize: 4.rem, letterSpacing: 10.px),
   ]),
 
   // Common
