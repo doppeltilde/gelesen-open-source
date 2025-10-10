@@ -17,7 +17,7 @@ class App extends StatelessComponent {
         Route(
           path: '/',
           builder: (_, __) => fragment([
-            Banner(),
+            //  Banner(),
             Header(),
             main_([Home()]),
             Footer(),
