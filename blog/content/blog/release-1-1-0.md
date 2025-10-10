@@ -2,9 +2,9 @@
 ---
 title: Release 1.1
 description: Gelesen Release 1.1
-date: 2025-2-3
+date: 2025-02-03
 sitemap:
-  lastmod: 2025-2-3
+  lastmod: 2025-02-03
 ---
 
 Hello All! 👋 Gelesen version 1.1.0 is now out! 🥳
