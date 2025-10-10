@@ -212,6 +212,8 @@ List<StyleRule> get root => [
       .combine(heading1)
       .styles(
         margin: Margin.only(top: Unit.zero, bottom: 0.1.rem),
+        letterSpacing: 15.px,
+        fontSize: 5.rem,
       ),
   css('h2')
       .combine(heading2)
