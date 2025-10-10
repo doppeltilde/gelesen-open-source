@@ -1,7 +1,7 @@
 
 ---
-title: Release 1.3.7
-description: Gelesen Release 1.3.7
+title: Release 1.3.14
+description: Gelesen Release 1.3.14
 date: 2025-9-28
 sitemap:
   lastmod: 2025-9-28
