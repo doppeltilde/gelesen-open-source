@@ -241,10 +241,12 @@ List<StyleRule> get root => [
     css('h2').styles(fontSize: 1.8.rem),
     css('h3').styles(fontSize: 1.8.rem),
     css('h4').styles(fontSize: 1.2.rem),
+    css(".meet-text").styles(padding: Spacing.symmetric(horizontal: 30.px)),
   ]),
 
   css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
     css('h1').styles(fontSize: 4.rem, letterSpacing: 10.px),
+    css(".meet-text").styles(padding: Spacing.symmetric(horizontal: 40.px)),
   ]),
 
   // Common

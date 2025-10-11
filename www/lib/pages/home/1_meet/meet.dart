@@ -9,7 +9,7 @@ class Meet extends StatelessComponent {
   Component build(BuildContext context) {
     return section(id: 'meet', [
       div(classes: 'meet-section meet-modes', [
-        div([
+        div(classes: "meet-text", [
           h3([text('Explore Stories')]),
           p([
             text(
@@ -35,20 +35,32 @@ class Meet extends StatelessComponent {
       ]),
       div(classes: 'meet-section meet-components', [
         div(classes: 'theme-image-swap', [
-          img(
-            src: 'images/chat-light.png',
-            alt: 'App Screen',
-            height: 850,
-            classes: 'light-image-only',
-          ),
-          img(
-            src: 'images/chat-dark.png',
-            alt: 'App Screen',
-            height: 850,
-            classes: 'dark-image-only',
+          video(
+            attributes: const {
+              // 1. Crucial for reliable autoplay in modern browsers
+              'muted': '',
+              // 2. Enables autoplay
+              'autoplay': '',
+              // Optional: Makes the video loop continuously
+              'loop': '',
+              // Optional: Hides the default video controls
+              'controls': 'false',
+            },
+            width: 420,
+            controls: false,
+            autoplay: true,
+            muted: true,
+            [
+              source(
+                attributes: const {
+                  'src': 'videos/typing.mp4',
+                  'type': 'video/mp4',
+                },
+              ),
+            ],
           ),
         ]),
-        div([
+        div(classes: "meet-text", [
           h3(classes: 'select-target-1', [text('Simulated Typing & Dialogue')]),
           p(classes: 'select-target-2', [
             text(
@@ -61,7 +73,7 @@ class Meet extends StatelessComponent {
         ]),
       ]),
       div(classes: 'meet-section meet-modes', [
-        div([
+        div(classes: "meet-text", [
           h3([text('Craft Captivating Narratives')]),
           p([
             text(
@@ -71,13 +83,13 @@ class Meet extends StatelessComponent {
         ]),
         div(classes: 'theme-image-swap', [
           img(
-            src: 'images/interlude-light.png',
+            src: 'images/chat-light.png',
             alt: 'App Screen',
             height: 850,
             classes: 'light-image-only',
           ),
           img(
-            src: 'images/interlude-dark.png',
+            src: 'images/chat-dark.png',
             alt: 'App Screen',
             height: 850,
             classes: 'dark-image-only',

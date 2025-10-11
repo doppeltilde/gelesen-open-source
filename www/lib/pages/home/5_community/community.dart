@@ -9,7 +9,6 @@ class Community extends StatelessComponent {
   @override
   Component build(BuildContext context) {
     return section(id: 'community', [
-      span(classes: 'caption text-gradient', [text('Community')]),
       h2([text('Join the Community')]),
       div(classes: 'community-card', [
         div([
