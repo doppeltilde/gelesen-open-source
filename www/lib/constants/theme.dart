@@ -212,8 +212,7 @@ List<StyleRule> get root => [
       .combine(heading1)
       .styles(
         margin: Margin.only(top: Unit.zero, bottom: 0.1.rem),
-        letterSpacing: 15.px,
-        fontSize: 5.rem,
+        fontSize: 3.25.rem,
       ),
   css('h2')
       .combine(heading2)
@@ -237,7 +236,7 @@ List<StyleRule> get root => [
       ),
 
   css.media(MediaQuery.all(maxWidth: mobileBreakpoint), [
-    css('h1').styles(fontSize: 2.6.rem, letterSpacing: 15.px),
+    css('h1').styles(fontSize: 2.6.rem),
     css('h2').styles(fontSize: 1.8.rem),
     css('h3').styles(fontSize: 1.8.rem),
     css('h4').styles(fontSize: 1.2.rem),
@@ -245,7 +244,7 @@ List<StyleRule> get root => [
   ]),
 
   css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
-    css('h1').styles(fontSize: 4.rem, letterSpacing: 10.px),
+    css('h1').styles(fontSize: 4.rem),
     css(".meet-text").styles(padding: Spacing.symmetric(horizontal: 40.px)),
   ]),
 

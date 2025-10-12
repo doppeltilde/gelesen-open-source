@@ -13,10 +13,10 @@ class Hero extends StatelessComponent {
             alignItems: AlignItems.center,
             alignContent: AlignContent.center,
             textAlign: TextAlign.center,
-            fontFamily: FontFamily("Alata"),
+            fontFamily: FontFamily("Lexend"),
             fontWeight: FontWeight.bold,
           ),
-          [text('GELESEN')],
+          [text('An exciting new way to play interative stories')],
         ),
         p(
           styles: Styles(
@@ -28,8 +28,6 @@ class Hero extends StatelessComponent {
             letterSpacing: .5.px,
           ),
           [
-            text('An exciting new way to play interative stories.'),
-            br(),
             text(
               'Craft immersive stories shaped by choices, then share your creations to let others experience them.',
             ),
