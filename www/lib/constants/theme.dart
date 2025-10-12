@@ -244,7 +244,7 @@ List<StyleRule> get root => [
   ]),
 
   css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
-    css('h1').styles(fontSize: 4.rem),
+    css('h1').styles(fontSize: 2.4.rem),
     css(".meet-text").styles(padding: Spacing.symmetric(horizontal: 40.px)),
   ]),
 
