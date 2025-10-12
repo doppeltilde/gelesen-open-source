@@ -236,7 +236,7 @@ List<StyleRule> get root => [
       ),
 
   css.media(MediaQuery.all(maxWidth: mobileBreakpoint), [
-    css('h1').styles(fontSize: 2.6.rem),
+    css('h1').styles(fontSize: 2.4.rem),
     css('h2').styles(fontSize: 1.8.rem),
     css('h3').styles(fontSize: 1.8.rem),
     css('h4').styles(fontSize: 1.2.rem),
@@ -244,7 +244,7 @@ List<StyleRule> get root => [
   ]),
 
   css.media(MediaQuery.all(maxWidth: smallMobileBreakpoint), [
-    css('h1').styles(fontSize: 2.4.rem),
+    css('h1').styles(fontSize: 2.1.rem),
     css(".meet-text").styles(padding: Spacing.symmetric(horizontal: 40.px)),
   ]),
 
