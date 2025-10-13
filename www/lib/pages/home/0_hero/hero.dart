@@ -15,8 +15,9 @@ class Hero extends StatelessComponent {
             textAlign: TextAlign.center,
             fontFamily: FontFamily("Lexend"),
             fontWeight: FontWeight.bold,
+            letterSpacing: 1.px,
           ),
-          [text('An exciting new way to play interative stories')],
+          [text('An exciting way to'), br(), text("play chat stories")],
         ),
         p(
           styles: Styles(

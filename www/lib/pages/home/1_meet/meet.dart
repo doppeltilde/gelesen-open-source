@@ -61,7 +61,7 @@ class Meet extends StatelessComponent {
           ),
         ]),
         div(classes: "meet-text", [
-          h3(classes: 'select-target-1', [text('Simulated Typing & Dialogue')]),
+          h3(classes: 'select-target-1', [text('Simulated typing & dialogue')]),
           p(classes: 'select-target-2', [
             text(
               'Use the simulated keyboard to type out responses, '
@@ -74,7 +74,7 @@ class Meet extends StatelessComponent {
       ]),
       div(classes: 'meet-section meet-modes', [
         div(classes: "meet-text", [
-          h3([text('Craft Captivating Narratives')]),
+          h3([text('Craft captivating narratives')]),
           p([
             text(
               "Craft interactive, chat-style stories where every choice shapes the outcome. Build characters and plotlines that respond to your reader, making each path feel personal and engaging.",
