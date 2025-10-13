@@ -17,7 +17,7 @@ class Hero extends StatelessComponent {
             fontWeight: FontWeight.bold,
             letterSpacing: 1.px,
           ),
-          [text('An exciting way to'), br(), text("play chat stories")],
+          [text("An exciting way to play chat stories")],
         ),
         p(
           styles: Styles(

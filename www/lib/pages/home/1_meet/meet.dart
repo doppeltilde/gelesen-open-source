@@ -10,7 +10,7 @@ class Meet extends StatelessComponent {
     return section(id: 'meet', [
       div(classes: 'meet-section meet-modes', [
         div(classes: "meet-text", [
-          h3([text('Explore Stories')]),
+          h3([text('Explore stories')]),
           p([
             text(
               'Explore community created stories, or publish your own to the ”Story World” and let others play through them. '
