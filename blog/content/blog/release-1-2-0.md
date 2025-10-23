@@ -1,10 +1,10 @@
-
 ---
 title: Release 1.2
 description: Gelesen Release 1.2
-date: 2025-5-28
+date: 2025-05-28
+date_key: 20250528
 sitemap:
-  lastmod: 2025-5-28
+  lastmod: 2025-05-28
 ---
 
 Very happy to announce that Gelesen now supports Conditions!

@@ -1,10 +1,10 @@
-
 ---
 title: Release 1.1.5
 description: Gelesen Release 1.1.5
-date: 2025-3-31
+date: 2025-03-31
+date_key: 20250331
 sitemap:
-  lastmod: 2025-3-31
+  lastmod: 2025-03-31
 ---
 
 Salutations, everyone! :wave: Gelesen version 1.1.5 has been released!

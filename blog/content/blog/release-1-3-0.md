@@ -1,10 +1,10 @@
-
 ---
 title: Release 1.3
 description: Gelesen Release 1.3
-date: 2025-8-18
+date: 2025-08-18
+date_key: 20250818
 sitemap:
-  lastmod: 2025-8-18
+  lastmod: 2025-08-18
 ---
 
 

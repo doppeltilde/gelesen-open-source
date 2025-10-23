@@ -2,6 +2,7 @@
 title: Announcement 01
 description: Gelesen Annoucement 01
 date: 2024-11-24
+date_key: 20251124
 sitemap:
   lastmod: 2024-11-24
 ---

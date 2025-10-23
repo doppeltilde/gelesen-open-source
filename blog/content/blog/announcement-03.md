@@ -2,6 +2,7 @@
 title: Announcement 03
 description: Gelesen Annoucement 03
 date: 2024-12-26
+date_key: 20241226
 sitemap:
   lastmod: 2024-12-26
 ---

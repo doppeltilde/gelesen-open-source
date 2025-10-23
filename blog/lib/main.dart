@@ -42,6 +42,7 @@ void main() {
               SidebarGroup(
                 title: 'Blog Posts',
                 links: [
+                  SidebarLink(text: "Release 1.3.20", href: '/blog/release-1-3-20'),
                   SidebarLink(text: "Release 1.3.14", href: '/blog/release-1-3-14'),
                   SidebarLink(text: "Release 1.3.7", href: '/blog/release-1-3-7'),
                   SidebarLink(text: "Release 1.3", href: '/blog/release-1-3-0'),

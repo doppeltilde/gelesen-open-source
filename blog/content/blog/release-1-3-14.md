@@ -1,9 +1,10 @@
 ---
 title: Release 1.3.14
 description: Gelesen Release 1.3.14
-date: 2025-9-28
+date: 2025-09-28
+date_key: 20250928
 sitemap:
-  lastmod: 2025-9-28
+  lastmod: 2025-09-28
 ---
 
 ## What's new?

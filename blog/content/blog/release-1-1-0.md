@@ -1,8 +1,8 @@
-
 ---
 title: Release 1.1
 description: Gelesen Release 1.1
 date: 2025-02-03
+date_key: 20250203
 sitemap:
   lastmod: 2025-02-03
 ---

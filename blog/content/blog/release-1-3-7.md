@@ -1,10 +1,10 @@
-
 ---
 title: Release 1.3.7
 description: Gelesen Release 1.3.7
-date: 2025-9-6
+date: 2025-09-06
+date_key: 20250906
 sitemap:
-  lastmod: 2025-9-6
+  lastmod: 2025-09-06
 ---
 
 # &#128193; Introducing Media Folders!
