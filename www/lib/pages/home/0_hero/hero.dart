@@ -1,4 +1,5 @@
 import 'package:jaspr/jaspr.dart';
+import 'package:website/pages/home/0_hero/components/hero_pill.dart';
 
 import '../../../constants/theme.dart';
 
@@ -7,7 +8,6 @@ class Hero extends StatelessComponent {
   Component build(BuildContext context) {
     return section(id: "hero", [
       div([
-        // HeroPill(),
         h1(
           styles: Styles(
             alignItems: AlignItems.center,
@@ -53,6 +53,8 @@ class Hero extends StatelessComponent {
             ),
           ],
         ),
+        div(styles: Styles(height: 40.px), []),
+        HeroPill(),
       ]),
     ]);
   }

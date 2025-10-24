@@ -17,9 +17,11 @@ import 'package:website/components/theme_toggle.dart' as prefix8;
 import 'package:website/constants/theme.dart' as prefix9;
 import 'package:website/layout/footer.dart' as prefix10;
 import 'package:website/layout/header.dart' as prefix11;
-import 'package:website/pages/home/0_hero/hero.dart' as prefix12;
-import 'package:website/pages/home/1_meet/meet.dart' as prefix13;
-import 'package:website/pages/home/5_community/community.dart' as prefix14;
+import 'package:website/pages/home/0_hero/components/hero_pill.dart'
+    as prefix12;
+import 'package:website/pages/home/0_hero/hero.dart' as prefix13;
+import 'package:website/pages/home/1_meet/meet.dart' as prefix14;
+import 'package:website/pages/home/5_community/community.dart' as prefix15;
 
 /// Default [JasprOptions] for use with your jaspr project.
 ///
@@ -58,11 +60,11 @@ JasprOptions get defaultJasprOptions => JasprOptions(
     ...prefix9.root,
     ...prefix10.Footer.styles,
     ...prefix11.HeaderState.styles,
+    ...prefix12.HeroPill.styles,
+    ...prefix13.Hero.styles,
+    ...prefix14.Meet.styles,
 
-    ...prefix12.Hero.styles,
-    ...prefix13.Meet.styles,
-
-    ...prefix14.Community.styles,
+    ...prefix15.Community.styles,
   ],
 );
 

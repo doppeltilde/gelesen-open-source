@@ -11,14 +11,14 @@ class HeroPill extends StatelessComponent {
   Component build(BuildContext context) {
     return a(
       classes: 'hero-pill',
-      href: "https://marketplace.visualstudio.com/items?itemName=schultek.jaspr-code",
+      href: "https://blog.gelesen.app/blog/release-1-3-20/",
       target: Target.blank,
       [
         GradientBorder(
           radius: 17,
           fixed: true,
           child: div(classes: 'pill-content', [
-            text("Check out the official Jaspr VSCode Extension!"),
+            text("Gelesen 1.3.20 has landed! Learn more."),
             Icon('arrow-right'),
           ]),
         ),
@@ -32,7 +32,10 @@ class HeroPill extends StatelessComponent {
       css('&').styles(
         margin: Margin.only(bottom: 1.rem),
         radius: BorderRadius.circular(20.px),
-        raw: {'background': 'linear-gradient(175deg, ${primaryMid.value}05 0%, ${primaryMid.value}10 80%)'},
+        raw: {
+          'background':
+              'linear-gradient(175deg, ${primaryMid.value}05 0%, ${primaryMid.value}10 80%)',
+        },
       ),
       css('.pill-content').styles(
         display: Display.flex,
