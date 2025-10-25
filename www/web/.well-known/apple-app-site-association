@@ -13,11 +13,43 @@
                   "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                },
                {
+                  "/": "/n/*",
+                  "comment": "Matches any URL with a path that starts with /notification/."
+               },
+               {
+                  "/": "/notification/*",
+                  "comment": "Matches any URL with a path that starts with /notification/."
+               },
+               {
+                  "/": "/r/*",
+                  "comment": "Matches any URL with a path that starts with /report/."
+               },
+               {
+                  "/": "/report/*",
+                  "comment": "Matches any URL with a path that starts with /report/."
+               },
+               {
                   "/": "/s/*",
                   "comment": "Matches any URL with a path that starts with /story/."
                },
                {
+                  "/": "/story/*",
+                  "comment": "Matches any URL with a path that starts with /story/."
+               },
+               {
+                  "/": "/profile/*",
+                  "comment": "Matches any URL with a path that starts with /profile/."
+               }, 
+               {
                   "/": "/p/*",
+                  "comment": "Matches any URL with a path that starts with /profile/."
+               },
+               {
+                  "/": "/u/*",
+                  "comment": "Matches any URL with a path that starts with /profile/."
+               },
+               {
+                  "/": "/user/*",
                   "comment": "Matches any URL with a path that starts with /profile/."
                }
             ]
