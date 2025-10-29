@@ -64,6 +64,7 @@ We want to inform users of this Service that these third parties do not have acc
 Links to the privacy policy of third party service providers used by the application:
 - [Appwrite](https://appwrite.io/privacy)
 - [Google Services](https://policies.google.com/privacy)
+- [OpenAI](https://privacy.openai.com/policies)
 - [RevenueCat](https://www.revenuecat.com/privacy/)
 - [Sentry](https://sentry.io/privacy/)
 
@@ -71,6 +72,7 @@ Links to the privacy policy of single sign-on providers:
 
 - [Apple [Scopes: Email]](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
 - [Google [Scopes: Email]](https://policies.google.com/privacy?hl=en-US)
+- [Discord [Scopes: Email]](https://discord.com/privacy)
 
 #### 6. Security
 
@@ -133,4 +135,4 @@ We may update our privacy policy from time to time. You are advised to review th
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hello(at)doppeltilde.com
 
-Last Updated: 10/20/2025
+Last Updated: 10/29/2025
