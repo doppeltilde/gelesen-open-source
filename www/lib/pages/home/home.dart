@@ -8,7 +8,7 @@ class Home extends StatelessComponent {
   @override
   Component build(BuildContext context) {
     return fragment([
-      Document.head(title: 'Gelesen - Social Gaming Platform'),
+      Document.head(title: 'Gelesen: Chat Stories'),
       Hero(),
       Meet(),
       Community(),

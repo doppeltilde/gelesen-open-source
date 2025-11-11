@@ -9,7 +9,7 @@ void main() {
 
   runApp(
     Document(
-      title: 'Gelesen - Social Gaming Platform',
+      title: 'Gelesen: Chat Stories',
       lang: 'en',
       head: [
         link(rel: 'icon', type: 'image/x-icon', href: 'images/favicon.png'),
