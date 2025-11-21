@@ -19,4 +19,12 @@ todo
 - Other: Major behind-the-scenes fixes and improvements.
 
 
+||||
+|---|---|---|
+| ![Image 1](/images/1.4/splash.png) | ![Image 2](/images/1.4/onboarding.png) | ![Image 3](/images/1.4/create.png) |
+
+||||
+|---|---|---|
+| ![Image 4](/images/1.4/onboarding-chat.png) | ![Image 5](/images/1.4/onboarding-topic.png) | ![Image 5](/images/1.4/onboarding-role.png) |
+
 Download the update: [gelesen.app](https://gelesen.app)

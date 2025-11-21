@@ -101,10 +101,10 @@ packages:
     dependency: "direct dev"
     description:
       name: build_runner
-      sha256: "8cd45bdd6217138f4cfbaf6286c93f270ae4b3e2e281e69c904bd00cdf8aa626"
+      sha256: "110c56ef29b5eb367b4d17fc79375fa8c18a6cd7acd92c05bb3986c17a079057"
       url: "https://pub.dev"
     source: hosted
-    version: "2.10.0"
+    version: "2.10.4"
   built_collection:
     dependency: transitive
     description:
@@ -373,26 +373,26 @@ packages:
     dependency: "direct main"
     description:
       name: jaspr
-      sha256: "11f1ff59b18dae5fd430ce8a7f558b7541c2a89e599d329dfd7d0df2bffacb3e"
+      sha256: "366975ca6e6b138772444a7c09f4287ec4332e6b9178688647500ecc2cb158f5"
       url: "https://pub.dev"
     source: hosted
-    version: "0.21.6"
+    version: "0.21.7"
   jaspr_builder:
     dependency: "direct dev"
     description:
       name: jaspr_builder
-      sha256: "8ce64afd647433591b11905361101a00c41572de980f2ea67c7c90d552bc2173"
+      sha256: "7d3e309ef251a78fe398c290524661e407c8ccd3fdcef0d81739f28dcf96c577"
       url: "https://pub.dev"
     source: hosted
-    version: "0.21.6"
+    version: "0.21.7"
   jaspr_content:
     dependency: "direct main"
     description:
       name: jaspr_content
-      sha256: "93e41070b541131920b6b21839dc1cd10f004985fa39187c90eaab6843a9d3ff"
+      sha256: "955be1b9d1b178e5514eade3a65a765a814cb290f0acc2d77fc82e31229fef2e"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.2"
+    version: "0.4.4"
   jaspr_lints:
     dependency: "direct dev"
     description:
@@ -405,18 +405,18 @@ packages:
     dependency: "direct main"
     description:
       name: jaspr_router
-      sha256: "02916b896fd136b545478d290da686fca08aa2ba11b572eaba7bc7036a6d5d1e"
+      sha256: "6b02adc5212816e548f996e8cfc4156e689e4642611862b441fc840d7267673a"
       url: "https://pub.dev"
     source: hosted
-    version: "0.7.3"
+    version: "0.8.0"
   jaspr_web_compilers:
     dependency: "direct dev"
     description:
       name: jaspr_web_compilers
-      sha256: "24179ab5b48b6eb554bf23d5a697b2649ccfb4e1ebb8776eb292d39d01fe0229"
+      sha256: "3b4799d78763ef97e83b28f90b29309a4d5ad11e06cd36d49dfc1acf594bbc32"
       url: "https://pub.dev"
     source: hosted
-    version: "4.2.3+1"
+    version: "4.3.2+1"
   json_annotation:
     dependency: transitive
     description:
@@ -485,10 +485,10 @@ packages:
     dependency: transitive
     description:
       name: mustache_template
-      sha256: d9aa84d114368b7f1727b7014b85bb0b234daeafe1518824c82d32703b3964f6
+      sha256: daa42be75f2ccfb287c24a75e7ac594f2ea0b32bf9ebe7c15154aa45b2dfb2de
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.2"
   package_config:
     dependency: transitive
     description:
@@ -778,4 +778,4 @@ packages:
     source: hosted
     version: "3.1.3"
 sdks:
-  dart: ">=3.9.0 <3.10.0-z"
+  dart: ">=3.9.0 <3.11.0-z"

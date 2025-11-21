@@ -24,7 +24,7 @@ We collect information to provide a safe, engaging, and personalized gaming expe
 - **Cookies and Analytics:** To measure usage and improve performance.
 
 1.3. Third-Party Data
-If you connect your account with third-party platforms (e.g., Google, Apple, Facebook, or Discord), we may receive limited profile data such as name, email, or profile picture, in accordance with their respective privacy policies.
+If you connect your account with third-party platforms, we may receive limited profile data such as name, email, or profile picture, in accordance with their respective privacy policies.
 
 
 #### 2. How We Use Your Information
@@ -46,10 +46,10 @@ We **do not sell your personal data**. We may share information only in the foll
 - **Business Transfers:** If we merge, sell, or reorganize parts of our business, user data may be transferred as part of that transaction.
 
 #### 4. Advertising and Analytics
-We may show **contextual or personalized ads** using third-party networks (e.g., Google AdMob).
+We may show **contextual or personalized ads** using third-party networks.
 You can opt out of personalized ads in your device settings (Limit Ad Tracking on iOS or Ads Personalization on Android).
 
-Analytics tools (e.g., Firebase, Appwrite, Aptabase) may collect anonymous usage data to help us understand engagement and improve performance.
+Analytics tools may collect anonymous usage data to help us understand engagement and improve performance.
 
 #### 5. Service Providers
 
@@ -73,6 +73,7 @@ Links to the privacy policy of single sign-on providers:
 - [Apple [Scopes: Email]](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
 - [Google [Scopes: Email]](https://policies.google.com/privacy?hl=en-US)
 - [Discord [Scopes: Email]](https://discord.com/privacy)
+- [X [Scopes: Email]](https://privacy.x.com/en)
 
 #### 6. Security
 
@@ -84,7 +85,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 #### 8. Children’s Privacy
 
-Our Service is not directed toward children under the age of **13 (or 16 in the EU)**.  
+Our Service is not directed toward children under the age of **13 (or 16 in the EU)**.
 If we become aware that a child has provided personal data without parental consent, we will remove it promptly.
 
 #### 9. Age Assurance
@@ -135,4 +136,4 @@ We may update our privacy policy from time to time. You are advised to review th
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hello(at)doppeltilde.com
 
-Last Updated: 10/29/2025
+Last Updated: 11/21/2025
