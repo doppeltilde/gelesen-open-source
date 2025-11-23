@@ -10,12 +10,12 @@ sitemap:
 ## What's new?
 - New: A completely new onboarding flow.
 - New: The ”Wall Posts” feature is now available, giving you the ability to keep followers up to date with story progress or just general updates.
-- New: Instead of downloading all story data (images, sounds, videos) they are now fetched on demand.
+- New: Instead of downloading all images they are now fetched on demand.
 - Improvement: An entire overhaul of how stories are displayed.
 - Improvement: Expanded the in-app notification screen.
 - Improvement: Expanded the blocklist and made it more prominent in the ”More” section.
 - Improvement: Reduced the app startup time.
-todo
+- Warning: Android 10 is the minimum supported version.
 - Other: Major behind-the-scenes fixes and improvements.
 
 
