@@ -15,7 +15,7 @@ sitemap:
 - Improvement: Expanded the in-app notification screen.
 - Improvement: Expanded the blocklist and made it more prominent in the ”More” section.
 - Improvement: Reduced the app startup time.
-- Warning: Android 10 is the minimum supported version.
+- Warning: Android 9 (Pie) is the minimum supported version.
 - Other: Major behind-the-scenes fixes and improvements.
 
 
