@@ -1,10 +1,10 @@
 ---
 title: Release 1.4.0
 description: Gelesen Release 1.4.0
-date: 2025-11-30
-date_key: 20251130
+date: 2025-11-23
+date_key: 20251123
 sitemap:
-  lastmod: 2025-11-30
+  lastmod: 2025-11-23
 ---
 
 ## What's new?

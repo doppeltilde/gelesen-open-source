@@ -136,4 +136,4 @@ We may update our privacy policy from time to time. You are advised to review th
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hello(at)doppeltilde.com
 
-Last Updated: 11/21/2025
+Last Updated: 11/23/2025
