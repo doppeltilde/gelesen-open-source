@@ -11,14 +11,14 @@ class HeroPill extends StatelessComponent {
   Component build(BuildContext context) {
     return a(
       classes: 'hero-pill',
-      href: "https://blog.gelesen.app/blog/release-1-3-20/",
+      href: "https://blog.gelesen.app/blog/release-1-4-0/",
       target: Target.blank,
       [
         GradientBorder(
           radius: 17,
           fixed: true,
           child: div(classes: 'pill-content', [
-            text("Gelesen 1.3.20 has landed! Learn more."),
+            text("Gelesen 1.4 has landed! Learn more."),
             Icon('arrow-right'),
           ]),
         ),
