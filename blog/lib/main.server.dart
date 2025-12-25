@@ -7,11 +7,11 @@ import 'package:jaspr_content/components/theme_toggle.dart';
 import 'package:jaspr_content/jaspr_content.dart';
 import 'package:jaspr_content/theme.dart';
 
-import 'jaspr_options.dart';
+import 'main.server.options.dart';
 
 void main() {
   Jaspr.initializeApp(
-    options: defaultJasprOptions,
+    options: defaultServerOptions,
   );
 
   runApp(
@@ -42,6 +42,7 @@ void main() {
               SidebarGroup(
                 title: 'Blog Posts',
                 links: [
+                  SidebarLink(text: "Release 1.5", href: '/blog/release-1-5-0'),
                   SidebarLink(text: "Release 1.4.3", href: '/blog/release-1-4-3'),
                   SidebarLink(text: "Release 1.4", href: '/blog/release-1-4-0'),
                   SidebarLink(text: "Release 1.3.20", href: '/blog/release-1-3-20'),
