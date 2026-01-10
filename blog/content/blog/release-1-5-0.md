@@ -21,7 +21,7 @@ sitemap:
 ## What's fixed?
 - Fixed an issue where downloading a cloud save would not show its media files.
 - Fixed an issue where you could ”speedrun” the chat when using the enter button on the keyboard.
-- Performance imporvements for older and low end android devices.
+- Performance improvements for older and low end android devices.
 - When accessing your sessions you're prompted for biometrics first.
 
 

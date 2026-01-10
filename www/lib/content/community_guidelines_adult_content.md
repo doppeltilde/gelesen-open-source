@@ -27,25 +27,52 @@ The following types of content are strictly prohibited and will be subject to im
     - AI-generated or animated depictions involving non-human entities (animals, monsters, etc.) in sexual contexts, or simulations of non-consensual acts, are not permitted.
 
 #### Section 2: Restricted Content
-The following types of content, while not strictly prohibited, are subject to restrictions to ensure a safe and age-appropriate experience for all users.
+The following types of content, while not strictly prohibited, are subject to restrictions to ensure a safe, age-appropriate, and legally compliant experience for all users. All restricted content must adhere to mandatory labeling, age-gating, and platform controls. Violations may result in content removal, account restrictions, suspension, or permanent termination, depending on severity and recurrence.
 
 - **Sexually Explicit Content**
-    - Content depicting real or simulated sexual acts, including intercourse, oral sex, and masturbation. This content must be clearly labeled as "Adult Content", "Sensitive Content", or "NSFW Content".
+
+    Content depicting real or simulated sexual acts, including intercourse, oral sex, masturbation, or use of sex toys in a sexual context.
+
+    - This content must be clearly and automatically labeled as "Adult Content," "Sensitive Content," or "NSFW Content."
+    - It requires mandatory age-gating (18+ verification where legally required or technically feasible).
+    - Unlabeled or improperly displayed content will be removed within 48 hours of detection or valid report.
 
 - **Nudity & Partial Nudity**
-    - Depictions of nudity are permissible for adult audiences. This content must be age labeled correctly depending on its intensity and context. Context will be considered, with artistic and educational depictions subject to review.
+
+    Depictions of full or partial nudity, including exposed genitals, anus, buttocks, female nipples, or close-ups thereof.
+    
+    - Permissible for adult audiences when consensual and properly contextualized.
+    - Content must be age-labeled according to intensity and context (e.g., full nudity requires stricter gating than partial).
+    - Artistic, educational, documentary, or newsworthy depictions are subject to case-by-case review but must remain non-gratifying and non-exploitative.
+    - Labeling and age-gating are mandatory; failure triggers automatic enforcement.
 
 - **Sexually Suggestive Content**
-    - Content that is not sexually explicit but is intended to be sexually provocative. This content may be subject to age-gating and labeling requirements depending on its intensity and context.
+
+    Content that is not sexually explicit but is intended to be sexually provocative (e.g., provocative poses, attire emphasizing arousal, or implied sexual themes).
+
+    - May be subject to age-gating and labeling requirements, depending on intensity and context.
+    - Threshold-based assessment applies: minor-adjacent or exploitative suggestive content is prohibited.
+    - Users may opt out via platform-wide content filters.
 
 - **AI-Generated Adult Content**
 
     AI-generated imagery, audio, or video must follow the same standards as human-created content.
 
-    - Hyper-realistic depictions of non-consenting or fictional individuals are forbidden.
-    - Use of AI to create or distribute CSAM is treated identically to real CSAM.
-    - Creators must disclose when content is AI-generated.
+    - Hyper-realistic depictions of non-consenting or real identifiable individuals are strictly forbidden (including deepfakes or "nudification" tools).
+    - Use of AI to create or distribute Child Sexual Abuse Material (CSAM) is treated identically to real CSAM and reported to authorities.
+    - Creators must disclose when content is AI-generated (e.g., via visible metadata, watermarks, or explicit captions).
     - Datasets used for training or generation must not include non-consensual sources.
+    - Platforms apply proactive detection tools (e.g., classifiers) to identify and restrict non-compliant AI outputs.
+
+- **Additional Platform-Wide Requirements and Protections**
+
+    - **Age Verification and User Controls**
+
+        Where required by law (e.g., in jurisdictions mandating age assurance for adult content), users must verify age (18+) via reliable methods before accessing restricted material. All users may opt out of viewing restricted content through customizable filters. Accounts without verified age or birth date are default-restricted from such content.
+
+    - **Non-Consensual and Deepfake Content**
+
+        Any non-consensual intimate visual depictions (including authentic images or digital forgeries/deepfakes) are prohibited. You can report such content either through the in-app report system or by writing an email **[takeitdown@doppeltilde.com](mailto:takeitdown@doppeltilde.com)**, with removal required within 48 hours of valid notice and reasonable efforts to remove duplicates (in alignment with applicable laws such as the TAKE IT DOWN Act).
 
 #### Section 3: Creator Responsibilities
 All content creators are expected to adhere to the following standards:
@@ -93,4 +120,4 @@ Even in adult contexts, respectful conduct is required.
 
 This community guideline serves as a living document and will be periodically reviewed and updated to reflect evolving community standards, new technologies, and changes in the legal and regulatory landscape. By working together, Gelesen and its community can create a thriving and responsible space for adult content.
 
-Last updated: 10/20/2025
+Last updated: 01/10/2026
