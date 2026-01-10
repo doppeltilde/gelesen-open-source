@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../constants/theme.dart';
@@ -12,7 +13,7 @@ class MenuButton extends StatelessComponent {
 
   @override
   Component build(BuildContext context) {
-    return fragment([
+    return Component.fragment([
       button(
         classes: 'menu-toggle',
         attributes: {'aria-label': 'Menu Toggle'},

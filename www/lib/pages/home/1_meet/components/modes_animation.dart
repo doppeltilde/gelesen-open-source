@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:universal_web/web.dart';
 
@@ -73,7 +74,7 @@ class ModesAnimationState extends State<ModesAnimation> {
   Component build(BuildContext context) {
     var t = texts[index].$1;
     return span(styles: Styles(whiteSpace: WhiteSpace.noWrap), [
-      text(t.substring(0, characters)),
+      Component.text(t.substring(0, characters)),
     ]);
   }
 }

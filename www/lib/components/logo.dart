@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../constants/theme.dart';
@@ -38,7 +39,7 @@ class LogoState extends State<Logo> {
           fontSize: 25.px,
           padding: Spacing.only(bottom: 12.px),
         ),
-        [text('GELESEN')],
+        [Component.text('GELESEN')],
       ),
     ]);
   }

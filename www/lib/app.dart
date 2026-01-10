@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_router/jaspr_router.dart';
 
@@ -16,7 +17,7 @@ class App extends StatelessComponent {
       routes: [
         Route(
           path: '/',
-          builder: (_, __) => fragment([
+          builder: (_, __) => Component.fragment([
             //  Banner(),
             Header(),
             main_([Home()]),

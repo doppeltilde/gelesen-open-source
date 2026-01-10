@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../../../components/link_button.dart';
@@ -9,12 +10,12 @@ class Community extends StatelessComponent {
   @override
   Component build(BuildContext context) {
     return section(id: 'community', [
-      h2([text('Join the Community')]),
+      h2([Component.text('Join the Community')]),
       div(classes: 'community-card', [
         div([
-          h4([text('Discord')]),
+          h4([Component.text('Discord')]),
           p([
-            text(
+            Component.text(
               'Have any suggestions, feedback or just want to chat? Join our Discord community.',
             ),
           ]),

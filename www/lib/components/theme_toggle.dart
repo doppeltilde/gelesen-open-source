@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:universal_web/web.dart' as web;
 
@@ -25,7 +26,7 @@ class ThemeToggleState extends State<ThemeToggle> {
 
   @override
   Component build(BuildContext context) {
-    return fragment([
+    return Component.fragment([
       if (kIsWeb)
         Document.html(attributes: {'class': isDark ? 'dark' : 'light'})
       else
@@ -36,7 +37,7 @@ class ThemeToggleState extends State<ThemeToggle> {
               id: 'theme-script',
               tag: 'script',
               children: [
-                raw('''
+                RawText('''
             let userTheme = window.localStorage.getItem('active-theme');
             if (userTheme != null) {
               document.documentElement.className = userTheme;

@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../components/logo.dart';
@@ -13,21 +14,21 @@ class Footer extends StatelessComponent {
         div([
           Logo(),
           span(classes: 'created-by', [
-            text('By '),
+            Component.text('By '),
             a(href: 'https://doppeltilde.com', classes: 'animated-underline', [
-              text('Doppeltilde'),
+              Component.text('Doppeltilde'),
             ]),
           ]),
         ]),
         div([
-          h5([text('Community')]),
+          h5([Component.text('Community')]),
           ul([
             li([
               a(
                 href: 'https://discord.gg/dSC639j3up',
                 target: Target.blank,
                 classes: 'animated-underline',
-                [text('Discord')],
+                [Component.text('Discord')],
               ),
             ]),
             li([
@@ -35,7 +36,7 @@ class Footer extends StatelessComponent {
                 href: 'https://github.com/doppeltilde/gelesen-open-source',
                 target: Target.blank,
                 classes: 'animated-underline',
-                [text('Open Source')],
+                [Component.text('Open Source')],
               ),
             ]),
             li([
@@ -43,41 +44,41 @@ class Footer extends StatelessComponent {
                 href: 'https://blog.gelesen.app',
                 target: Target.blank,
                 classes: 'animated-underline',
-                [text('Blog')],
+                [Component.text('Blog')],
               ),
             ]),
           ]),
         ]),
         div([
-          h5([text('Legal')]),
+          h5([Component.text('Legal')]),
           ul([
             li([
               a(href: '/terms-of-service', classes: 'animated-underline', [
-                text('Terms of Service'),
+                Component.text('Terms of Service'),
               ]),
             ]),
             li([
               a(href: '/privacy-policy', classes: 'animated-underline', [
-                text('Privacy Policy'),
+                Component.text('Privacy Policy'),
               ]),
             ]),
             li([
               a(href: '/community-guidelines', classes: 'animated-underline', [
-                text('Community Guidelines'),
+                Component.text('Community Guidelines'),
               ]),
             ]),
           ]),
         ]),
       ]),
       div(classes: 'footer-banner', [
-        text('Copyright © 2025 '),
+        Component.text('Copyright © 2025 '),
         a(href: 'https://doppeltilde.com', classes: 'animated-underline', [
-          raw('Doppeltilde'),
+          RawText('Doppeltilde'),
         ]),
-        raw(' | All rights reserved.'),
+        RawText(' | All rights reserved.'),
         div([
           a(href: "https://jaspr.site", classes: 'animated-underline', [
-            raw('Built with Jaspr'),
+            RawText('Built with Jaspr'),
           ]),
         ]),
       ]),

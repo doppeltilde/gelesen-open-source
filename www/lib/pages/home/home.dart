@@ -7,7 +7,7 @@ import '5_community/community.dart';
 class Home extends StatelessComponent {
   @override
   Component build(BuildContext context) {
-    return fragment([
+    return Component.fragment([
       Document.head(title: 'Gelesen: Chat Stories'),
       Hero(),
       Meet(),

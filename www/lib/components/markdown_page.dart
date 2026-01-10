@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:markdown/markdown.dart';
 
@@ -18,9 +19,9 @@ class MarkdownPage extends StatelessComponent {
     final content = file.readAsStringSync();
     final html = markdownToHtml(content);
 
-    return fragment([
+    return Component.fragment([
       Header(showHome: true),
-      main_(classes: 'markdown-content', [raw(html)]),
+      main_(classes: 'markdown-content', [RawText(html)]),
       Footer(),
     ]);
   }

@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:universal_web/web.dart' as web;
 
@@ -53,10 +54,10 @@ class HeaderState extends State<Header> {
 
   @override
   Component build(BuildContext context) {
-    var content = fragment(key: contentKey, [
+    var content = Component.fragment(key: contentKey, [
       nav([
         if (component.showHome)
-          a(href: '/', classes: 'animated-underline', [text("Home")]),
+          a(href: '/', classes: 'animated-underline', [Component.text("Home")]),
       ]),
       div(classes: 'header-actions', [
         ThemeToggle(),

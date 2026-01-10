@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../../../../components/gradient_border.dart';
@@ -18,7 +19,7 @@ class HeroPill extends StatelessComponent {
           radius: 17,
           fixed: true,
           child: div(classes: 'pill-content', [
-            text("Gelesen 1.4 has landed! Learn more."),
+            Component.text("Gelesen 1.4 has landed! Learn more."),
             Icon('arrow-right'),
           ]),
         ),

@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 // Colors
@@ -287,7 +288,7 @@ List<StyleRule> get root => [
     css('&').styles(
       transition: Transition(
         'background-size',
-        duration: 300,
+        duration: Duration(milliseconds: 300),
         curve: Curve.easeInOut,
       ),
       backgroundPosition: BackgroundPosition(

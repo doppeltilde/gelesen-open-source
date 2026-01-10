@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../constants/theme.dart';
@@ -12,12 +13,12 @@ class Banner extends StatelessComponent {
       attributes: {'role': 'alert'},
       [
         p([
-          text('🚀 Gelesen 1.4.0 has landed! '),
+          Component.text('🚀 Gelesen 1.4.0 has landed! '),
           a(
             classes: 'animated-underline',
             href: 'https://blog.gelesen.app',
             target: Target.blank,
-            [text('Learn more')],
+            [Component.text('Learn more')],
           ),
         ]),
       ],

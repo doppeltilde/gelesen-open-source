@@ -1,9 +1,15 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../constants/theme.dart';
 
 class GradientBorder extends StatelessComponent {
-  const GradientBorder({required this.child, this.radius = 4, this.fixed = false, super.key});
+  const GradientBorder({
+    required this.child,
+    this.radius = 4,
+    this.fixed = false,
+    super.key,
+  });
 
   final Component child;
   final int radius;
@@ -19,11 +25,35 @@ class GradientBorder extends StatelessComponent {
             children: [
               Component.element(
                 tag: 'linearGradient',
-                attributes: {'id': 'linear', 'x1': '0%', 'y1': '0%', 'x2': '100%', 'y2': '100%'},
+                attributes: {
+                  'id': 'linear',
+                  'x1': '0%',
+                  'y1': '0%',
+                  'x2': '100%',
+                  'y2': '100%',
+                },
                 children: [
-                  Component.element(tag: 'stop', attributes: {'offset': '0%', 'stop-color': primaryDark.value}),
-                  Component.element(tag: 'stop', attributes: {'offset': '50%', 'stop-color': primaryMid.value}),
-                  Component.element(tag: 'stop', attributes: {'offset': '100%', 'stop-color': primaryLight.value}),
+                  Component.element(
+                    tag: 'stop',
+                    attributes: {
+                      'offset': '0%',
+                      'stop-color': primaryDark.value,
+                    },
+                  ),
+                  Component.element(
+                    tag: 'stop',
+                    attributes: {
+                      'offset': '50%',
+                      'stop-color': primaryMid.value,
+                    },
+                  ),
+                  Component.element(
+                    tag: 'stop',
+                    attributes: {
+                      'offset': '100%',
+                      'stop-color': primaryLight.value,
+                    },
+                  ),
                 ],
               ),
             ],
@@ -55,16 +85,29 @@ class GradientBorder extends StatelessComponent {
       css('&').styles(position: Position.relative(), height: 100.percent),
       css('.gradient-border', [
         css('&').styles(
-          position: Position.absolute(top: (-1).px, left: (-1).px, right: (-1).px, bottom: (-1).px),
+          position: Position.absolute(
+            top: (-1).px,
+            left: (-1).px,
+            right: (-1).px,
+            bottom: (-1).px,
+          ),
         ),
         css('svg').styles(overflow: Overflow.visible),
       ]),
       css('rect').styles(
-        transition: Transition('stroke-dasharray', duration: 300, curve: Curve.easeOut),
+        transition: Transition(
+          'stroke-dasharray',
+          duration: Duration(milliseconds: 300),
+          curve: Curve.easeOut,
+        ),
         raw: {'stroke-dasharray': '0 101'},
       ),
-      css('&:hover rect, &.fixed rect').styles(raw: {'stroke-dasharray': '50 0 52'}),
+      css(
+        '&:hover rect, &.fixed rect',
+      ).styles(raw: {'stroke-dasharray': '50 0 52'}),
     ]),
-    css('.active .gradient-border rect').styles(raw: {'stroke-dasharray': '50 0 52'}),
+    css(
+      '.active .gradient-border rect',
+    ).styles(raw: {'stroke-dasharray': '50 0 52'}),
   ];
 }

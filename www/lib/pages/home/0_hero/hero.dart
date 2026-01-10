@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:website/pages/home/0_hero/components/hero_pill.dart';
 
@@ -17,7 +18,7 @@ class Hero extends StatelessComponent {
             fontWeight: FontWeight.bold,
             letterSpacing: 1.px,
           ),
-          [text("An exciting way to play chat stories")],
+          [Component.text("An exciting way to play chat stories")],
         ),
         p(
           styles: Styles(
@@ -29,7 +30,7 @@ class Hero extends StatelessComponent {
             letterSpacing: .5.px,
           ),
           [
-            text(
+            Component.text(
               'Craft immersive stories shaped by choices, then share your creations to let others experience them.',
             ),
           ],

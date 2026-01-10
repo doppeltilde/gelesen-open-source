@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../../../constants/theme.dart';
@@ -10,9 +11,9 @@ class Meet extends StatelessComponent {
     return section(id: 'meet', [
       div(classes: 'meet-section meet-modes', [
         div(classes: "meet-text", [
-          h3([text('Create & explore stories')]),
+          h3([Component.text('Create & explore stories')]),
           p([
-            text(
+            Component.text(
               'Create your own stories, publish them to ”Story World” and let others play through them, or explore community created stories. '
               'Your choices shape the story and the fate of the protagonist.',
             ),
@@ -61,9 +62,9 @@ class Meet extends StatelessComponent {
           ),
         ]),
         div(classes: "meet-text", [
-          h3(classes: 'select-target-1', [text('Simulated typing & dialogue')]),
+          h3(classes: 'select-target-1', [Component.text('Simulated typing & dialogue')]),
           p(classes: 'select-target-2', [
-            text(
+            Component.text(
               'Use the simulated keyboard to type out responses, '
               'or select from a curated choices list '
               "to truly feel like you're texting the person. "
@@ -74,9 +75,9 @@ class Meet extends StatelessComponent {
       ]),
       div(classes: 'meet-section meet-modes', [
         div(classes: "meet-text", [
-          h3([text('Craft captivating narratives')]),
+          h3([Component.text('Craft captivating narratives')]),
           p([
-            text(
+            Component.text(
               "Craft interactive, chat-style stories where every choice shapes the outcome. Build characters and plotlines that respond to your reader, making each path feel personal and engaging.",
             ),
           ]),

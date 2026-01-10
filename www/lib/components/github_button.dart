@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 import '../constants/theme.dart';
@@ -58,13 +59,17 @@ class GitHubButtonState extends State<GitHubButton> {
       [
         Icon('custom-github', size: 1.2.rem),
         div([
-          span([text('Open Source')]),
+          span([Component.text('Open Source')]),
           span([
             Icon('star'),
-            span(styles: !loaded ? Styles(opacity: 0) : null, [text('$stars')]),
+            span(styles: !loaded ? Styles(opacity: 0) : null, [
+              Component.text('$stars'),
+            ]),
             span([]),
             Icon('git-fork'),
-            span(styles: !loaded ? Styles(opacity: 0) : null, [text('$forks')]),
+            span(styles: !loaded ? Styles(opacity: 0) : null, [
+              Component.text('$forks'),
+            ]),
           ]),
         ]),
       ],
@@ -88,7 +93,7 @@ class GitHubButtonState extends State<GitHubButton> {
       css('& *').styles(
         transition: Transition(
           'opacity',
-          duration: 200,
+          duration: Duration(milliseconds: 200),
           curve: Curve.easeInOut,
         ),
       ),

@@ -1,3 +1,4 @@
+import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 
 class Icon extends StatelessComponent {
@@ -17,7 +18,7 @@ class Icon extends StatelessComponent {
           styles: Styles(height: size ?? 1.2.em),
         ),
       );
-      return fragment(children);
+      return Component.fragment(children);
     }
     children.add(
       i(
@@ -26,7 +27,7 @@ class Icon extends StatelessComponent {
         [],
       ),
     );
-    return fragment(children);
+    return Component.fragment(children);
   }
 
   @css
