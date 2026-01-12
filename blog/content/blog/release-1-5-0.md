@@ -8,7 +8,6 @@ sitemap:
 ---
 
 ## What's new?
-- Gelesen Web is now in early access. -> [web.gelesen.app](https://web.gelesen.app)
 - Migrated the database engine to SQLite, existing story data is migrated fully in the background without you having to do anything.
 - Merged the Chat and Visual Novel themes.
 - You can now set a custom profile picture and name for a message.

@@ -30,7 +30,7 @@ We encourage constructive discussions, but always keep them civil.
     - Please refer to our **[adult content guidelines](https://gelesen.app/community-guidelines-adult-content)**.
 
 #### 4. Reporting
-We encourage users to report violations through the app. If you encounter any behavior that violates our guidelines, report it. We may not notify you about every enforcement action for privacy reasons.
+We encourage users to report violations through the reporting system. If you encounter any behavior that violates our guidelines, report it. We may not notify you about every enforcement action for privacy reasons.
 
 #### 5. Restrictions
 If you’re under 18, use the platform responsibly. If you interact with minors, you must act appropriately and lawfully at all times. We have zero tolerance for grooming, exploitation, or any inappropriate conduct involving minors. Such actions may be reported to authorities.

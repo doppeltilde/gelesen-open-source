@@ -1,6 +1,6 @@
-# Algorithm Reference Sheet
+# Formula Reference Sheet
 
-This document outlines key formulas in use or for future use in the Gelesen App.
+This document outlines key algorithms and formulas in use or for future use in the Gelesen App.
 
 ---
 

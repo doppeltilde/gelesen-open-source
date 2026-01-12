@@ -71,7 +71,7 @@ class Footer extends StatelessComponent {
         ]),
       ]),
       div(classes: 'footer-banner', [
-        Component.text('Copyright © 2025 '),
+        Component.text('Copyright © 2026 '),
         a(href: 'https://doppeltilde.com', classes: 'animated-underline', [
           RawText('Doppeltilde'),
         ]),

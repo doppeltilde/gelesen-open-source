@@ -1,13 +1,12 @@
 ### COMMUNITY GUIDELINES - ADULT CONTENT
 
-
 #### Core Principles
 At the heart of these guidelines are four fundamental principles:
 
-- Safety and Legality: All content must adhere to applicable laws and regulations. Gelesen has a zero-tolerance policy for illegal content and activities.
-- Consent: All participants in adult content must be of legal age and have provided their free, enthusiastic, and ongoing consent.
-- Transparency: The rules governing adult content are clearly defined, publicly accessible, and consistently enforced.
-- Age Assurance: Robust mechanisms are in place to verify the age of users before accessing and contributing to adult content.
+- **Safety and Legality**: All content must adhere to applicable laws and regulations. Gelesen has a zero-tolerance policy for illegal content and activities.
+- **Consent**: All participants in adult content must be of legal age and have provided their free, enthusiastic, and ongoing consent.
+- **Transparency**: The rules governing adult content are clearly defined, publicly accessible, and consistently enforced.
+- **Age Assurance**: Robust mechanisms are in place to verify the age of users before accessing and contributing to adult content.
 
 #### Section 1: Prohibited Content
 The following types of content are strictly prohibited and will be subject to immediate removal, with corresponding accounts facing penalties, including permanent suspension.
@@ -19,10 +18,11 @@ The following types of content are strictly prohibited and will be subject to im
     - Any content that depicts sexual acts or nudity without the explicit and ongoing consent of all participants. This includes, but is not limited to, "revenge porn" and unauthorized distribution of private images.
 
 - **Paraphilia & Fetish Content**
-    - All paraphilias and fetishes are prohibited on Gelesen unless explicitly allowed or tolerated by us. This means that content depicting, promoting, or discussing any paraphilia or fetish is generally not permitted. We reserve the sole right to determine what content falls under this prohibition and what, if anything, may be explicitly allowed or tolerated. Any such explicit allowances will be clearly communicated through our official channels.
+    - All paraphilias and fetishes are default prohibited on Gelesen unless explicitly allowed or tolerated by us. This means that content depicting, promoting, or discussing any paraphilia or fetish is generally not permitted. We reserve the sole right to determine what content falls under this prohibition and what, if anything, may be explicitly allowed or tolerated. Any such explicit allowances will be clearly communicated through our official channels.
 
 - **Violence and Harm**
     - Content that depicts or incites extreme violence, sexual assault, torture, or any form of physical or psychological harm to individuals or animals.
+
 - **Non-Human or Non-Consensual Simulation**
     - AI-generated or animated depictions involving non-human entities (animals, monsters, etc.) in sexual contexts, or simulations of non-consensual acts, are not permitted.
 
@@ -44,7 +44,7 @@ The following types of content, while not strictly prohibited, are subject to re
     - Permissible for adult audiences when consensual and properly contextualized.
     - Content must be age-labeled according to intensity and context (e.g., full nudity requires stricter gating than partial).
     - Artistic, educational, documentary, or newsworthy depictions are subject to case-by-case review but must remain non-gratifying and non-exploitative.
-    - Labeling and age-gating are mandatory; failure triggers automatic enforcement.
+    - Labeling and age-gating requirements are mandatory. Non-compliance will result in the automatic application of enforcement measures.
 
 - **Sexually Suggestive Content**
 
@@ -61,32 +61,31 @@ The following types of content, while not strictly prohibited, are subject to re
     - Hyper-realistic depictions of non-consenting or real identifiable individuals are strictly forbidden (including deepfakes or "nudification" tools).
     - Use of AI to create or distribute Child Sexual Abuse Material (CSAM) is treated identically to real CSAM and reported to authorities.
     - Creators must disclose when content is AI-generated (e.g., via visible metadata, watermarks, or explicit captions).
-    - Datasets used for training or generation must not include non-consensual sources.
-    - Platforms apply proactive detection tools (e.g., classifiers) to identify and restrict non-compliant AI outputs.
+    - Datasets used for training or generation must not include non-consensual and/or CSAM sources.
 
 - **Additional Platform-Wide Requirements and Protections**
 
     - **Age Verification and User Controls**
 
-        Where required by law (e.g., in jurisdictions mandating age assurance for adult content), users must verify age (18+) via reliable methods before accessing restricted material. All users may opt out of viewing restricted content through customizable filters. Accounts without verified age or birth date are default-restricted from such content.
+        Where required by law (e.g., in jurisdictions mandating age assurance for adult content), users must verify age (18+) via reliable methods before accessing restricted material. All users may opt out anytime of viewing restricted content through customizable filters. Accounts without verified age or birth date are default-restricted from such content.
 
     - **Non-Consensual and Deepfake Content**
 
-        Any non-consensual intimate visual depictions (including authentic images or digital forgeries/deepfakes) are prohibited. You can report such content either through the in-app report system or by writing an email **[takeitdown@doppeltilde.com](mailto:takeitdown@doppeltilde.com)**, with removal required within 48 hours of valid notice and reasonable efforts to remove duplicates (in alignment with applicable laws such as the TAKE IT DOWN Act).
+        Any non-consensual intimate visual depictions (including authentic images or digital forgeries/deepfakes) are prohibited. You can report such content either through the report system or by writing an email to **[takeitdown@doppeltilde.com](mailto:takeitdown@doppeltilde.com)**, with removal required within 48 hours of valid notice and reasonable efforts to remove duplicates (in alignment with applicable laws such as the **[TAKE IT DOWN Act](https://www.congress.gov/bill/119th-congress/senate-bill/146/text)**).
 
 #### Section 3: Creator Responsibilities
 All content creators are expected to adhere to the following standards:
 
 - **Accurate Labeling and Tagging**
-    - Accurate Labeling and Tagging: Creators are responsible for accurately labeling their content as "Adult Content", "Sensitive Content", or "NSFW Content" and using appropriate tags to describe its nature.
+    - Accurate Labeling and Tagging: Creators are responsible for accurately labeling their content as "Adult", "Sensitive", "18+", and/or "NSFW" and using appropriate tags to describe its nature.
     - Misleading or inaccurate labeling will result in enforcement action.
 
 - **Verification and Record-Keeping**
-    - Creators must verify the age and consent of all individuals appearing in their works and maintain records in compliance with local laws (e.g., 18 U.S.C. § 2257 US-style obligations, where applicable).
+    - Creators must verify the age and consent of all individuals appearing in their works and maintain records in compliance with applicable laws (e.g., 18 U.S.C. § 2257 US-style obligations).
 
 - **Professional Conduct**
-    - All creators must interact respectfully with fans, collaborators, and moderators.
-    - Harassment, coercion, or manipulative practices toward others are grounds for removal from adult spaces.
+    - All creators must interact respectfully with all members of the community and the Gelesen team.
+    - Harassment, coercion, or manipulative practices toward others are grounds for removal.
 
 - **Cooperation and Reporting**
     - Creators are expected to report violations such as CSAM, non-consensual uploads, or impersonation.
@@ -101,12 +100,9 @@ All content creators are expected to adhere to the following standards:
     3. Account suspension or permanent ban
     4. Referral to authorities
 
-- **Transparency Reports**
-    - Periodic transparency reports will summarize enforcement volumes, categories, and outcomes.
-
 - **Appeals Process**
     - Users may appeal moderation decisions within 14 days of enforcement.
-    - All appeals are reviewed manually by trained moderators. Repeated violations may result in permanent loss of privileges.
+    - All appeals are evaluated individually by the moderation team. Repeated violations of our policies may lead to the permanent suspension of account privileges.
 
 #### Section 5: Community Behavior & Private Spaces
 Even in adult contexts, respectful conduct is required.
@@ -120,4 +116,4 @@ Even in adult contexts, respectful conduct is required.
 
 This community guideline serves as a living document and will be periodically reviewed and updated to reflect evolving community standards, new technologies, and changes in the legal and regulatory landscape. By working together, Gelesen and its community can create a thriving and responsible space for adult content.
 
-Last updated: 01/10/2026
+Last updated: 01/12/2026
