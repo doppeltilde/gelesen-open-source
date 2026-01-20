@@ -10,6 +10,7 @@ sitemap:
 ## What's new?
 - Migrated the database engine to SQLite, existing story data is migrated fully in the background without you having to do anything.
 - Merged the Chat and Visual Novel themes.
+- When editing text it is now more inline with iOS 26 iMessage editing.
 - You can now set a custom profile picture and name for a message.
 - Coins are no longer required to upload, search, and download media files, when using the Creator.
 - When accessing your sessions you're prompted for biometrics first.
