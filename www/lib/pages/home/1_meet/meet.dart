@@ -62,7 +62,9 @@ class Meet extends StatelessComponent {
           ),
         ]),
         div(classes: "meet-text", [
-          h3(classes: 'select-target-1', [Component.text('Simulated typing & dialogue')]),
+          h3(classes: 'select-target-1', [
+            Component.text('Simulated typing & dialogue'),
+          ]),
           p(classes: 'select-target-2', [
             Component.text(
               'Use the simulated keyboard to type out responses, '
@@ -145,7 +147,7 @@ class Meet extends StatelessComponent {
               bottom: (-10).px,
             ),
             zIndex: ZIndex(-1),
-            border: Border(color: primaryLight, width: 1.px),
+            border: Border.all(color: primaryLight, width: 1.px),
             radius: BorderRadius.circular(8.px),
             backgroundColor: primaryFaded,
           ),
@@ -164,7 +166,7 @@ class Meet extends StatelessComponent {
             right: (-16).px,
           ),
           height: 3.2.em,
-          border: Border(color: primaryLight, width: 2.px),
+          border: Border.all(color: primaryLight, width: 2.px),
           radius: BorderRadius.circular(8.px),
           pointerEvents: PointerEvents.none,
           backgroundColor: primaryFaded,

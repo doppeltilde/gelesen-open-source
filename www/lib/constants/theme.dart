@@ -1,6 +1,4 @@
 import 'package:jaspr/dom.dart';
-import 'package:jaspr/jaspr.dart';
-
 // Colors
 
 const primaryDark = Color('#09387e');

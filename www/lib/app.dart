@@ -1,8 +1,6 @@
 import 'package:jaspr/dom.dart';
 import 'package:jaspr/jaspr.dart';
 import 'package:jaspr_router/jaspr_router.dart';
-
-import 'components/banner.dart';
 import 'components/markdown_page.dart';
 import 'layout/footer.dart';
 import 'layout/header.dart';

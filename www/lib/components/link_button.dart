@@ -146,7 +146,7 @@ class LinkButton extends StatelessComponent {
       ]),
       css('&.link-button-outlined', [
         css('&').styles(
-          border: Border(width: 2.px, color: borderColor),
+          border: Border.all(width: 2.px, color: borderColor),
           opacity: 0.9,
           color: textBlack,
         ),

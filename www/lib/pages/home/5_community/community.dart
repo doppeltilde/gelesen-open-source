@@ -51,7 +51,7 @@ class Community extends StatelessComponent {
           display: Display.flex,
           maxWidth: maxContentWidth,
           margin: Margin.only(top: 3.rem),
-          border: Border(color: borderColor, width: 2.px),
+          border: Border.all(color: borderColor, width: 2.px),
           radius: BorderRadius.circular(12.px),
           shadow: BoxShadow(
             offsetX: 4.px,
