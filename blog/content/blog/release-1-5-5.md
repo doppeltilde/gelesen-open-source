@@ -10,12 +10,17 @@ sitemap:
 Download the update: [gelesen.app](https://gelesen.app)
 
 ## What's new?
-- The Node Editor is now live.
-- A new ”Go to Scene” action is now available, allowing you to create nonlinear links to scenes.
-- A new ”Go to Message” action is now available, allowing you to create nonlinear links between messages.
+- The Node Editor is now live, which provides a visual interface for building nonlinear and branching narratives.
+  - Create nodes to represent scenes.
+  - Connect nodes with directed links to define branching paths.
+  - Construct narrative structures that support multiple endings, loops, converging paths, and conditional branching.
+
+- As part of the node editor launch, a new ”Go to Scene” action is now available allowing you to create nonlinear links to scenes.
+- As part of the node editor launch, a new ”Go to Message” action is now available allowing you to create nonlinear links between messages.
 
 ## What's fixed?
 - Fixed an issue where the interlude did not reflect changes.
+- Fixed minor issues and made improvements.
 
 ## What's changed?
 - ”Title” theme has been removed as it was redundant since the ”Chat” theme already implements something similar.
@@ -25,4 +30,4 @@ Download the update: [gelesen.app](https://gelesen.app)
 
 |||
 |---|---|
-| ![Image 1](https://user-images.githubusercontent.com/2857535/202488299-e2950c46-d861-497a-8398-68eed494e77e.png) | ![Image 2](/images/1.5.5/node-overview.png) |
+| ![Image 1](/images/1.5.5/light.png) | ![Image 2](/images/1.5.5/dark.png) |
