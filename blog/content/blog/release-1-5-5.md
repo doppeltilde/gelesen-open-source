@@ -20,7 +20,7 @@ Download the update: [gelesen.app](https://gelesen.app)
 
 ## What's fixed?
 - Fixed an issue where the interlude did not reflect changes.
-- Fixed an issue where the character color bubble could not be changed.
+- Fixed an issue where the character bubble color would not change.
 - Fixed an issue where the scene background image was not removable.
 - Fixed minor issues and made improvements.
 
