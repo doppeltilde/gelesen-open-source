@@ -23,7 +23,6 @@ Download the update: [gelesen.app](https://gelesen.app)
 - Fixed minor issues and made improvements.
 
 ## What's changed?
-- ”Title” theme has been removed as it was redundant since the ”Chat” theme already implements something similar.
 - ”Visual Novel” theme has been removed (temporary).
 
 Download the update: [gelesen.app](https://gelesen.app)
