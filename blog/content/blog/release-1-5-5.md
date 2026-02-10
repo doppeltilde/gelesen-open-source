@@ -2,7 +2,7 @@
 title: Release 1.5.5
 description: Gelesen Release 1.5.5
 date: 2026-02-10
-date_key: 20250201
+date_key: 20250210
 sitemap:
   lastmod: 2025-02-10
 ---
@@ -20,6 +20,8 @@ Download the update: [gelesen.app](https://gelesen.app)
 
 ## What's fixed?
 - Fixed an issue where the interlude did not reflect changes.
+- Fixed an issue where the user color bubble could not be changed.
+- Fixed an issue where the scene background image was not removable.
 - Fixed minor issues and made improvements.
 
 ## What's changed?
