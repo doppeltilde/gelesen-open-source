@@ -1,10 +1,10 @@
 ---
 title: Release 1.5.5
 description: Gelesen Release 1.5.5
-date: 2026-02-10
-date_key: 20250210
+date: 2026-02-11
+date_key: 20250211
 sitemap:
-  lastmod: 2025-02-10
+  lastmod: 2025-02-11
 ---
 
 Download the update: [gelesen.app](https://gelesen.app)
@@ -17,6 +17,7 @@ Download the update: [gelesen.app](https://gelesen.app)
 
 - As part of the node editor launch, a new ”Go to Scene” action is now available allowing you to create nonlinear links to scenes.
 - As part of the node editor launch, a new ”Go to Message” action is now available allowing you to create nonlinear links between messages.
+- You can now jump directly to a specific message within a choice branch including deeply nested choices, bypassing the need to replay the entire selection process.
 
 ## What's fixed?
 - Fixed an issue where the interlude did not reflect changes.
