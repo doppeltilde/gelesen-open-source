@@ -10,17 +10,19 @@ sitemap:
 Download the update: [gelesen.app](https://gelesen.app)
 
 ## What's new?
-- The old ”Conditions” feature has been replaced with the new ”Conditional Statement” action. You can now create nonlinear paths by checking conditions against character stats or custom variables.
+- The old ”Conditions” feature has been replaced with the new ”Conditional Statements” action. You can now create nonlinear paths by checking conditions against character stats or custom variables.
 - Variables and Character Stats are now back and have been completely reworked.
 - You can now change the grid style.
 - You can now change the grid color.
 
 ## What's changed?
-- The legacy database engine is now fully removed, but old database files will still continue to be migrated.
-
+- The legacy database engine is now fully removed, but old story files will still continue to be migrated.
+- Fixed an issue where the story updater showed the story as updatable, even though no update was available.
+- Fixed an issue where it was not possible to link a ”Title” scene to another scene.
+- Fixed an issue where it was not possible to link a ”Interlude” scene to another scene.
 
 ## Technical Insight
-- The old conditions system was linked directly to a single message, making it tedious to work with, hard to use and prone to breaking. The new ”Conditional Statement” system builds upon the already mature and established modular ”Choices” system, allowing for nonlinear & branching conditions.
+- The old ”Conditions” system was linked directly to a single message, making it tedious to work with, hard to use and prone to breaking. The new ”Conditional Statements” system builds upon the already mature and established modular ”Choices” system, allowing for nonlinear & branching conditions.
 - The variables and character stats were seperate systems, making it hard to internally keep track of, it also introducing overlapping code and technical debt. Both systems have been merged into one single modular system.
 
 Download the update: [gelesen.app](https://gelesen.app)
