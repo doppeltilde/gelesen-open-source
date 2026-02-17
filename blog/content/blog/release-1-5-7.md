@@ -18,6 +18,7 @@ Download the update: [gelesen.app](https://gelesen.app)
 ## What's changed?
 - The legacy database engine is now fully removed, but old story files will still continue to be migrated.
 - Fixed an issue where the story updater showed the story as updatable, even though no update was available.
+- Fixed an issue where it was not possible to change the scene settings for ”Title” scene.
 - Fixed an issue where it was not possible to link a ”Title” scene to another scene.
 - Fixed an issue where it was not possible to link a ”Interlude” scene to another scene.
 
