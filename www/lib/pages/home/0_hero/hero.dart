@@ -18,7 +18,11 @@ class Hero extends StatelessComponent {
             fontWeight: FontWeight.bold,
             letterSpacing: 1.px,
           ),
-          [Component.text("An exciting way to play chat stories")],
+          [
+            Component.text(
+              "An exciting way to create branching nonlinear chat stories",
+            ),
+          ],
         ),
         p(
           styles: Styles(
@@ -31,7 +35,7 @@ class Hero extends StatelessComponent {
           ),
           [
             Component.text(
-              'Craft immersive stories shaped by choices, then share your creations to let others experience them.',
+              "Gelesen is an exciting way to create branching nonlinear chat stories, and then share your stories to let others experience them.",
             ),
           ],
         ),
