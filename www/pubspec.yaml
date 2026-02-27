@@ -1,6 +1,6 @@
 name: website
 description: Gelesen website https://gelesen.app
-version: 0.1.5
+version: 0.1.6
 publish_to: none
 
 environment:
@@ -17,7 +17,7 @@ dependencies:
 dev_dependencies:
   build_runner: ^2.11.1
   jaspr_builder: ^0.22.3
-  build_web_compilers: ^4.4.11
+  build_web_compilers: ^4.4.13
 
 jaspr:
   mode: static
