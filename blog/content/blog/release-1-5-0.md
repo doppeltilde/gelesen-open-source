@@ -2,9 +2,9 @@
 title: Release 1.5
 description: Gelesen Release 1.5
 date: 2026-01-31
-date_key: 20250131
+date_key: 20260131
 sitemap:
-  lastmod: 2025-01-31
+  lastmod: 2026-01-31
 ---
 
 ## What's new?

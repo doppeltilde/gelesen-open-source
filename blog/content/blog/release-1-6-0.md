@@ -1,10 +1,10 @@
 ---
 title: Release 1.6
-description: Gelesen Release 1.6
-date: 2026-03-06
-date_key: 20250306
+description: 04/04/2026
+date: 2026-04-04
+date_key: 20260404
 sitemap:
-  lastmod: 2025-03-06
+  lastmod: 2026-04-04
 ---
 
 Download the update: [gelesen.app](https://gelesen.app)

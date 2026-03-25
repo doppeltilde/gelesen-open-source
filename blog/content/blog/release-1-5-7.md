@@ -2,9 +2,9 @@
 title: Release 1.5.7
 description: Gelesen Release 1.5.7
 date: 2026-02-19
-date_key: 20250219
+date_key: 20260219
 sitemap:
-  lastmod: 2025-02-19
+  lastmod: 2026-02-19
 ---
 
 Download the update: [gelesen.app](https://gelesen.app)
