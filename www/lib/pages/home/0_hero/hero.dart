@@ -18,11 +18,7 @@ class Hero extends StatelessComponent {
             fontWeight: FontWeight.bold,
             letterSpacing: 1.px,
           ),
-          [
-            Component.text(
-              "An exciting way to create branching nonlinear chat stories",
-            ),
-          ],
+          [Component.text("Create branching nonlinear chat stories")],
         ),
         p(
           styles: Styles(
@@ -35,7 +31,7 @@ class Hero extends StatelessComponent {
           ),
           [
             Component.text(
-              "Gelesen is an exciting way to create branching nonlinear chat stories, and then share your stories to let others experience them.",
+              "With Gelesen you can build nonlinear chat stories with branching paths, then publish them for others to discover and experience.",
             ),
           ],
         ),
@@ -56,6 +52,13 @@ class Hero extends StatelessComponent {
                 ),
               ],
             ),
+            a(href: "https://apps.microsoft.com/detail/9NSW265ZWFP5", [
+              img(
+                src:
+                    "https://gelesen.app/images/Get_it_from_Microsoft_Badge.png",
+                width: 250,
+              ),
+            ]),
           ],
         ),
         div(styles: Styles(height: 40.px), []),

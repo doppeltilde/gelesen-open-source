@@ -5,7 +5,6 @@
 // Generated with jaspr_builder
 
 import 'package:jaspr/server.dart';
-import 'package:website/components/banner.dart' as _banner;
 import 'package:website/components/github_button.dart' as _github_button;
 import 'package:website/components/gradient_border.dart' as _gradient_border;
 import 'package:website/components/icon.dart' as _icon;
@@ -48,7 +47,7 @@ ServerOptions get defaultServerOptions => ServerOptions(
     ),
   },
   styles: () => [
-    ..._banner.Banner.styles,
+    ..._theme.root,
     ..._github_button.GitHubButtonState.styles,
     ..._gradient_border.GradientBorder.styles,
     ..._icon.Icon.styles,
@@ -57,11 +56,10 @@ ServerOptions get defaultServerOptions => ServerOptions(
     ..._markdown_page.MarkdownPage.styles,
     ..._menu_button.MenuButton.styles,
     ..._theme_toggle.ThemeToggleState.styles,
-    ..._theme.root,
     ..._footer.Footer.styles,
     ..._header.HeaderState.styles,
-    ..._hero_pill.HeroPill.styles,
     ..._hero.Hero.styles,
+    ..._hero_pill.HeroPill.styles,
     ..._meet.Meet.styles,
     ..._community.Community.styles,
   ],
