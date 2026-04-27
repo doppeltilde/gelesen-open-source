@@ -63,10 +63,11 @@ We want to inform users of this Service that these third parties do not have acc
 
 Links to the privacy policy of third party service providers used by the application:
 - [Appwrite](https://appwrite.io/privacy)
+- [Better Stack](https://betterstack.com/privacy)
 - [Google Services](https://policies.google.com/privacy)
 - [OpenAI](https://privacy.openai.com/policies)
 - [RevenueCat](https://www.revenuecat.com/privacy/)
-- [Sentry](https://sentry.io/privacy/)
+- [xAI](https://x.ai/legal/privacy-policy)
 
 Links to the privacy policy of single sign-on providers:
 
@@ -114,7 +115,7 @@ When you provide a selfie for facial age estimation, our in-house machine learni
 - No training: The selfie you provide us will not be used to train our ML systems.
 
 #### 10. Your Rights
-Depending on your location (e.g., EU/EEA, UK, or US States), you may have the following rights:
+Depending on your region (e.g., EU/EEA, UK, or US States), you may have the following rights:
 
 - Access and receive a copy of your data.
 - Request correction or removal.
@@ -136,4 +137,4 @@ We may update our privacy policy from time to time. You are advised to review th
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hello(at)doppeltilde.com
 
-Last Updated: 11/23/2025
+Last Updated: 04/27/2026
