@@ -59,6 +59,9 @@ class Hero extends StatelessComponent {
                 width: 250,
               ),
             ]),
+            a(href: "https://doppeltilde.itch.io/gelesen", [
+              img(src: "images/itch.png", width: 250),
+            ]),
           ],
         ),
         div(styles: Styles(height: 40.px), []),
