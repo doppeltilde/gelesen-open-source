@@ -16,8 +16,11 @@ Our community guidelines are designed to help us maintain a healthy experience. 
 We encourage constructive discussions, but always keep them civil.
 
 #### 2. Privacy
-- Do not share personal information about yourself or others without their consent.
-- Respect other users’ privacy.
+- Protect Personal Information: Do not disclose personally identifiable information such as full names, addresses, phone numbers, or private emails—belonging to yourself or others.
+- Mandatory Consent: Sharing private media or data belonging to a third party without their explicit, prior consent is strictly prohibited.
+- Respect Boundaries: Users must respect the digital privacy of others; do not engage in "doxing" or any attempt to uncover hidden identities.
+- Anonymity: Respect the right of users to remain anonymous.
+- Self-Protection: For your own safety, we strongly advise against sharing your own personal data on the platform.
 
 #### 3. Content Guidelines
 - Do not upload or share content that is harmful, violent, or illegal.
@@ -26,8 +29,9 @@ We encourage constructive discussions, but always keep them civil.
 - Fraud and deliberate misrepresentation and/or deception are not allowed.
 - Child or vulnerable person exploitation and abuse is not allowed.
 - Revenge pornography is not allowed.
-- Adult content must be clearly marked as sensitive material.
-    - Please refer to our **[adult content guidelines](https://gelesen.app/community-guidelines-adult-content)**.
+- Adult content must be clearly marked as sensitive content.
+
+Please carefully review our **[adult content policy](https://gelesen.app/community-guidelines-adult-content)** for specific requirements regarding this type of content.
 
 #### 4. Reporting
 We encourage users to report violations through the reporting system. If you encounter any behavior that violates our guidelines, report it. We may not notify you about every enforcement action for privacy reasons.
@@ -46,4 +50,4 @@ By using Gelesen, you agree to these Community Guidelines, our Terms of Service 
 
 We reserve the right to remove any content or suspend accounts that do not comply with our community guidelines, without notice and at any time.
 
-Last updated: 10/20/2025
+Last updated: 01/05/2026

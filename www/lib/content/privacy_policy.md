@@ -72,8 +72,11 @@ Links to the privacy policy of third party service providers used by the applica
 Links to the privacy policy of single sign-on providers:
 
 - [Apple [Scopes: Email]](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
-- [Google [Scopes: Email]](https://policies.google.com/privacy?hl=en-US)
 - [Discord [Scopes: Email]](https://discord.com/privacy)
+- [Facebook [Scopes: Email]](https://www.facebook.com/privacy/policy/)
+- [Google [Scopes: Email]](https://policies.google.com/privacy?hl=en-US)
+- [Twitch [Scopes: Email]](https://legal.twitch.com/en/legal/privacy-notice/)
+- [Microsoft [Scopes: Email]](https://www.microsoft.com/privacy/privacystatement)
 - [X [Scopes: Email]](https://privacy.x.com/en)
 
 #### 6. Security
