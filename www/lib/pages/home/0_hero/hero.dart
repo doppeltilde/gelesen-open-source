@@ -52,15 +52,15 @@ class Hero extends StatelessComponent {
                 ),
               ],
             ),
+            div(styles: Styles(height: 15.px), []),
             a(href: "https://apps.microsoft.com/detail/9NSW265ZWFP5", [
               img(
-                src:
-                    "https://gelesen.app/images/Get_it_from_Microsoft_Badge.png",
+                src: "https://get.microsoft.com/images/en-us%20dark.svg",
                 width: 250,
               ),
             ]),
             a(href: "https://doppeltilde.itch.io/gelesen", [
-              img(src: "images/itch.png", width: 250),
+              img(src: "images/itch_dark.svg", width: 250),
             ]),
           ],
         ),
