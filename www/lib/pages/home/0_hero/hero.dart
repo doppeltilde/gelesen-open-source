@@ -52,16 +52,12 @@ class Hero extends StatelessComponent {
                 ),
               ],
             ),
-            div(styles: Styles(height: 15.px), []),
-            a(href: "https://apps.microsoft.com/detail/9NSW265ZWFP5", [
-              img(
-                src: "https://get.microsoft.com/images/en-us%20dark.svg",
-                width: 250,
-              ),
-            ]),
-            a(href: "https://doppeltilde.itch.io/gelesen", [
-              img(src: "images/itch_dark.svg", width: 250),
-            ]),
+            div(styles: Styles(height: 10.px), []),
+            a(
+              href:
+                  "https://play.google.com/pc-store/games/details?id=gelesen.app",
+              [img(src: "images/playOnPc.png", width: 320)],
+            ),
           ],
         ),
         div(styles: Styles(height: 40.px), []),
