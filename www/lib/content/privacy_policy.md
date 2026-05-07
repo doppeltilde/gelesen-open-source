@@ -94,28 +94,35 @@ If we become aware that a child has provided personal data without parental cons
 
 #### 9. Age Assurance
 
-This section outlines our approach to age assurance in compliance with age assurance requirements.
+This section outlines our approach to age assurance to provide appropriate experiences, restrict access to certain content or functionalities where necessary, and comply with applicable laws and platform requirements, including the Google Play Age Signals API and Apple’s Declared Age Range framework.
 
 ##### How We Approach Age Assurance:
 
-Where our service, or specific parts of our service, may present content or functionalities that are harmful or inappropriate for children, we implement age assurance mechanisms. These mechanisms are designed to ascertain the age of users to ensure that children do not access such content or functionalities.
+Where our service, or specific parts of it, may present content or functionalities that could be harmful or inappropriate for children, we implement age assurance mechanisms. These mechanisms help determine user age ranges to ensure compliance and deliver suitable experiences.
 
 Our age assurance methods may include (but are not limited to):
 
 - Self-declaration: Users may be asked to declare their age upon registration or when attempting to access age-restricted content.
+- Platform-Provided Signals: On Android devices, we may utilize the Google Play Age Signals API to receive age-related signals directly from Google Play where available and legally permitted. On iOS devices, we may use Apple’s Declared Age Range API to request and receive broad age range information shared by users or their parents/guardians.
 - Verification Tools: When legally required to conduct more stringent age verification, we will only use our in-house developed machine learning (ML) age estimation system, no third-party will have access to your data.
 - Supplementary verification (where necessary): In cases where our machine learning evaluation is uncertain, or if required for specific high-risk functionalities, we may, if legally permissible and necessary, request additional verification methods. This could potentially involve, for example, requesting a user to confirm their age through manual verification by our team.
 
+We use these signals and methods solely to tailor content, restrict access where appropriate, and fulfill legal obligations. Data obtained via platform APIs is handled in accordance with the respective platform’s terms and our strict purpose limitations.
+
 ##### Data We Process for Age Assurance and Estimation:
 
-When you provide a selfie for facial age estimation, our in-house machine learning (ML) system processes the image to analyze facial features and patterns associated with age. The data extracted by the ML from the selfie is for the sole purpose of generating an age estimation.
+We may receive age range information through platform APIs (Google Play Age Signals or Apple Declared Age Range) without collecting or storing precise dates of birth from these sources. When you provide a selfie for our in-house facial age estimation, our ML system processes the image solely to analyze facial features for age estimation purposes.
 
 ##### We want to be clear:
 
 - No Selfie Storage: The selfie image itself is deleted once the age estimation process has concluded.
-- No Direct Identification: While the ML processes your facial features, it does so to estimate only your age, not to identify you or to create a permanent biometric profile that can be re-identified later. The processing is focused on identifying age-indicative patterns.
-- Minimal Data: We only process the necessary data from the selfie to perform the age estimation.
+- No Direct Identification: The ML system estimates age only and does not identify you or create a permanent biometric profile for re-identification. Processing focuses exclusively on age-indicative patterns.
+- Minimal Data: We process only the data necessary for age estimation or to act on platform-provided age signals.
 - No training: The selfie you provide us will not be used to train our ML systems.
+- Purpose Limitation and Retention: Age-related data is used exclusively for age assurance, content appropriateness, and legal compliance. We do not use it for advertising, profiling, or unrelated purposes. We retain such data only as long as necessary and in accordance with platform policies (e.g., no long-term storage of Google Play Age Signals where prohibited).
+
+For details on data sharing with platform providers (Google or Apple), please refer to their respective privacy policies, as they process certain information independently when providing these age signals.
+This approach ensures we respect user privacy while maintaining a safe and compliant environment. If you have questions about our age assurance practices, please contact us using the details provided in this Privacy Policy.
 
 #### 10. Your Rights
 Depending on your region (e.g., EU/EEA, UK, or US States), you may have the following rights:
