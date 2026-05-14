@@ -10,4 +10,7 @@ sitemap:
 Download the update: [gelesen.app](https://gelesen.app)
 
 ## What's new?
-- Added dedicated TikTok and Instagram themes that expand upon the Interlude theme. The new themes incorporate modern visual styling inspired by each platform while maintaining excellent readability and consistency. This update enhances gameplay immersion, provides a more engaging user interface, and offers you additional customization options to personalize the experience.
+- Added dedicated TikTok and Instagram themes.
+- Added X, Microsoft and Discord as login options.
+- Fixed an issue where videos would not generate thumbnails.
+- Improved the video viewer.
