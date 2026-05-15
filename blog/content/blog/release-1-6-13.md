@@ -9,8 +9,11 @@ sitemap:
 
 Download the update: [gelesen.app](https://gelesen.app)
 
-## What's new?
+## What's changed?
 - Added dedicated TikTok and Instagram themes.
 - Added X, Microsoft and Discord as login options.
-- Fixed an issue where videos would not generate thumbnails.
 - Improved the video viewer.
+
+## What's fixed?
+- Fixed an issue where videos would not generate thumbnails.
+- Fixed an issue where media files would duplicate themselves when downloading them.
