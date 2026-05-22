@@ -13,10 +13,10 @@ class Banner extends StatelessComponent {
       attributes: {'role': 'alert'},
       [
         p([
-          Component.text('🚀 Gelesen 1.6 has landed! '),
+          Component.text('🚀 Gelesen 1.6.13 has landed! '),
           a(
             classes: 'animated-underline',
-            href: 'https://blog.gelesen.app',
+            href: 'https://blog.gelesen.app/blog/release-1-6-13/',
             target: Target.blank,
             [Component.text('Learn more')],
           ),
