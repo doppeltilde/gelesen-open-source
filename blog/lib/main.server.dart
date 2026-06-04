@@ -32,6 +32,10 @@ void main() {
                 title: 'Blog Posts',
                 links: [
                   SidebarLink(
+                    text: "Release 1.6.17",
+                    href: '/blog/release-1-6-17',
+                  ),
+                  SidebarLink(
                     text: "Release 1.6.16",
                     href: '/blog/release-1-6-16',
                   ),
