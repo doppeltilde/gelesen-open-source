@@ -12,7 +12,8 @@
         "skip": "Pomiń",
         "new_message": "Nowa wiadomość",
         "version": "Wersja {version}",
-        "release_number": "Numer wydania: {number}"
+        "release_number": "Numer wydania: {number}",
+        "share": "Udostępnij"
     },
     "sessions": {
         "my_sessions": "Moje sesje",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Istniejące zapisy w chmurze",
         "existing_cloud_saves_description": "Wygląda na to, że masz istniejące zapisy w chmurze, czy chcesz je pobrać?",
         "local_only": "Tylko lokalnie",
+        "no_scenes_found": "Nie znaleziono scen.\nStuknij +, aby dodać nową.",
+        "sacred_timeline": "Święta oś czasu",
+        "sacred_timeline_description": "Święta oś czasu jest oznaczona na żółto i jest domyślną ścieżką, którą podąża historia, jeśli nie ma rozgałęzień.",
+        "minimap": "Minimapa",
+        "minimap_description": "Minimapa zapewnia widok z lotu ptaka całej historii, ułatwiając nawigację i zrozumienie ogólnej struktury.",
+        "zoom_controls": "Sterowanie powiększeniem",
+        "zoom_controls_description": "Czy elementy sterowania powiększeniem powinny być wyświetlane.",
+        "grid_style": "Styl siatki",
+        "grid_style_description": "Wybierz styl siatki.",
+        "grid_styles": {
+            "dots": "Kropki",
+            "lines": "Linie",
+            "hierarchical": "Hierarchiczny",
+            "none": "Brak"
+        },
+        "grid_color": "Kolor siatki",
+        "grid_color_description": "Wybierz kolor siatki.",
+        "grid_color_picker": "Wybór koloru siatki",
         "scene": {
             "scenes": "Sceny",
             "scene": "Scena",

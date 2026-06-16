@@ -12,7 +12,8 @@
         "skip": "Atla",
         "new_message": "Yeni Mesaj",
         "version": "Sürüm {version}",
-        "release_number": "Sürüm Numarası: {number}"
+        "release_number": "Sürüm Numarası: {number}",
+        "share": "Paylaş"
     },
     "sessions": {
         "my_sessions": "Oturumlarım",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Mevcut bulut kayıtları",
         "existing_cloud_saves_description": "Mevcut bulut kayıtlarınız var gibi görünüyor, bunları indirmek istiyor musunuz?",
         "local_only": "Yalnızca yerel",
+        "no_scenes_found": "Sahne bulunamadı.\nYeni bir tane eklemek için + simgesine dokunun.",
+        "sacred_timeline": "Kutsal zaman çizelgesi",
+        "sacred_timeline_description": "Kutsal zaman çizelgesi sarı renkle işaretlenir ve dallanma yoksa hikayenin izlediği varsayılan yoldur.",
+        "minimap": "Mini harita",
+        "minimap_description": "Mini harita, tüm hikayenizin kuş bakışı görünümünü sunarak gezinmeyi ve genel yapıyı anlamayı kolaylaştırır.",
+        "zoom_controls": "Yakınlaştırma kontrolleri",
+        "zoom_controls_description": "Yakınlaştırma kontrollerinin gösterilip gösterilmeyeceği.",
+        "grid_style": "Izgara stili",
+        "grid_style_description": "Izgara stilini seçin.",
+        "grid_styles": {
+            "dots": "Noktalar",
+            "lines": "Çizgiler",
+            "hierarchical": "Hiyerarşik",
+            "none": "Yok"
+        },
+        "grid_color": "Izgara rengi",
+        "grid_color_description": "Izgara rengini seçin.",
+        "grid_color_picker": "Izgara renk seçici",
         "scene": {
             "scenes": "Sahneler",
             "scene": "Sahne",

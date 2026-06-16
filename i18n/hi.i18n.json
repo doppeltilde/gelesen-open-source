@@ -12,7 +12,8 @@
         "skip": "छोड़ें",
         "new_message": "नया संदेश",
         "version": "संस्करण {version}",
-        "release_number": "रिलीज़ संख्या: {number}"
+        "release_number": "रिलीज़ संख्या: {number}",
+        "share": "साझा करें"
     },
     "sessions": {
         "my_sessions": "मेरे सत्र",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "मौजूदा क्लाउड सेव",
         "existing_cloud_saves_description": "ऐसा लगता है कि आपके पास पहले से क्लाउड सेव मौजूद हैं, क्या आप उन्हें डाउनलोड करना चाहते हैं?",
         "local_only": "केवल स्थानीय",
+        "no_scenes_found": "कोई दृश्य नहीं मिला।\nनया जोड़ने के लिए + पर टैप करें।",
+        "sacred_timeline": "पवित्र समयरेखा",
+        "sacred_timeline_description": "पवित्र समयरेखा पीले रंग में चिह्नित है और यह डिफ़ॉल्ट पथ है जिसका कहानी अनुसरण करती है यदि कोई शाखाएँ नहीं हैं।",
+        "minimap": "मिनीमैप",
+        "minimap_description": "मिनीमैप आपकी पूरी कहानी का ऊपरी दृष्टिकोण प्रदान करता है, जिससे नेविगेट करना और समग्र संरचना समझना आसान हो जाता है।",
+        "zoom_controls": "ज़ूम नियंत्रण",
+        "zoom_controls_description": "क्या ज़ूम नियंत्रण दिखाए जाने चाहिए।",
+        "grid_style": "ग्रिड शैली",
+        "grid_style_description": "ग्रिड शैली चुनें।",
+        "grid_styles": {
+            "dots": "बिंदु",
+            "lines": "रेखाएँ",
+            "hierarchical": "पदानुक्रमित",
+            "none": "कोई नहीं"
+        },
+        "grid_color": "ग्रिड रंग",
+        "grid_color_description": "ग्रिड रंग चुनें।",
+        "grid_color_picker": "ग्रिड रंग चयनकर्ता",
         "scene": {
             "scenes": "दृश्य",
             "scene": "दृश्य",

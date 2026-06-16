@@ -12,7 +12,8 @@
         "skip": "Passer",
         "new_message": "Nouveau message",
         "version": "Version {version}",
-        "release_number": "Numéro de version: {number}"
+        "release_number": "Numéro de version: {number}",
+        "share": "Partager"
     },
     "sessions": {
         "my_sessions": "Mes sessions",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Sauvegardes cloud existantes",
         "existing_cloud_saves_description": "Il semble que vous ayez des sauvegardes sur le cloud, voulez-vous les télécharger ?",
         "local_only": "Local uniquement",
+        "no_scenes_found": "Aucune scène trouvée.\nAppuyez sur + pour en ajouter une nouvelle.",
+        "sacred_timeline": "Chronologie sacrée",
+        "sacred_timeline_description": "La chronologie sacrée est marquée en jaune et constitue le chemin par défaut suivi par l'histoire s'il n'y a pas de branches.",
+        "minimap": "Minicarte",
+        "minimap_description": "La minicarte offre une vue d'ensemble de toute votre histoire, facilitant la navigation et la compréhension de la structure globale.",
+        "zoom_controls": "Contrôles de zoom",
+        "zoom_controls_description": "Si les contrôles de zoom doivent être affichés.",
+        "grid_style": "Style de grille",
+        "grid_style_description": "Choisissez le style de grille.",
+        "grid_styles": {
+            "dots": "Points",
+            "lines": "Lignes",
+            "hierarchical": "Hiérarchique",
+            "none": "Aucun"
+        },
+        "grid_color": "Couleur de la grille",
+        "grid_color_description": "Choisissez la couleur de la grille.",
+        "grid_color_picker": "Sélecteur de couleur de grille",
         "scene": {
             "scenes": "Scènes",
             "scene": "Scène",

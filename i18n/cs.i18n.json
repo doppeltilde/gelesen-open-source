@@ -12,7 +12,8 @@
         "skip": "Přeskočit",
         "new_message": "Nová zpráva",
         "version": "Verze {version}",
-        "release_number": "Číslo verze: {number}"
+        "release_number": "Číslo verze: {number}",
+        "share": "Sdílet"
     },
     "sessions": {
         "my_sessions": "Moje relace",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Existující cloudové uložené pozice",
         "existing_cloud_saves_description": "Vypadá to, že máte existující cloudové uložené pozice, chcete je stáhnout?",
         "local_only": "Pouze lokálně",
+        "no_scenes_found": "Nebyly nalezeny žádné scény.\nKlepnutím na + přidáte novou.",
+        "sacred_timeline": "Posvátná časová osa",
+        "sacred_timeline_description": "Posvátná časová osa je označena žlutě a je výchozí cestou, kterou příběh následuje, pokud nejsou žádné větve.",
+        "minimap": "Minimapa",
+        "minimap_description": "Minimapa poskytuje pohled shora na celý váš příběh, což usnadňuje navigaci a pochopení celkové struktury.",
+        "zoom_controls": "Ovládání přiblížení",
+        "zoom_controls_description": "Zda se mají zobrazit ovládací prvky přiblížení.",
+        "grid_style": "Styl mřížky",
+        "grid_style_description": "Vyberte styl mřížky.",
+        "grid_styles": {
+            "dots": "Tečky",
+            "lines": "Čáry",
+            "hierarchical": "Hierarchický",
+            "none": "Žádný"
+        },
+        "grid_color": "Barva mřížky",
+        "grid_color_description": "Vyberte barvu mřížky.",
+        "grid_color_picker": "Výběr barvy mřížky",
         "scene": {
             "scenes": "Scény",
             "scene": "Scéna",

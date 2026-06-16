@@ -12,7 +12,8 @@
         "skip": "Laktawan",
         "new_message": "Bagong Mensahe",
         "version": "Bersyon {version}",
-        "release_number": "Numero ng Paglabas: {number}"
+        "release_number": "Numero ng Paglabas: {number}",
+        "share": "Ibahagi"
     },
     "sessions": {
         "my_sessions": "Aking mga session",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Mga umiiral na cloud save",
         "existing_cloud_saves_description": "Mukhang mayroon kang mga umiiral na cloud save, gusto mo bang i-download ang mga ito?",
         "local_only": "Lokal lang",
+        "no_scenes_found": "Walang nahanap na eksena.\nI-tap ang + para magdagdag ng bago.",
+        "sacred_timeline": "Banal na timeline",
+        "sacred_timeline_description": "Ang banal na timeline ay minarkahan ng dilaw at ito ang default na landas na sinusundan ng kwento kung walang mga sanga.",
+        "minimap": "Minimap",
+        "minimap_description": "Ang minimap ay nagbibigay ng bird's-eye view ng buong kwento mo, na ginagawang madali ang pag-navigate at pag-unawa sa pangkalahatang istruktura.",
+        "zoom_controls": "Mga kontrol sa zoom",
+        "zoom_controls_description": "Kung dapat ipakita ang mga kontrol sa zoom.",
+        "grid_style": "Estilo ng grid",
+        "grid_style_description": "Piliin ang estilo ng grid.",
+        "grid_styles": {
+            "dots": "Mga tuldok",
+            "lines": "Mga linya",
+            "hierarchical": "Hierarchical",
+            "none": "Wala"
+        },
+        "grid_color": "Kulay ng grid",
+        "grid_color_description": "Piliin ang kulay ng grid.",
+        "grid_color_picker": "Tagapili ng kulay ng grid",
         "scene": {
             "scenes": "Mga Eksena",
             "scene": "Eksena",

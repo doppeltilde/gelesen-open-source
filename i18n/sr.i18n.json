@@ -12,7 +12,8 @@
         "skip": "Прескочи",
         "new_message": "Нова порука",
         "version": "Верзија {version}",
-        "release_number": "Број издања: {number}"
+        "release_number": "Број издања: {number}",
+        "share": "Подели"
     },
     "sessions": {
         "my_sessions": "Моје сесије",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Постојећи сачувани подаци у облаку",
         "existing_cloud_saves_description": "Изгледа да имате постојеће сачуване податке у облаку, да ли желите да их преузмете?",
         "local_only": "Само локално",
+        "no_scenes_found": "Нису пронађене сцене.\nДодирните + да додате нову.",
+        "sacred_timeline": "Света временска линија",
+        "sacred_timeline_description": "Света временска линија је означена жутом бојом и подразумевани је пут којим прича иде ако нема грана.",
+        "minimap": "Минимапа",
+        "minimap_description": "Минимапа пружа поглед из птичје перспективе на целу вашу причу, олакшавајући навигацију и разумевање укупне структуре.",
+        "zoom_controls": "Контроле зумирања",
+        "zoom_controls_description": "Да ли треба приказати контроле зумирања.",
+        "grid_style": "Стил мреже",
+        "grid_style_description": "Изаберите стил мреже.",
+        "grid_styles": {
+            "dots": "Тачке",
+            "lines": "Линије",
+            "hierarchical": "Хијерархијски",
+            "none": "Ништа"
+        },
+        "grid_color": "Боја мреже",
+        "grid_color_description": "Изаберите боју мреже.",
+        "grid_color_picker": "Бирач боје мреже",
         "scene": {
             "scenes": "Сцене",
             "scene": "Сцена",

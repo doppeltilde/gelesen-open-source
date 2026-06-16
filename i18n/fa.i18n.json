@@ -12,7 +12,8 @@
         "skip": "رد کردن",
         "new_message": "پیام جدید",
         "version": "نسخه {version}",
-        "release_number": "شماره انتشار: {number}"
+        "release_number": "شماره انتشار: {number}",
+        "share": "اشتراک‌گذاری"
     },
     "sessions": {
         "my_sessions": "نشست‌های من",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "ذخیره‌های ابری موجود",
         "existing_cloud_saves_description": "به نظر می‌رسد ذخیره‌های ابری موجود دارید، آیا می‌خواهید آن‌ها را دانلود کنید؟",
         "local_only": "فقط محلی",
+        "no_scenes_found": "هیچ صحنه‌ای یافت نشد.\nبرای افزودن صحنه جدید روی + بزنید.",
+        "sacred_timeline": "خط زمانی مقدس",
+        "sacred_timeline_description": "خط زمانی مقدس با رنگ زرد مشخص شده و مسیر پیش‌فرضی است که داستان در صورت نبود شاخه‌ها دنبال می‌کند.",
+        "minimap": "نقشه کوچک",
+        "minimap_description": "نقشه کوچک نمای کلی از کل داستان شما را ارائه می‌دهد و پیمایش و درک ساختار کلی را آسان می‌کند.",
+        "zoom_controls": "کنترل‌های بزرگ‌نمایی",
+        "zoom_controls_description": "آیا کنترل‌های بزرگ‌نمایی نمایش داده شوند.",
+        "grid_style": "سبک شبکه",
+        "grid_style_description": "سبک شبکه را انتخاب کنید.",
+        "grid_styles": {
+            "dots": "نقطه‌ها",
+            "lines": "خطوط",
+            "hierarchical": "سلسله‌مراتبی",
+            "none": "هیچ"
+        },
+        "grid_color": "رنگ شبکه",
+        "grid_color_description": "رنگ شبکه را انتخاب کنید.",
+        "grid_color_picker": "انتخابگر رنگ شبکه",
         "scene": {
             "scenes": "صحنه‌ها",
             "scene": "صحنه",

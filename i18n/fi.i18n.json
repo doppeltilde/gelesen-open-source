@@ -12,7 +12,8 @@
         "skip": "Ohita",
         "new_message": "Uusi viesti",
         "version": "Versio {version}",
-        "release_number": "Julkaisunumero: {number}"
+        "release_number": "Julkaisunumero: {number}",
+        "share": "Jaa"
     },
     "sessions": {
         "my_sessions": "Omat istunnot",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Olemassa olevat pilvitallennukset",
         "existing_cloud_saves_description": "Näyttää siltä, että sinulla on olemassa olevia pilvitallennuksia. Haluatko ladata ne?",
         "local_only": "Vain paikallinen",
+        "no_scenes_found": "Kohtauksia ei löytynyt.\nNapauta + lisätäksesi uuden.",
+        "sacred_timeline": "Pyhä aikajana",
+        "sacred_timeline_description": "Pyhä aikajana on merkitty keltaisella, ja se on oletuspolku, jota tarina seuraa, jos haaroja ei ole.",
+        "minimap": "Minikartta",
+        "minimap_description": "Minikartta tarjoaa lintuperspektiivin koko tarinaasi, mikä helpottaa navigointia ja kokonaisrakenteen ymmärtämistä.",
+        "zoom_controls": "Zoomausohjaimet",
+        "zoom_controls_description": "Näytetäänkö zoomausohjaimet.",
+        "grid_style": "Ruudukkotyyli",
+        "grid_style_description": "Valitse ruudukkotyyli.",
+        "grid_styles": {
+            "dots": "Pisteet",
+            "lines": "Viivat",
+            "hierarchical": "Hierarkkinen",
+            "none": "Ei mitään"
+        },
+        "grid_color": "Ruudukon väri",
+        "grid_color_description": "Valitse ruudukon väri.",
+        "grid_color_picker": "Ruudukon värivalitsin",
         "scene": {
             "scenes": "Kohtaukset",
             "scene": "Kohtaus",

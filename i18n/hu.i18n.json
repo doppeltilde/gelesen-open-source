@@ -12,7 +12,8 @@
         "skip": "Kihagyás",
         "new_message": "Új üzenet",
         "version": "Verzió {version}",
-        "release_number": "Kiadási szám: {number}"
+        "release_number": "Kiadási szám: {number}",
+        "share": "Megosztás"
     },
     "sessions": {
         "my_sessions": "Munkameneteim",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Létező felhőmentések",
         "existing_cloud_saves_description": "Úgy tűnik, vannak létező felhőmentéseid, szeretnéd letölteni őket?",
         "local_only": "Csak helyi",
+        "no_scenes_found": "Nem találhatók jelenetek.\nKoppints a + gombra új hozzáadásához.",
+        "sacred_timeline": "Szent idővonal",
+        "sacred_timeline_description": "A szent idővonal sárga színnel van jelölve, és ez az alapértelmezett út, amelyet a történet követ, ha nincsenek elágazások.",
+        "minimap": "Minimap",
+        "minimap_description": "A minimap madártávlati nézetet biztosít az egész történetről, megkönnyítve a navigációt és az általános struktúra megértését.",
+        "zoom_controls": "Nagyítás vezérlők",
+        "zoom_controls_description": "Megjelenjenek-e a nagyítás vezérlők.",
+        "grid_style": "Rács stílus",
+        "grid_style_description": "Válaszd ki a rács stílusát.",
+        "grid_styles": {
+            "dots": "Pontok",
+            "lines": "Vonalak",
+            "hierarchical": "Hierarchikus",
+            "none": "Nincs"
+        },
+        "grid_color": "Rács színe",
+        "grid_color_description": "Válaszd ki a rács színét.",
+        "grid_color_picker": "Rács színválasztó",
         "scene": {
             "scenes": "Jelenetek",
             "scene": "Jelenet",

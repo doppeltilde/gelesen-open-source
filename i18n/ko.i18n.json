@@ -12,7 +12,8 @@
         "skip": "건너뛰기",
         "new_message": "새 메시지",
         "version": "버전 {version}",
-        "release_number": "릴리스 번호: {number}"
+        "release_number": "릴리스 번호: {number}",
+        "share": "공유"
     },
     "sessions": {
         "my_sessions": "내 세션",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "기존 클라우드 저장 데이터",
         "existing_cloud_saves_description": "기존 클라우드 저장 데이터가 있는 것 같습니다. 다운로드하시겠습니까?",
         "local_only": "로컬 전용",
+        "no_scenes_found": "장면을 찾을 수 없습니다.\n+를 탭하여 새 장면을 추가하세요.",
+        "sacred_timeline": "세크리드 타임라인",
+        "sacred_timeline_description": "세크리드 타임라인은 노란색으로 표시되며 분기가 없을 때 스토리가 따르는 기본 경로입니다.",
+        "minimap": "미니맵",
+        "minimap_description": "미니맵은 전체 스토리를 조감할 수 있어 탐색과 전체 구조 이해를 쉽게 합니다.",
+        "zoom_controls": "줌 컨트롤",
+        "zoom_controls_description": "줌 컨트롤을 표시할지 여부.",
+        "grid_style": "그리드 스타일",
+        "grid_style_description": "그리드 스타일을 선택하세요.",
+        "grid_styles": {
+            "dots": "점",
+            "lines": "선",
+            "hierarchical": "계층형",
+            "none": "없음"
+        },
+        "grid_color": "그리드 색상",
+        "grid_color_description": "그리드 색상을 선택하세요.",
+        "grid_color_picker": "그리드 색상 선택기",
         "scene": {
             "scenes": "장면 목록",
             "scene": "장면",

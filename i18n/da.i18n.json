@@ -12,7 +12,8 @@
         "skip": "Spring over",
         "new_message": "Ny besked",
         "version": "Version {version}",
-        "release_number": "Versionsnummer: {number}"
+        "release_number": "Versionsnummer: {number}",
+        "share": "Del"
     },
     "sessions": {
         "my_sessions": "Mine sessioner",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Eksisterende lagringer i skyen",
         "existing_cloud_saves_description": "Det ser ud til, at du har eksisterende lagringer i skyen. Vil du hente dem?",
         "local_only": "Kun lokalt",
+        "no_scenes_found": "Ingen scener fundet.\nTryk på + for at tilføje en ny.",
+        "sacred_timeline": "Hellig tidslinje",
+        "sacred_timeline_description": "Den hellige tidslinje er markeret med gult og er standardstien, historien følger, hvis der ikke er grene.",
+        "minimap": "Minikort",
+        "minimap_description": "Minikortet giver et fugleperspektiv af hele din historie, hvilket gør det nemt at navigere og forstå den overordnede struktur.",
+        "zoom_controls": "Zoomkontroller",
+        "zoom_controls_description": "Om zoomkontrollerne skal vises.",
+        "grid_style": "Gitterstil",
+        "grid_style_description": "Vælg gitterstilen.",
+        "grid_styles": {
+            "dots": "Prikker",
+            "lines": "Linjer",
+            "hierarchical": "Hierarkisk",
+            "none": "Ingen"
+        },
+        "grid_color": "Gitterfarve",
+        "grid_color_description": "Vælg gitterfarven.",
+        "grid_color_picker": "Gitterfarvevælger",
         "scene": {
             "scenes": "Scener",
             "scene": "Scene",

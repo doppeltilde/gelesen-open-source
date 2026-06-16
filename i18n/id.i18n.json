@@ -12,7 +12,8 @@
         "skip": "Lewati",
         "new_message": "Pesan Baru",
         "version": "Versi {version}",
-        "release_number": "Nomor Rilis: {number}"
+        "release_number": "Nomor Rilis: {number}",
+        "share": "Bagikan"
     },
     "sessions": {
         "my_sessions": "Sesi saya",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Penyimpanan cloud yang ada",
         "existing_cloud_saves_description": "Sepertinya Anda memiliki penyimpanan cloud yang ada, apakah Anda ingin mengunduhnya?",
         "local_only": "Hanya lokal",
+        "no_scenes_found": "Tidak ada adegan ditemukan.\nKetuk + untuk menambahkan yang baru.",
+        "sacred_timeline": "Linimasa suci",
+        "sacred_timeline_description": "Linimasa suci ditandai dengan warna kuning dan merupakan jalur default yang diikuti cerita jika tidak ada cabang.",
+        "minimap": "Minimap",
+        "minimap_description": "Minimap memberikan tampilan menyeluruh seluruh cerita Anda, memudahkan navigasi dan memahami struktur keseluruhan.",
+        "zoom_controls": "Kontrol zoom",
+        "zoom_controls_description": "Apakah kontrol zoom harus ditampilkan.",
+        "grid_style": "Gaya grid",
+        "grid_style_description": "Pilih gaya grid.",
+        "grid_styles": {
+            "dots": "Titik",
+            "lines": "Garis",
+            "hierarchical": "Hierarkis",
+            "none": "Tidak ada"
+        },
+        "grid_color": "Warna grid",
+        "grid_color_description": "Pilih warna grid.",
+        "grid_color_picker": "Pemilih warna grid",
         "scene": {
             "scenes": "Adegan",
             "scene": "Adegan",

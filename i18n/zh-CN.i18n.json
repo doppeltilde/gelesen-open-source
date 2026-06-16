@@ -12,7 +12,8 @@
         "skip": "跳过",
         "new_message": "新消息",
         "version": "版本 {version}",
-        "release_number": "发布号：{number}"
+        "release_number": "发布号：{number}",
+        "share": "分享"
     },
     "sessions": {
         "my_sessions": "我的会话",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "现有云端存档",
         "existing_cloud_saves_description": "您似乎有现有的云端存档，是否要下载？",
         "local_only": "仅限本地",
+        "no_scenes_found": "未找到场景。\n点击 + 添加新场景。",
+        "sacred_timeline": "神圣时间线",
+        "sacred_timeline_description": "神圣时间线以黄色标记，是没有分支时故事遵循的默认路径。",
+        "minimap": "小地图",
+        "minimap_description": "小地图提供整个故事的鸟瞰视图，便于导航和理解整体结构。",
+        "zoom_controls": "缩放控件",
+        "zoom_controls_description": "是否显示缩放控件。",
+        "grid_style": "网格样式",
+        "grid_style_description": "选择网格样式。",
+        "grid_styles": {
+            "dots": "点",
+            "lines": "线",
+            "hierarchical": "层级",
+            "none": "无"
+        },
+        "grid_color": "网格颜色",
+        "grid_color_description": "选择网格颜色。",
+        "grid_color_picker": "网格颜色选择器",
         "scene": {
             "scenes": "场景",
             "scene": "场景",

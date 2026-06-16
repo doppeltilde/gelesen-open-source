@@ -12,7 +12,8 @@
         "skip": "រំលង",
         "new_message": "សារថ្មី",
         "version": "កំណែ {version}",
-        "release_number": "លេខកំណែ៖ {number}"
+        "release_number": "លេខកំណែ៖ {number}",
+        "share": "ចែករំលែក"
     },
     "sessions": {
         "my_sessions": "វគ្គใช้งานរបស់ខ្ញុំ",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "ការរក្សាទុកលើក្លោដដែលមានស្រាប់",
         "existing_cloud_saves_description": "មើលទៅដូចជាអ្នកមានការរក្សាទុកលើក្លោដដែលមានស្រាប់ តើអ្នកចង់ទាញយកវាដែរឬទេ?",
         "local_only": "តែក្នុងម៉ាស៊ីនប៉ុណ្ណោះ",
+        "no_scenes_found": "រកមិនឃើញឈុតឆាកទេ។\nចុច + ដើម្បីបន្ថែមថ្មី។",
+        "sacred_timeline": "បន្ទាត់ពេលវេលាដ៏ពិសិដ្ឋ",
+        "sacred_timeline_description": "បន្ទាត់ពេលវេលាដ៏ពិសិដ្ឋត្រូវបានសម្គាល់ជាពណ៌លឿង ហើយជាផ្លូវលំនាំដើមដែលរឿងតាម ប្រសិនបើមិនមានសាខា។",
+        "minimap": "ផែនទីតូច",
+        "minimap_description": "ផែនទីតូចផ្តល់ទស្វនៈពីលើនៃរឿងទាំងមូលរបស់អ្នក ធ្វើឱ្យងាយស្រួលក្នុងការរុករក និងយល់ពីរចនាសម្ព័ន្ធសរុប។",
+        "zoom_controls": "ការគ្រប់គ្រងពង្រីក",
+        "zoom_controls_description": "តើការគ្រប់គ្រងពង្រីកគួរត្រូវបានបង្ហាញឬអត់។",
+        "grid_style": "រចនាប័ទ្មក្រឡា",
+        "grid_style_description": "ជ្រើសរចនាប័ទ្មក្រឡា។",
+        "grid_styles": {
+            "dots": "ចំណុច",
+            "lines": "បន្ទាត់",
+            "hierarchical": "ឋានានុក្រម",
+            "none": "គ្មាន"
+        },
+        "grid_color": "ពណ៌ក្រឡា",
+        "grid_color_description": "ជ្រើសពណ៌ក្រឡា។",
+        "grid_color_picker": "កម្មវិធីជ្រើសពណ៌ក្រឡា",
         "scene": {
             "scenes": "ឈុតឆាកទាំងឡាយ",
             "scene": "ឈុតឆាក",

@@ -12,7 +12,8 @@
         "skip": "Hoppa över",
         "new_message": "Nytt meddelande",
         "version": "Version {version}",
-        "release_number": "Versionsnummer: {number}"
+        "release_number": "Versionsnummer: {number}",
+        "share": "Dela"
     },
     "sessions": {
         "my_sessions": "Mina sessioner",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Befintliga molnsparningar",
         "existing_cloud_saves_description": "Det verkar som att du har befintliga molnsparningar, vill du ladda ner dem?",
         "local_only": "Endast lokalt",
+        "no_scenes_found": "Inga scener hittades.\nTryck på + för att lägga till en ny.",
+        "sacred_timeline": "Helig tidslinje",
+        "sacred_timeline_description": "Den heliga tidslinjen är markerad i gult och är standardsökvägen som berättelsen följer om det inte finns några grenar.",
+        "minimap": "Minikarta",
+        "minimap_description": "Minikartan ger en fågelperspektivvy av hela din berättelse, vilket gör det enkelt att navigera och förstå den övergripande strukturen.",
+        "zoom_controls": "Zoomkontroller",
+        "zoom_controls_description": "Om zoomkontrollerna ska visas.",
+        "grid_style": "Rutnätsstil",
+        "grid_style_description": "Välj rutnätsstilen.",
+        "grid_styles": {
+            "dots": "Prickar",
+            "lines": "Linjer",
+            "hierarchical": "Hierarkisk",
+            "none": "Ingen"
+        },
+        "grid_color": "Rutnätsfärg",
+        "grid_color_description": "Välj rutnätsfärgen.",
+        "grid_color_picker": "Rutnätsfärgväljare",
         "scene": {
             "scenes": "Scener",
             "scene": "Scen",

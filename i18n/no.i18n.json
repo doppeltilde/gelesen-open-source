@@ -12,7 +12,8 @@
         "skip": "Hopp over",
         "new_message": "Ny melding",
         "version": "Versjon {version}",
-        "release_number": "Versjonsnummer: {number}"
+        "release_number": "Versjonsnummer: {number}",
+        "share": "Del"
     },
     "sessions": {
         "my_sessions": "Mine økter",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Eksisterende skylagringer",
         "existing_cloud_saves_description": "Det ser ut som du har eksisterende skylagringer, vil du laste dem ned?",
         "local_only": "Kun lokalt",
+        "no_scenes_found": "Ingen scener funnet.\nTrykk på + for å legge til en ny.",
+        "sacred_timeline": "Hellig tidslinje",
+        "sacred_timeline_description": "Den hellige tidslinjen er markert med gult og er standardstien historien følger hvis det ikke er grener.",
+        "minimap": "Minikart",
+        "minimap_description": "Minikartet gir et fugleperspektiv av hele historien din, noe som gjør det enkelt å navigere og forstå den overordnede strukturen.",
+        "zoom_controls": "Zoomkontroller",
+        "zoom_controls_description": "Om zoomkontrollene skal vises.",
+        "grid_style": "Rutenettstil",
+        "grid_style_description": "Velg rutenettstilen.",
+        "grid_styles": {
+            "dots": "Prikker",
+            "lines": "Linjer",
+            "hierarchical": "Hierarkisk",
+            "none": "Ingen"
+        },
+        "grid_color": "Rutenettfarge",
+        "grid_color_description": "Velg rutenettfargen.",
+        "grid_color_picker": "Rutenettfargevelger",
         "scene": {
             "scenes": "Scener",
             "scene": "Scene",

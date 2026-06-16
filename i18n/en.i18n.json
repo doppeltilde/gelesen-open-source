@@ -12,7 +12,8 @@
         "skip": "Skip",
         "new_message": "New Message",
         "version": "Version {version}",
-        "release_number": "Release Number: {number}"
+        "release_number": "Release Number: {number}",
+        "share": "Share"
     },
     "sessions": {
         "my_sessions": "My sessions",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Existing Cloud Saves",
         "existing_cloud_saves_description": "It looks like you have existing cloud saves, do you want to download them?",
         "local_only": "Local Only",
+        "no_scenes_found": "No scenes found.\nTap on the + to add a new one.",
+        "sacred_timeline": "Sacred Timeline",
+        "sacred_timeline_description": "The sacred timeline is marked in yellow and is the default path the story follows if there are no branches.",
+        "minimap": "Minimap",
+        "minimap_description": "The minimap provides a bird's-eye view of your entire story, making it easy to navigate and understand the overall structure.",
+        "zoom_controls": "Zoom Controls",
+        "zoom_controls_description": "If the zoom controls should be shown.",
+        "grid_style": "Grid Style",
+        "grid_style_description": "Choose the style style.",
+        "grid_styles": {
+            "dots": "Dots",
+            "lines": "Lines",
+            "hierarchical": "Hierarchical",
+            "none": "None"
+        },
+        "grid_color": "Grid Color",
+        "grid_color_description": "Choose the grid color.",
+        "grid_color_picker": "Grid Color Picker",
         "scene": {
             "scenes": "Scenes",
             "scene": "Scene",

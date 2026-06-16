@@ -12,7 +12,8 @@
         "skip": "Skip",
         "new_message": "Nuwe boodskap",
         "version": "Weergawe {version}",
-        "release_number": "Vrystellingsnommer: {number}"
+        "release_number": "Vrystellingsnommer: {number}",
+        "share": "Deel"
     },
     "sessions": {
         "my_sessions": "My sessies",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Bestaande wolk-rugsteune",
         "existing_cloud_saves_description": "Dit lyk of jy bestaande wolk-rugsteune het. Wil jy dit aflaai?",
         "local_only": "Slegs plaaslik",
+        "no_scenes_found": "Geen tonele gevind nie.\nTik op + om 'n nuwe een by te voeg.",
+        "sacred_timeline": "Heilige tydlyn",
+        "sacred_timeline_description": "Die heilige tydlyn is in geel gemerk en is die verstekpad wat die storie volg as daar geen vertakkings is nie.",
+        "minimap": "Minikaart",
+        "minimap_description": "Die minikaart bied 'n voëlsoog-uitsig van jou hele storie, wat dit maklik maak om te navigeer en die algehele struktuur te verstaan.",
+        "zoom_controls": "Zoemkontroles",
+        "zoom_controls_description": "Of die zoomkontroles gewys moet word.",
+        "grid_style": "Roostertyl",
+        "grid_style_description": "Kies die roostertyl.",
+        "grid_styles": {
+            "dots": "Punte",
+            "lines": "Lyne",
+            "hierarchical": "Hierarchies",
+            "none": "Geen"
+        },
+        "grid_color": "Roosterkleur",
+        "grid_color_description": "Kies die roosterkleur.",
+        "grid_color_picker": "Roosterkleurkieser",
         "scene": {
             "scenes": "Tonele",
             "scene": "Toneel",

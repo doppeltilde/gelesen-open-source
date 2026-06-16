@@ -12,7 +12,8 @@
         "skip": "跳過",
         "new_message": "新訊息",
         "version": "版本 {version}",
-        "release_number": "發行編號：{number}"
+        "release_number": "發行編號：{number}",
+        "share": "分享"
     },
     "sessions": {
         "my_sessions": "我的工作階段",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "現有雲端存檔",
         "existing_cloud_saves_description": "您似乎有現有的雲端存檔，是否要下載？",
         "local_only": "僅限本機",
+        "no_scenes_found": "找不到場景。\n點一下 + 以新增場景。",
+        "sacred_timeline": "神聖時間軸",
+        "sacred_timeline_description": "神聖時間軸以黃色標記，是沒有分支時故事遵循的預設路徑。",
+        "minimap": "小地圖",
+        "minimap_description": "小地圖提供整個故事的鳥瞰視圖，便於導覽和理解整體結構。",
+        "zoom_controls": "縮放控制項",
+        "zoom_controls_description": "是否顯示縮放控制項。",
+        "grid_style": "網格樣式",
+        "grid_style_description": "選擇網格樣式。",
+        "grid_styles": {
+            "dots": "點",
+            "lines": "線",
+            "hierarchical": "階層",
+            "none": "無"
+        },
+        "grid_color": "網格顏色",
+        "grid_color_description": "選擇網格顏色。",
+        "grid_color_picker": "網格顏色選擇器",
         "scene": {
             "scenes": "場景",
             "scene": "場景",

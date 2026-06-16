@@ -12,7 +12,8 @@
         "skip": "Überspringen",
         "new_message": "Neue Nachricht",
         "version": "Version {version}",
-        "release_number": "Versionsnummer: {number}"
+        "release_number": "Versionsnummer: {number}",
+        "share": "Teilen"
     },
     "sessions": {
         "my_sessions": "Meine Sitzungen",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Vorhandene Cloud-Spielstände",
         "existing_cloud_saves_description": "Es sieht so aus, als ob Sie vorhandene Cloud-Spielstände haben. Möchten Sie diese herunterladen?",
         "local_only": "Nur lokal",
+        "no_scenes_found": "Keine Szenen gefunden.\nTippe auf +, um eine neue hinzuzufügen.",
+        "sacred_timeline": "Heilige Zeitleiste",
+        "sacred_timeline_description": "Die heilige Zeitleiste ist gelb markiert und ist der Standardpfad, dem die Geschichte folgt, wenn es keine Verzweigungen gibt.",
+        "minimap": "Minimap",
+        "minimap_description": "Die Minimap bietet einen Überblick über deine gesamte Geschichte und erleichtert die Navigation und das Verständnis der Gesamtstruktur.",
+        "zoom_controls": "Zoom-Steuerung",
+        "zoom_controls_description": "Ob die Zoom-Steuerung angezeigt werden soll.",
+        "grid_style": "Rasterstil",
+        "grid_style_description": "Wähle den Rasterstil.",
+        "grid_styles": {
+            "dots": "Punkte",
+            "lines": "Linien",
+            "hierarchical": "Hierarchisch",
+            "none": "Keine"
+        },
+        "grid_color": "Rasterfarbe",
+        "grid_color_description": "Wähle die Rasterfarbe.",
+        "grid_color_picker": "Rasterfarbauswahl",
         "scene": {
             "scenes": "Szenen",
             "scene": "Szene",

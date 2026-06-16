@@ -12,7 +12,8 @@
         "skip": "Pular",
         "new_message": "Nova mensagem",
         "version": "Versão {version}",
-        "release_number": "Número de lançamento: {number}"
+        "release_number": "Número de lançamento: {number}",
+        "share": "Compartilhar"
     },
     "sessions": {
         "my_sessions": "Minhas sessões",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Salvamentos na nuvem existentes",
         "existing_cloud_saves_description": "Parece que você tem salvamentos na nuvem existentes, deseja baixá-los?",
         "local_only": "Apenas local",
+        "no_scenes_found": "Nenhuma cena encontrada.\nToque em + para adicionar uma nova.",
+        "sacred_timeline": "Linha do tempo sagrada",
+        "sacred_timeline_description": "A linha do tempo sagrada está marcada em amarelo e é o caminho padrão que a história segue se não houver ramificações.",
+        "minimap": "Minimapa",
+        "minimap_description": "O minimapa oferece uma visão geral de toda a sua história, facilitando a navegação e a compreensão da estrutura geral.",
+        "zoom_controls": "Controles de zoom",
+        "zoom_controls_description": "Se os controles de zoom devem ser exibidos.",
+        "grid_style": "Estilo de grade",
+        "grid_style_description": "Escolha o estilo de grade.",
+        "grid_styles": {
+            "dots": "Pontos",
+            "lines": "Linhas",
+            "hierarchical": "Hierárquico",
+            "none": "Nenhum"
+        },
+        "grid_color": "Cor da grade",
+        "grid_color_description": "Escolha a cor da grade.",
+        "grid_color_picker": "Seletor de cor da grade",
         "scene": {
             "scenes": "Cenas",
             "scene": "Cena",

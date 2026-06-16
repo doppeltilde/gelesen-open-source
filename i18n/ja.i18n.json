@@ -12,7 +12,8 @@
         "skip": "スキップ",
         "new_message": "新規メッセージ",
         "version": "バージョン {version}",
-        "release_number": "リリース番号: {number}"
+        "release_number": "リリース番号: {number}",
+        "share": "共有"
     },
     "sessions": {
         "my_sessions": "マイセッション",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "既存のクラウドセーブ",
         "existing_cloud_saves_description": "既存のクラウドセーブがあるようです。ダウンロードしますか？",
         "local_only": "ローカルのみ",
+        "no_scenes_found": "シーンが見つかりません。\n+ をタップして新しいシーンを追加してください。",
+        "sacred_timeline": "セイクリッドタイムライン",
+        "sacred_timeline_description": "セイクリッドタイムラインは黄色で表示され、分岐がない場合にストーリーがたどるデフォルトのパスです。",
+        "minimap": "ミニマップ",
+        "minimap_description": "ミニマップはストーリー全体を俯瞰でき、ナビゲーションと全体構造の理解を容易にします。",
+        "zoom_controls": "ズームコントロール",
+        "zoom_controls_description": "ズームコントロールを表示するかどうか。",
+        "grid_style": "グリッドスタイル",
+        "grid_style_description": "グリッドスタイルを選択してください。",
+        "grid_styles": {
+            "dots": "ドット",
+            "lines": "ライン",
+            "hierarchical": "階層型",
+            "none": "なし"
+        },
+        "grid_color": "グリッドカラー",
+        "grid_color_description": "グリッドカラーを選択してください。",
+        "grid_color_picker": "グリッドカラーピッカー",
         "scene": {
             "scenes": "シーン一覧",
             "scene": "シーン",

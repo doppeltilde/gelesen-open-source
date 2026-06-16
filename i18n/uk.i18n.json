@@ -12,7 +12,8 @@
         "skip": "Пропустити",
         "new_message": "Нове повідомлення",
         "version": "Версія {version}",
-        "release_number": "Номер випуску: {number}"
+        "release_number": "Номер випуску: {number}",
+        "share": "Поділитися"
     },
     "sessions": {
         "my_sessions": "Мої сесії",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Наявні хмарні збереження",
         "existing_cloud_saves_description": "Схоже, у вас є наявні хмарні збереження, чи хочете ви їх завантажити?",
         "local_only": "Лише локально",
+        "no_scenes_found": "Сцен не знайдено.\nНатисніть +, щоб додати нову.",
+        "sacred_timeline": "Священна часова лінія",
+        "sacred_timeline_description": "Священна часова лінія позначена жовтим і є шляхом за замовчуванням, яким слідує історія, якщо немає розгалужень.",
+        "minimap": "Мінікарта",
+        "minimap_description": "Мінікарта надає огляд усієї вашої історії зверху, полегшуючи навігацію та розуміння загальної структури.",
+        "zoom_controls": "Елементи керування масштабом",
+        "zoom_controls_description": "Чи слід показувати елементи керування масштабом.",
+        "grid_style": "Стиль сітки",
+        "grid_style_description": "Виберіть стиль сітки.",
+        "grid_styles": {
+            "dots": "Крапки",
+            "lines": "Лінії",
+            "hierarchical": "Ієрархічний",
+            "none": "Немає"
+        },
+        "grid_color": "Колір сітки",
+        "grid_color_description": "Виберіть колір сітки.",
+        "grid_color_picker": "Вибір кольору сітки",
         "scene": {
             "scenes": "Сцени",
             "scene": "Сцена",

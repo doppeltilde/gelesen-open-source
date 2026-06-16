@@ -12,7 +12,8 @@
         "skip": "Bỏ qua",
         "new_message": "Tin nhắn mới",
         "version": "Phiên bản {version}",
-        "release_number": "Mã phiên bản: {number}"
+        "release_number": "Mã phiên bản: {number}",
+        "share": "Chia sẻ"
     },
     "sessions": {
         "my_sessions": "Phiên hoạt động của tôi",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Bản lưu trên đám mây hiện có",
         "existing_cloud_saves_description": "Có vẻ như bạn đã có các bản lưu trên đám mây, bạn có muốn tải chúng xuống không?",
         "local_only": "Chỉ cục bộ",
+        "no_scenes_found": "Không tìm thấy cảnh nào.\nChạm vào + để thêm cảnh mới.",
+        "sacred_timeline": "Dòng thời gian thiêng liêng",
+        "sacred_timeline_description": "Dòng thời gian thiêng liêng được đánh dấu màu vàng và là đường mặc định mà câu chuyện theo nếu không có nhánh.",
+        "minimap": "Bản đồ thu nhỏ",
+        "minimap_description": "Bản đồ thu nhỏ cung cấp góc nhìn toàn cảnh toàn bộ câu chuyện của bạn, giúp dễ dàng điều hướng và hiểu cấu trúc tổng thể.",
+        "zoom_controls": "Điều khiển thu phóng",
+        "zoom_controls_description": "Có nên hiển thị điều khiển thu phóng hay không.",
+        "grid_style": "Kiểu lưới",
+        "grid_style_description": "Chọn kiểu lưới.",
+        "grid_styles": {
+            "dots": "Chấm",
+            "lines": "Đường",
+            "hierarchical": "Phân cấp",
+            "none": "Không có"
+        },
+        "grid_color": "Màu lưới",
+        "grid_color_description": "Chọn màu lưới.",
+        "grid_color_picker": "Bộ chọn màu lưới",
         "scene": {
             "scenes": "Các phân cảnh",
             "scene": "Phân cảnh",

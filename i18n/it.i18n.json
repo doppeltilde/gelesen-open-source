@@ -12,7 +12,8 @@
         "skip": "Salta",
         "new_message": "Nuovo messaggio",
         "version": "Versione {version}",
-        "release_number": "Numero di rilascio: {number}"
+        "release_number": "Numero di rilascio: {number}",
+        "share": "Condividi"
     },
     "sessions": {
         "my_sessions": "Le mie sessioni",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Salvataggi cloud esistenti",
         "existing_cloud_saves_description": "Sembra che tu abbia dei salvataggi nel cloud, vuoi scaricarli?",
         "local_only": "Solo locale",
+        "no_scenes_found": "Nessuna scena trovata.\nTocca + per aggiungerne una nuova.",
+        "sacred_timeline": "Timeline sacra",
+        "sacred_timeline_description": "La timeline sacra è contrassegnata in giallo ed è il percorso predefinito che la storia segue se non ci sono diramazioni.",
+        "minimap": "Minimappa",
+        "minimap_description": "La minimappa offre una vista dall'alto dell'intera storia, facilitando la navigazione e la comprensione della struttura generale.",
+        "zoom_controls": "Controlli zoom",
+        "zoom_controls_description": "Se i controlli zoom devono essere mostrati.",
+        "grid_style": "Stile griglia",
+        "grid_style_description": "Scegli lo stile della griglia.",
+        "grid_styles": {
+            "dots": "Punti",
+            "lines": "Linee",
+            "hierarchical": "Gerarchico",
+            "none": "Nessuno"
+        },
+        "grid_color": "Colore griglia",
+        "grid_color_description": "Scegli il colore della griglia.",
+        "grid_color_picker": "Selettore colore griglia",
         "scene": {
             "scenes": "Scene",
             "scene": "Scena",

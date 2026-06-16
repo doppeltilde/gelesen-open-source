@@ -12,7 +12,8 @@
         "skip": "Omite",
         "new_message": "Mesaj nou",
         "version": "Versiunea {version}",
-        "release_number": "Număr lansare: {number}"
+        "release_number": "Număr lansare: {number}",
+        "share": "Partajează"
     },
     "sessions": {
         "my_sessions": "Sesiunile mele",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Salvări în cloud existente",
         "existing_cloud_saves_description": "Se pare că ai salvări în cloud existente, dorești să le descarci?",
         "local_only": "Doar local",
+        "no_scenes_found": "Nu s-au găsit scene.\nAtinge + pentru a adăuga una nouă.",
+        "sacred_timeline": "Cronologie sacră",
+        "sacred_timeline_description": "Cronologia sacră este marcată cu galben și este calea implicită pe care o urmează povestea dacă nu există ramificații.",
+        "minimap": "Minihartă",
+        "minimap_description": "Miniharta oferă o vedere de ansamblu a întregii povești, facilitând navigarea și înțelegerea structurii generale.",
+        "zoom_controls": "Controale zoom",
+        "zoom_controls_description": "Dacă controalele de zoom trebuie afișate.",
+        "grid_style": "Stil grilă",
+        "grid_style_description": "Alege stilul grilei.",
+        "grid_styles": {
+            "dots": "Puncte",
+            "lines": "Linii",
+            "hierarchical": "Ierarhic",
+            "none": "Niciunul"
+        },
+        "grid_color": "Culoarea grilei",
+        "grid_color_description": "Alege culoarea grilei.",
+        "grid_color_picker": "Selector culoare grilă",
         "scene": {
             "scenes": "Scene",
             "scene": "Scenă",

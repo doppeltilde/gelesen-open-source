@@ -12,7 +12,8 @@
         "skip": "Omitir",
         "new_message": "Nuevo mensaje",
         "version": "Versión {version}",
-        "release_number": "Número de lanzamiento: {number}"
+        "release_number": "Número de lanzamiento: {number}",
+        "share": "Compartir"
     },
     "sessions": {
         "my_sessions": "Mis sesiones",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Datos guardados en la nube existentes",
         "existing_cloud_saves_description": "Parece que tienes datos guardados en la nube. ¿Quieres descargarlos?",
         "local_only": "Solo local",
+        "no_scenes_found": "No se encontraron escenas.\nToca el + para añadir una nueva.",
+        "sacred_timeline": "Línea temporal sagrada",
+        "sacred_timeline_description": "La línea temporal sagrada está marcada en amarillo y es la ruta predeterminada que sigue la historia si no hay ramificaciones.",
+        "minimap": "Minimapa",
+        "minimap_description": "El minimapa ofrece una vista general de toda tu historia, facilitando la navegación y la comprensión de la estructura general.",
+        "zoom_controls": "Controles de zoom",
+        "zoom_controls_description": "Si se deben mostrar los controles de zoom.",
+        "grid_style": "Estilo de cuadrícula",
+        "grid_style_description": "Elige el estilo de cuadrícula.",
+        "grid_styles": {
+            "dots": "Puntos",
+            "lines": "Líneas",
+            "hierarchical": "Jerárquico",
+            "none": "Ninguno"
+        },
+        "grid_color": "Color de la cuadrícula",
+        "grid_color_description": "Elige el color de la cuadrícula.",
+        "grid_color_picker": "Selector de color de cuadrícula",
         "scene": {
             "scenes": "Escenas",
             "scene": "Escena",

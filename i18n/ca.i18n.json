@@ -12,7 +12,8 @@
         "skip": "Ometre",
         "new_message": "Nou missatge",
         "version": "Versió {version}",
-        "release_number": "Número de llançament: {number}"
+        "release_number": "Número de llançament: {number}",
+        "share": "Comparteix"
     },
     "sessions": {
         "my_sessions": "Les meves sessions",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Dades desades al núvol existents",
         "existing_cloud_saves_description": "Sembla que teniu dades desades al núvol. Voleu descarregar-les?",
         "local_only": "Només local",
+        "no_scenes_found": "No s'han trobat escenes.\nToca el + per afegir-ne una de nova.",
+        "sacred_timeline": "Línia temporal sagrada",
+        "sacred_timeline_description": "La línia temporal sagrada està marcada en groc i és el camí predeterminat que segueix la història si no hi ha ramificacions.",
+        "minimap": "Minimapa",
+        "minimap_description": "El minimapa ofereix una vista general de tota la teva història, facilitant la navegació i la comprensió de l'estructura general.",
+        "zoom_controls": "Controls de zoom",
+        "zoom_controls_description": "Si s'han de mostrar els controls de zoom.",
+        "grid_style": "Estil de graella",
+        "grid_style_description": "Tria l'estil de graella.",
+        "grid_styles": {
+            "dots": "Punts",
+            "lines": "Línies",
+            "hierarchical": "Jeràrquic",
+            "none": "Cap"
+        },
+        "grid_color": "Color de la graella",
+        "grid_color_description": "Tria el color de la graella.",
+        "grid_color_picker": "Selector de color de la graella",
         "scene": {
             "scenes": "Escenes",
             "scene": "Escena",

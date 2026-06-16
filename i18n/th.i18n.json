@@ -12,7 +12,8 @@
         "skip": "ข้าม",
         "new_message": "ข้อความใหม่",
         "version": "เวอร์ชัน {version}",
-        "release_number": "หมายเลขการเปิดตัว: {number}"
+        "release_number": "หมายเลขการเปิดตัว: {number}",
+        "share": "แชร์"
     },
     "sessions": {
         "my_sessions": "เซสชันของฉัน",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "ข้อมูลบันทึกบนคลาวด์ที่มีอยู่",
         "existing_cloud_saves_description": "ดูเหมือนว่าคุณจะมีข้อมูลบันทึกบนคลาวด์อยู่แล้ว คุณต้องการดาวน์โหลดหรือไม่?",
         "local_only": "เฉพาะในเครื่อง",
+        "no_scenes_found": "ไม่พบฉาก\nแตะ + เพื่อเพิ่มฉากใหม่",
+        "sacred_timeline": "ไทม์ไลน์ศักดิ์สิทธิ์",
+        "sacred_timeline_description": "ไทม์ไลน์ศักดิ์สิทธิ์ถูกทำเครื่องหมายเป็นสีเหลืองและเป็นเส้นทางเริ่มต้นที่เรื่องราวจะดำเนินตามหากไม่มีสาขา",
+        "minimap": "มินิแมป",
+        "minimap_description": "มินิแมปให้มุมมองจากด้านบนของเรื่องราวทั้งหมดของคุณ ทำให้ง่ายต่อการนำทางและเข้าใจโครงสร้างโดยรวม",
+        "zoom_controls": "การควบคุมการซูม",
+        "zoom_controls_description": "ว่าควรแสดงการควบคุมการซูมหรือไม่",
+        "grid_style": "สไตล์ตาราง",
+        "grid_style_description": "เลือกสไตล์ตาราง",
+        "grid_styles": {
+            "dots": "จุด",
+            "lines": "เส้น",
+            "hierarchical": "ลำดับชั้น",
+            "none": "ไม่มี"
+        },
+        "grid_color": "สีตาราง",
+        "grid_color_description": "เลือกสีตาราง",
+        "grid_color_picker": "ตัวเลือกสีตาราง",
         "scene": {
             "scenes": "ฉากทั้งหมด",
             "scene": "ฉาก",

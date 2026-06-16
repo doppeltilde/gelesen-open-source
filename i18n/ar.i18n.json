@@ -12,7 +12,8 @@
         "skip": "تخطي",
         "new_message": "رسالة جديدة",
         "version": "الإصدار {version}",
-        "release_number": "رقم الإصدار: {number}"
+        "release_number": "رقم الإصدار: {number}",
+        "share": "مشاركة"
     },
     "sessions": {
         "my_sessions": "جلساتي",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "ملفات حفظ سحابية موجودة",
         "existing_cloud_saves_description": "يبدو أن لديك ملفات حفظ سحابية موجودة، هل تريد تنزيلها؟",
         "local_only": "محلي فقط",
+        "no_scenes_found": "لم يتم العثور على مشاهد.\nاضغط على + لإضافة مشهد جديد.",
+        "sacred_timeline": "الخط الزمني المقدس",
+        "sacred_timeline_description": "يُميَّز الخط الزمني المقدس باللون الأصفر وهو المسار الافتراضي الذي تتبعه القصة إذا لم تكن هناك فروع.",
+        "minimap": "خريطة مصغرة",
+        "minimap_description": "توفر الخريطة المصغرة نظرة شاملة على قصتك بالكامل، مما يسهل التنقل وفهم البنية العامة.",
+        "zoom_controls": "عناصر التحكم في التكبير",
+        "zoom_controls_description": "ما إذا كان يجب عرض عناصر التحكم في التكبير.",
+        "grid_style": "نمط الشبكة",
+        "grid_style_description": "اختر نمط الشبكة.",
+        "grid_styles": {
+            "dots": "نقاط",
+            "lines": "خطوط",
+            "hierarchical": "هرمي",
+            "none": "لا شيء"
+        },
+        "grid_color": "لون الشبكة",
+        "grid_color_description": "اختر لون الشبكة.",
+        "grid_color_picker": "منتقي لون الشبكة",
         "scene": {
             "scenes": "المشاهد",
             "scene": "المشهد",

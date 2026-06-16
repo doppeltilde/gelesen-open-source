@@ -12,7 +12,8 @@
         "skip": "Overslaan",
         "new_message": "Nieuw bericht",
         "version": "Versie {version}",
-        "release_number": "Releasenummer: {number}"
+        "release_number": "Releasenummer: {number}",
+        "share": "Delen"
     },
     "sessions": {
         "my_sessions": "Mijn sessies",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "Bestaande cloudopslagen",
         "existing_cloud_saves_description": "Het lijkt erop dat je bestaande cloudopslagen hebt, wil je deze downloaden?",
         "local_only": "Alleen lokaal",
+        "no_scenes_found": "Geen scènes gevonden.\nTik op + om een nieuwe toe te voegen.",
+        "sacred_timeline": "Heilige tijdlijn",
+        "sacred_timeline_description": "De heilige tijdlijn is geel gemarkeerd en is het standaardpad dat het verhaal volgt als er geen vertakkingen zijn.",
+        "minimap": "Minimap",
+        "minimap_description": "De minimap biedt een vogelvluchtperspectief van je hele verhaal, waardoor navigeren en het begrijpen van de algehele structuur eenvoudig wordt.",
+        "zoom_controls": "Zoombediening",
+        "zoom_controls_description": "Of de zoombediening moet worden weergegeven.",
+        "grid_style": "Rasterstijl",
+        "grid_style_description": "Kies de rasterstijl.",
+        "grid_styles": {
+            "dots": "Stippen",
+            "lines": "Lijnen",
+            "hierarchical": "Hiërarchisch",
+            "none": "Geen"
+        },
+        "grid_color": "Rasterkleur",
+        "grid_color_description": "Kies de rasterkleur.",
+        "grid_color_picker": "Rasterkleurkiezer",
         "scene": {
             "scenes": "Scènes",
             "scene": "Scène",

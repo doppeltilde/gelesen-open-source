@@ -12,7 +12,8 @@
         "skip": "דילוג",
         "new_message": "הודעה חדשה",
         "version": "גרסה {version}",
-        "release_number": "מספר גרסה: {number}"
+        "release_number": "מספר גרסה: {number}",
+        "share": "שיתוף"
     },
     "sessions": {
         "my_sessions": "התחברויות פעילות",
@@ -232,6 +233,24 @@
         "existing_cloud_saves": "שמירות ענן קיימות",
         "existing_cloud_saves_description": "נראה שיש לך שמירות ענן קיימות, האם ברצונך להוריد אותן?",
         "local_only": "מקומי בלבד",
+        "no_scenes_found": "לא נמצאו סצינות.\nהקש על + כדי להוסיף חדשה.",
+        "sacred_timeline": "ציר זמן קדוש",
+        "sacred_timeline_description": "ציר הזמן הקדוש מסומן בצהוב והוא הנתיב ברירת המחדל שהסיפור עוקב אחריו אם אין ענפים.",
+        "minimap": "מיני-מפה",
+        "minimap_description": "המיני-מפה מספקת מבט-על על כל הסיפור שלך, ומקלה על הניווט והבנת המבנה הכללי.",
+        "zoom_controls": "בקרות זום",
+        "zoom_controls_description": "האם להציג את בקרות הזום.",
+        "grid_style": "סגנון רשת",
+        "grid_style_description": "בחר את סגנון הרשת.",
+        "grid_styles": {
+            "dots": "נקודות",
+            "lines": "קווים",
+            "hierarchical": "היררכי",
+            "none": "ללא"
+        },
+        "grid_color": "צבע רשת",
+        "grid_color_description": "בחר את צבע הרשת.",
+        "grid_color_picker": "בוחר צבע רשת",
         "scene": {
             "scenes": "סצינות",
             "scene": "סצינה",
