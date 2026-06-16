@@ -34,6 +34,16 @@
         "revoke_reason": "Ви впевнені, що хочете завершити цю сесію? Це призведе до виходу з облікового запису на тому пристрої.",
         "failed_to_revoke": "Не вдалося завершити сесію."
     },
+    "profile": {
+        "change": "Змінити",
+        "name": "Ім'я",
+        "username": "Ім'я користувача",
+        "birth_date": "Дата народження",
+        "your_biography": "Про себе",
+        "private_account": "Приватний акаунт",
+        "private_account_description": "Заборонити іншим стежити за вами.",
+        "save": "Зберегти"
+    },
     "onboarding": {
         "profile_name": "Ім'я профілю",
         "please_select_at_least_one_topic": "Будь ласка, виберіть принаймні одну тему.",

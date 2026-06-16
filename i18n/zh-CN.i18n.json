@@ -34,6 +34,16 @@
         "revoke_reason": "您确定要撤销此会话吗？这将会使您在该设备上退出登录。",
         "failed_to_revoke": "撤销会话失败。"
     },
+    "profile": {
+        "change": "更改",
+        "name": "姓名",
+        "username": "用户名",
+        "birth_date": "出生日期",
+        "your_biography": "个人简介",
+        "private_account": "私密账户",
+        "private_account_description": "不允许其他人关注您。",
+        "save": "保存"
+    },
     "onboarding": {
         "profile_name": "个人资料名称",
         "please_select_at_least_one_topic": "请至少选择一个主题。",

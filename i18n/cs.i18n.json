@@ -34,6 +34,16 @@
         "revoke_reason": "Opravdu chcete ukončit tuto relaci? Tímto budete na daném zařízení odhlášeni.",
         "failed_to_revoke": "Nepodařilo se ukončit relaci."
     },
+    "profile": {
+        "change": "Změnit",
+        "name": "Jméno",
+        "username": "Uživatelské jméno",
+        "birth_date": "Datum narození",
+        "your_biography": "Váš životopis",
+        "private_account": "Soukromý účet",
+        "private_account_description": "Nedovolit ostatním, aby vás sledovali.",
+        "save": "Uložit"
+    },
     "onboarding": {
         "profile_name": "Název profilu",
         "please_select_at_least_one_topic": "Vyberte prosím alespoň jedno téma.",

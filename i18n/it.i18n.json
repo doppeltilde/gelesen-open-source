@@ -34,6 +34,16 @@
         "revoke_reason": "Sei sicuro di voler revocare questa sessione? Verrà effettuato il logout da quel dispositivo.",
         "failed_to_revoke": "Impossibile revocare la sessione."
     },
+    "profile": {
+        "change": "Modifica",
+        "name": "Nome",
+        "username": "Nome utente",
+        "birth_date": "Data di nascita",
+        "your_biography": "La tua biografia",
+        "private_account": "Account privato",
+        "private_account_description": "Impedisci ad altri di seguirti.",
+        "save": "Salva"
+    },
     "onboarding": {
         "profile_name": "Nome del profilo",
         "please_select_at_least_one_topic": "Seleziona almeno un argomento.",

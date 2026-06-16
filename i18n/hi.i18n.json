@@ -34,6 +34,16 @@
         "revoke_reason": "क्या आप निश्चित रूप से इस सत्र को समाप्त करना चाहते हैं? इससे आप उस डिवाइस से लॉग आउट हो जाएंगे।",
         "failed_to_revoke": "सत्र समाप्त करने में विफल।"
     },
+    "profile": {
+        "change": "बदलें",
+        "name": "नाम",
+        "username": "उपयोगकर्ता नाम",
+        "birth_date": "जन्म तिथि",
+        "your_biography": "आपकी जीवनी",
+        "private_account": "निजी खाता",
+        "private_account_description": "दूसरों को आपको फ़ॉलो करने की अनुमति न दें।",
+        "save": "सहेजें"
+    },
     "onboarding": {
         "profile_name": "प्रोफ़ाइल नाम",
         "please_select_at_least_one_topic": "कृपया कम से कम एक विषय चुनें।",

@@ -34,6 +34,16 @@
         "revoke_reason": "Sigur doriți să revocați această sesiune? Această acțiune vă va deconecta de pe acel dispozitiv.",
         "failed_to_revoke": "Nu s-a putut revoca sesiunea."
     },
+    "profile": {
+        "change": "Modifică",
+        "name": "Nume",
+        "username": "Nume de utilizator",
+        "birth_date": "Data nașterii",
+        "your_biography": "Biografia ta",
+        "private_account": "Cont privat",
+        "private_account_description": "Nu le permite altora să te urmărească.",
+        "save": "Salvează"
+    },
     "onboarding": {
         "profile_name": "Nume de profil",
         "please_select_at_least_one_topic": "Te rugăm să selectezi cel puțin un subiect.",

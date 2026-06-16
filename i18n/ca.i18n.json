@@ -34,6 +34,16 @@
         "revoke_reason": "Segur que voleu revocar aquesta sessió? Això tancarà la vostra sessió en aquest dispositiu.",
         "failed_to_revoke": "No s'ha pogut revocar la sessió."
     },
+    "profile": {
+        "change": "Canviar",
+        "name": "Nom",
+        "username": "Nom d'usuari",
+        "birth_date": "Data de naixement",
+        "your_biography": "La teva biografia",
+        "private_account": "Compte privat",
+        "private_account_description": "No permetre que altres et segueixin.",
+        "save": "Desar"
+    },
     "onboarding": {
         "profile_name": "Nom de perfil",
         "please_select_at_least_one_topic": "Si us plau, selecciona almenys un tema.",

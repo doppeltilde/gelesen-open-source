@@ -34,6 +34,16 @@
         "revoke_reason": "Sigurado ka bang gusto mong bawiin ang session na ito? Ika-sign out ka nito sa device na iyon.",
         "failed_to_revoke": "Bigo sa pagbawi ng session."
     },
+    "profile": {
+        "change": "Baguhin",
+        "name": "Pangalan",
+        "username": "Username",
+        "birth_date": "Araw ng kapanganakan",
+        "your_biography": "Iyong talambuhay",
+        "private_account": "Pribadong account",
+        "private_account_description": "Huwag payagan ang iba na i-follow ka.",
+        "save": "I-save"
+    },
     "onboarding": {
         "profile_name": "Pangalan sa Profile",
         "please_select_at_least_one_topic": "Mangyaring pumili ng hindi bababa sa isang paksa.",

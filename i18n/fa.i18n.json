@@ -34,6 +34,16 @@
         "revoke_reason": "آیا مطمئن هستید که می‌خواهید به این نشست پایان دهید؟ این کار شما را از آن دستگاه خارج می‌کند.",
         "failed_to_revoke": "پایان دادن به نشست با خطا مواجه شد."
     },
+    "profile": {
+        "change": "تغییر",
+        "name": "نام",
+        "username": "نام کاربری",
+        "birth_date": "تاریخ تولد",
+        "your_biography": "بیوگرافی شما",
+        "private_account": "حساب خصوصی",
+        "private_account_description": "عدم اجازه به دیگران برای دنبال کردن شما.",
+        "save": "ذخیره"
+    },
     "onboarding": {
         "profile_name": "نام پروفایل",
         "please_select_at_least_one_topic": "لطفاً حداقل یک موضوع انتخاب کنید.",

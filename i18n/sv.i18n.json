@@ -34,6 +34,16 @@
         "revoke_reason": "Är du säker på att du vill avsluta denna session? Detta kommer att logga ut dig från den enheten.",
         "failed_to_revoke": "Kunde inte avsluta sessionen."
     },
+    "profile": {
+        "change": "Ändra",
+        "name": "Namn",
+        "username": "Användarnamn",
+        "birth_date": "Födelsedatum",
+        "your_biography": "Din biografi",
+        "private_account": "Privat konto",
+        "private_account_description": "Tillåt inte andra att följa dig.",
+        "save": "Spara"
+    },
     "onboarding": {
         "profile_name": "Profilnamn",
         "please_select_at_least_one_topic": "Välj minst ett ämne.",

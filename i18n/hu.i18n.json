@@ -34,6 +34,16 @@
         "revoke_reason": "Biztosan le szeretnéd zárni ezt a munkamenetet? Ezzel kijelentkezel az adott eszközről.",
         "failed_to_revoke": "Nem sikerült lezárni a munkamenetet."
     },
+    "profile": {
+        "change": "Módosítás",
+        "name": "Név",
+        "username": "Felhasználónév",
+        "birth_date": "Születési dátum",
+        "your_biography": "Biográfiád",
+        "private_account": "Privát fiók",
+        "private_account_description": "Ne engedd, hogy mások kövessenek.",
+        "save": "Mentés"
+    },
     "onboarding": {
         "profile_name": "Profilnév",
         "please_select_at_least_one_topic": "Kérjük, válassz ki legalább egy témát.",

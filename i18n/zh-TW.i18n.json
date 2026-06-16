@@ -34,6 +34,16 @@
         "revoke_reason": "您確定要撤銷此工作階段吗？這將會登出您在該裝置上的帳號。",
         "failed_to_revoke": "撤銷工作階段失敗。"
     },
+    "profile": {
+        "change": "變更",
+        "name": "姓名",
+        "username": "使用者名稱",
+        "birth_date": "出生日期",
+        "your_biography": "個人簡介",
+        "private_account": "私密帳戶",
+        "private_account_description": "不允許其他人追蹤您。",
+        "save": "儲存"
+    },
     "onboarding": {
         "profile_name": "個人資料名稱",
         "please_select_at_least_one_topic": "請至少選擇一個主題。",

@@ -34,6 +34,16 @@
         "revoke_reason": "Is jy seker jy wil hierdie sessie herroep? Dit sal jou op daardie toestel uitteken.",
         "failed_to_revoke": "Kon nie sessie herroep nie."
     },
+    "profile": {
+        "change": "Verander",
+        "name": "Naam",
+        "username": "Gebruikersnaam",
+        "birth_date": "Geboortedatum",
+        "your_biography": "Jou biografie",
+        "private_account": "Privaat rekening",
+        "private_account_description": "Weier ander om jou te volg.",
+        "save": "Stoor"
+    },
     "onboarding": {
         "profile_name": "Profielnaam",
         "please_select_at_least_one_topic": "Kies asseblief ten minste een onderwerp.",

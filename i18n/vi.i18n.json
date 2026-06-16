@@ -34,6 +34,16 @@
         "revoke_reason": "Bạn có chắc chắn muốn thu hồi phiên hoạt động này không? Hành động này sẽ đăng xuất tài khoản của bạn trên thiết bị đó.",
         "failed_to_revoke": "Không thể thu hồi phiên hoạt động."
     },
+    "profile": {
+        "change": "Thay đổi",
+        "name": "Tên",
+        "username": "Tên người dùng",
+        "birth_date": "Ngày sinh",
+        "your_biography": "Tiểu sử của bạn",
+        "private_account": "Tài khoản riêng tư",
+        "private_account_description": "Không cho phép người khác theo dõi bạn.",
+        "save": "Lưu"
+    },
     "onboarding": {
         "profile_name": "Tên hồ sơ",
         "please_select_at_least_one_topic": "Vui lòng chọn ít nhất một chủ đề.",

@@ -34,6 +34,16 @@
         "revoke_reason": "Bist du sicher, dass du diese Sitzung beenden möchtest? Dadurch wirst du auf diesem Gerät abgemeldet.",
         "failed_to_revoke": "Sitzung konnte nicht beendet werden."
     },
+    "profile": {
+        "change": "Ändern",
+        "name": "Name",
+        "username": "Benutzername",
+        "birth_date": "Geburtsdatum",
+        "your_biography": "Deine Biografie",
+        "private_account": "Privates Konto",
+        "private_account_description": "Anderen nicht erlauben, dir zu folgen.",
+        "save": "Speichern"
+    },
     "onboarding": {
         "profile_name": "Profilname",
         "please_select_at_least_one_topic": "Bitte wähle mindestens ein Thema aus.",

@@ -34,6 +34,16 @@
         "revoke_reason": "このセッションを解除してもよろしいですか？対象の端末からログアウトされます。",
         "failed_to_revoke": "セッションの解除に失敗しました。"
     },
+    "profile": {
+        "change": "変更",
+        "name": "名前",
+        "username": "ユーザー名",
+        "birth_date": "生年月日",
+        "your_biography": "自己紹介",
+        "private_account": "非公開アカウント",
+        "private_account_description": "他のユーザーからのフォローを許可しない。",
+        "save": "保存"
+    },
     "onboarding": {
         "profile_name": "プロフィール名",
         "please_select_at_least_one_topic": "トピックを少なくとも1つ選択してください。",

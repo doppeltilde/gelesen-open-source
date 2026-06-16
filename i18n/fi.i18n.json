@@ -34,6 +34,16 @@
         "revoke_reason": "Haluatko varmasti lopettaa tämän istunnon? Tämä kirjaa sinut ulos kyseiseltä laitteelta.",
         "failed_to_revoke": "Istunnon lopettaminen epäonnistui."
     },
+    "profile": {
+        "change": "Muuta",
+        "name": "Nimi",
+        "username": "Käyttäjätunnus",
+        "birth_date": "Syntymäaika",
+        "your_biography": "Biografiasi",
+        "private_account": "Yksityinen tili",
+        "private_account_description": "Älä salli muiden seurata sinua.",
+        "save": "Tallenna"
+    },
     "onboarding": {
         "profile_name": "Profiilin nimi",
         "please_select_at_least_one_topic": "Valitse vähintään yksi aihe.",

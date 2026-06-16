@@ -34,6 +34,16 @@
         "revoke_reason": "Да ли сте сигурни да желите да прекинете ову сесију? Ово ће вас одјавити са тог уређаја.",
         "failed_to_revoke": "Неуспешно прекидање сесије."
     },
+    "profile": {
+        "change": "Промени",
+        "name": "Име",
+        "username": "Корисничко име",
+        "birth_date": "Датум рођења",
+        "your_biography": "Ваша биографија",
+        "private_account": "Приватни налог",
+        "private_account_description": "Онемогући другима да те прате.",
+        "save": "Сачувај"
+    },
     "onboarding": {
         "profile_name": "Име профила",
         "please_select_at_least_one_topic": "Молимо изаберите барем једну тему.",

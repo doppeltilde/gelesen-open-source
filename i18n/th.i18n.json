@@ -34,6 +34,16 @@
         "revoke_reason": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกเซสชันนี้? การดำเนินการนี้จะทำให้คุณออกจากระบบบนอุปกรณ์นั้น",
         "failed_to_revoke": "ไม่สามารถยกเลิกเซสชันได้"
     },
+    "profile": {
+        "change": "เปลี่ยน",
+        "name": "ชื่อ",
+        "username": "ชื่อผู้ใช้",
+        "birth_date": "วันเกิด",
+        "your_biography": "ประวัติของคุณ",
+        "private_account": "บัญชีส่วนตัว",
+        "private_account_description": "ไม่อนุญาตให้ผู้อื่นติดตามคุณ",
+        "save": "บันทึก"
+    },
     "onboarding": {
         "profile_name": "ชื่อโปรไฟล์",
         "please_select_at_least_one_topic": "โปรดเลือกอย่างน้อยหนึ่งหัวข้อ",

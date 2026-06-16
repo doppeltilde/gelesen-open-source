@@ -34,6 +34,16 @@
         "revoke_reason": "Apakah Anda yakin ingin mencabut sesi ini? Tindakan ini akan mengeluarkan Anda dari perangkat tersebut.",
         "failed_to_revoke": "Gagal mencabut sesi."
     },
+    "profile": {
+        "change": "Ubah",
+        "name": "Nama",
+        "username": "Nama pengguna",
+        "birth_date": "Tanggal lahir",
+        "your_biography": "Biografi Anda",
+        "private_account": "Akun privat",
+        "private_account_description": "Jangan izinkan orang lain mengikuti Anda.",
+        "save": "Simpan"
+    },
     "onboarding": {
         "profile_name": "Nama profil",
         "please_select_at_least_one_topic": "Silakan pilih setidaknya satu topik.",

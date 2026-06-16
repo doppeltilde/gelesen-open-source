@@ -34,6 +34,16 @@
         "revoke_reason": "Weet je zeker dat je deze sessie wilt intrekken? Hiermee word je uitgelogd op dat apparaat.",
         "failed_to_revoke": "Sessie intrekken mislukt."
     },
+    "profile": {
+        "change": "Wijzigen",
+        "name": "Naam",
+        "username": "Gebruikersnaam",
+        "birth_date": "Geboortedatum",
+        "your_biography": "Je biografie",
+        "private_account": "Privéaccount",
+        "private_account_description": "Anderen niet toestaan je te volgen.",
+        "save": "Opslaan"
+    },
     "onboarding": {
         "profile_name": "Profielnaam",
         "please_select_at_least_one_topic": "Selecteer ten minste één onderwerp.",

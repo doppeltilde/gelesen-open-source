@@ -34,6 +34,16 @@
         "revoke_reason": "Tem certeza de que deseja revogar esta sessão? Isso desconectará você daquele dispositivo.",
         "failed_to_revoke": "Falha ao revogar a sessão."
     },
+    "profile": {
+        "change": "Alterar",
+        "name": "Nome",
+        "username": "Nome de usuário",
+        "birth_date": "Data de nascimento",
+        "your_biography": "Sua biografia",
+        "private_account": "Conta privada",
+        "private_account_description": "Não permitir que outros sigam você.",
+        "save": "Salvar"
+    },
     "onboarding": {
         "profile_name": "Nome de perfil",
         "please_select_at_least_one_topic": "Por favor, selecione pelo menos um tema.",

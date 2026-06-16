@@ -34,6 +34,16 @@
         "revoke_reason": "¿Estás seguro de que deseas cerrar esta sesión? Esto desconectará tu cuenta en ese dispositivo.",
         "failed_to_revoke": "Error al cerrar la sesión."
     },
+    "profile": {
+        "change": "Cambiar",
+        "name": "Nombre",
+        "username": "Nombre de usuario",
+        "birth_date": "Fecha de nacimiento",
+        "your_biography": "Tu biografía",
+        "private_account": "Cuenta privada",
+        "private_account_description": "No permitir que otros te sigan.",
+        "save": "Guardar"
+    },
     "onboarding": {
         "profile_name": "Nombre de perfil",
         "please_select_at_least_one_topic": "Por favor, selecciona al menos un tema.",

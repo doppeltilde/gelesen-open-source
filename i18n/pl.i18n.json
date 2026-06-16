@@ -34,6 +34,16 @@
         "revoke_reason": "Czy na pewno chcesz unieważnić tę sesję? Spowoduje to wylogowanie z tamtego urządzenia.",
         "failed_to_revoke": "Nie udało się unieważnić sesji."
     },
+    "profile": {
+        "change": "Zmień",
+        "name": "Imię i nazwisko",
+        "username": "Nazwa użytkownika",
+        "birth_date": "Data urodzenia",
+        "your_biography": "Biogram",
+        "private_account": "Konto prywatne",
+        "private_account_description": "Uniemożliwiaj innym obserwowanie Ciebie.",
+        "save": "Zapisz"
+    },
     "onboarding": {
         "profile_name": "Nazwa profilu",
         "please_select_at_least_one_topic": "Wybierz co najmniej jeden temat.",

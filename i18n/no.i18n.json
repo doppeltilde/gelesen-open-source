@@ -34,6 +34,16 @@
         "revoke_reason": "Er du sikker på at du vil avslutte denne økten? Dette vil logge deg ut på den enheten.",
         "failed_to_revoke": "Kunne ikke avslutte økten."
     },
+    "profile": {
+        "change": "Endre",
+        "name": "Navn",
+        "username": "Brukernavn",
+        "birth_date": "Fødselsdato",
+        "your_biography": "Din biografi",
+        "private_account": "Privat konto",
+        "private_account_description": "Ikke tillat andre å følge deg.",
+        "save": "Lagre"
+    },
     "onboarding": {
         "profile_name": "Profilnavn",
         "please_select_at_least_one_topic": "Vennligst velg minst ett tema.",

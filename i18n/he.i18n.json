@@ -34,6 +34,16 @@
         "revoke_reason": "האם אתה בטוח שברצונך לנתק התחברות זו? פעולה זו תנתק אותך מהחשבון באותו מכשיר.",
         "failed_to_revoke": "ניתוק ההתחברות נכשל."
     },
+    "profile": {
+        "change": "שינוי",
+        "name": "שם",
+        "username": "שם משתמש",
+        "birth_date": "תאריך לידה",
+        "your_biography": "הביוגרפיה שלך",
+        "private_account": "חשבון פרטי",
+        "private_account_description": "אל תאפשר לאחרים לעקוב אחריך.",
+        "save": "שמירה"
+    },
     "onboarding": {
         "profile_name": "שם פרופיל",
         "please_select_at_least_one_topic": "אנא בخر לפחות נושא אחד.",

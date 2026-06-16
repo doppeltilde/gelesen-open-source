@@ -34,6 +34,16 @@
         "revoke_reason": "Er du sikker på, at du vil annullere denne session? Dette vil logge dig ud på den pågældende enhed.",
         "failed_to_revoke": "Kunne ikke annullere sessionen."
     },
+    "profile": {
+        "change": "Skift",
+        "name": "Navn",
+        "username": "Brugernavn",
+        "birth_date": "Fødselsdato",
+        "your_biography": "Din biografi",
+        "private_account": "Privat konto",
+        "private_account_description": "Tillad ikke andre at følge dig.",
+        "save": "Gem"
+    },
     "onboarding": {
         "profile_name": "Profilnavn",
         "please_select_at_least_one_topic": "Vælg venligst mindst ét emne.",

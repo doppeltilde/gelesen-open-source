@@ -34,6 +34,16 @@
         "revoke_reason": "هل أنت متأكد من أنك تريد إلغاء هذه الجلسة؟ سيؤدي هذا إلى تسجيل خروجك من هذا الجهاز.",
         "failed_to_revoke": "فشل إلغاء الجلسة."
     },
+    "profile": {
+        "change": "تغيير",
+        "name": "الاسم",
+        "username": "اسم المستخدم",
+        "birth_date": "تاريخ الميلاد",
+        "your_biography": "نبذة عنك",
+        "private_account": "حساب خاص",
+        "private_account_description": "منع الآخرين من متابعتك.",
+        "save": "حفظ"
+    },
     "onboarding": {
         "profile_name": "اسم الملف الشخصي",
         "please_select_at_least_one_topic": "يرجى تحديد موضوع واحد على الأقل.",

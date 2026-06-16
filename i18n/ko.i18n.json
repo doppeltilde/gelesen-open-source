@@ -34,6 +34,16 @@
         "revoke_reason": "이 세션을 해제하시겠습니까? 해제 시 해당 기기에서 로그아웃됩니다.",
         "failed_to_revoke": "세션 해제에 실패했습니다."
     },
+    "profile": {
+        "change": "변경",
+        "name": "이름",
+        "username": "사용자 이름",
+        "birth_date": "생년월일",
+        "your_biography": "소개",
+        "private_account": "비공개 계정",
+        "private_account_description": "다른 사람들이 회원님을 팔로우하지 못하도록 합니다.",
+        "save": "저장"
+    },
     "onboarding": {
         "profile_name": "프로필 이름",
         "please_select_at_least_one_topic": "주제를 하나 이상 선택해 주세요.",

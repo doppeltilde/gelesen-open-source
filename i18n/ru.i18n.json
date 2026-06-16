@@ -34,6 +34,16 @@
         "revoke_reason": "Вы уверены, что хотите завершить эту сессию? Вы выйдете из аккаунта на том устройстве.",
         "failed_to_revoke": "Не удалось завершить сессию."
     },
+    "profile": {
+        "change": "Изменить",
+        "name": "Имя",
+        "username": "Имя пользователя",
+        "birth_date": "Дата рождения",
+        "your_biography": "О себе",
+        "private_account": "Закрытый аккаунт",
+        "private_account_description": "Запретить другим пользователям подписываться на вас.",
+        "save": "Сохранить"
+    },
     "onboarding": {
         "profile_name": "Имя профиля",
         "please_select_at_least_one_topic": "Пожалуйста, выберите хотя бы одну тему.",

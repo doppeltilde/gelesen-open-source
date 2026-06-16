@@ -34,6 +34,16 @@
         "revoke_reason": "Bu oturumu kapatmak istediğinizden emin misiniz? Bu işlem, söz konusu cihazda oturumunuzu sonlandıracaktır.",
         "failed_to_revoke": "Oturum kapatılamadı."
     },
+    "profile": {
+        "change": "Değiştir",
+        "name": "İsim",
+        "username": "Kullanıcı adı",
+        "birth_date": "Doğum tarihi",
+        "your_biography": "Biyografiniz",
+        "private_account": "Gizli hesap",
+        "private_account_description": "Başkalarının sizi takip etmesini engeller.",
+        "save": "Kaydet"
+    },
     "onboarding": {
         "profile_name": "Profil Adı",
         "please_select_at_least_one_topic": "Lütfen en az bir konu seçin.",
