@@ -130,12 +130,14 @@
             "feedback_description": "Geri bildiriminiz, öneriniz mi var yoksa sadece takılmak mı istiyorsunuz? Discord'a katılın."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Hesabımı Kapat 😔😢",
+            "close_my_account_description": "Hesabınızı kapatmayı düşündüğünüzü duyduğumuza üzüldük.\n\nHesabınız kapatıldıktan sonra hizmete olan erişiminizi kaybedeceğinizi lütfen unutmayın.\n\nBu işlem geri alınamaz ve hesabınızı geri getiremeyiz!",
+            "close_my_account_cancel": "Vazgeçتيم, beni geri götür!",
+            "close_my_account_step_1_title": "Hesabımı Kapat",
+            "close_my_account_step_1_description": "Hesabınızı kapatmak istediğinizden emin misiniz?",
+            "close_my_account_step_2_description": "Kapatma işlemine devam etmek için lütfen aşağıdaki alana 'HESABIMI KAPAT' ifadesini yazarak onaylayın:",
+            "close_my_account_step_3_description": "BUNDAN KESİNLİKLE EMİN MİSİNİZ?\n\n”EVET, HESABI ŞİMDİ KAPAT” seçeneğine dokunduğunuzda hizmete olan erişiminizi kaybedeceksiniz.\n\nBu işlem geri alınamaz ve hesabınızı geri getiremeyiz!",
+            "proceed_description": "EVET, HESABI ŞİMDİ KAPAT"
         }
     },
     "login": {

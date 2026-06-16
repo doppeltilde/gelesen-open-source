@@ -130,12 +130,14 @@
             "feedback_description": "Van valami visszajelzésed, javaslatod, vagy csak szeretnél eltölteni egy kis időt velünk? Csatlakozz a Discordhoz."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Fiókom megszüntetése 😔😢",
+            "close_my_account_description": "Sajnálattal halljuk, hogy a fiókod megszüntetését fontolgatod.\n\nKérjük, vedd figyelembe, hogy a fiókod lezárása után elveszíted a hozzáférést a szolgáltatáshoz.\n\nEz a művelet visszafordíthatatlan, és nem tudjuk visszaállítani a fiókodat!",
+            "close_my_account_cancel": "Inkább mégsem, vigyél vissza!",
+            "close_my_account_step_1_title": "Fiókom megszüntetése",
+            "close_my_account_step_1_description": "Biztosan meg szeretnéd szüntetni a fiókodat?",
+            "close_my_account_step_2_description": "A megszüntetési folyamat folytatásához kérjük, erősítsd meg a szándékodat az alábbi 'FIÓKOM MEGSZÜNTETÉSE' kifejezés beírásával:",
+            "close_my_account_step_3_description": "BIZTOS VAGY BENNE?\n\nAmint a „IGEN, FIÓK MEGSZÜNTETÉSE MOST” gombra koppintasz, elveszíted a hozzáférést a szolgáltatáshoz.\n\nEz a művelet visszafordíthatatlan, és nem tudjuk visszaállítani a fiókodat!",
+            "proceed_description": "IGEN, FIÓK MEGSZÜNTETÉSE MOST"
         }
     },
     "login": {

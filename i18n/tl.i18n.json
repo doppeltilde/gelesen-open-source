@@ -130,12 +130,14 @@
             "feedback_description": "Mayroon ka bang feedback, mga mungkahi, o gusto mo lang makipag-hang out? Sumali sa Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Isara ang Aking Account 😔😢",
+            "close_my_account_description": "Ikinalulungkot naming malaman na pinag-iisipan mong isara ang iyong account.\n\nTandaan na kapag naisara na ang iyong account, mawawalan ka na ng access sa serbisyo.\n\nAng aksyong ito ay hindi na mababawi, at hindi na namin maibabalik ang iyong account!",
+            "close_my_account_cancel": "Huwag na lang, ibalik ako!",
+            "close_my_account_step_1_title": "Isara ang Aking Account",
+            "close_my_account_step_1_description": "Sigurado ka bang gusto mong isara ang iyong account?",
+            "close_my_account_step_2_description": "Para magpatuloy sa proseso ng pagsasara, mangyaring kumpirmahin sa pamamagitan ng paglalagay ng pariralang 'ISARA ANG AKING ACCOUNT' sa ibaba:",
+            "close_my_account_step_3_description": "SIGURADO KA BA TALAGA RIYAN?\n\nKapag pinindot mo ang ”OO, ISARA ANG ACCOUNT NGAYON”, mawawalan ka na ng access sa serbisyo.\n\nAng aksyong ito ay hindi na mababawi, at hindi na namin maibabalik ang iyong account!",
+            "proceed_description": "OO, ISARA ANG ACCOUNT NGAYON"
         }
     },
     "login": {

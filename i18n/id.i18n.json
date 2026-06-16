@@ -132,10 +132,12 @@
         "close_account": {
             "close_my_account": "Tutup Akun Saya 😔😢",
             "close_my_account_description": "Kami sedih mendengar bahwa Anda sedang mempertimbangkan untuk menutup akun Anda.\n\nHarap dicatat bahwa setelah akun Anda ditutup, Anda akan kehilangan akses ke layanan ini.\n\nTindakan ini tidak dapat dibatalkan, dan kami tidak dapat mengembalikan akun Anda!",
-            "close_my_account_cancel": "Tidak jadi, kembali saja!",
+            "close_my_account_cancel": "Lupakan, kembali saja!",
             "close_my_account_step_1_title": "Tutup Akun Saya",
             "close_my_account_step_1_description": "Apakah Anda yakin ingin menutup akun Anda?",
-            "close_my_account_step_2_description": "Untuk melanjutkan proses penutupan, silakan konfirmasi dengan mengetik frasa 'CLOSE MY ACCOUNT' di bawah ini:"
+            "close_my_account_step_2_description": "Untuk melanjutkan proses penutupan, silakan konfirmasi dengan memasukkan frasa 'TUTUP AKUN SAYA' di bawah ini:",
+            "close_my_account_step_3_description": "APAKAH ANDA BENAR-BENAR YAKIN?\n\nSetelah Anda mengetuk ”YA, TUTUP AKUN SEKARANG”, Anda akan kehilangan akses ke layanan.\n\nTindakan ini tidak dapat dibatalkan, dan kami tidak dapat mengembalikan akun Anda!",
+            "proceed_description": "YA, TUTUP AKUN SEKARANG"
         }
     },
     "login": {

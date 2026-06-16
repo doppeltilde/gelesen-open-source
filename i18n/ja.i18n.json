@@ -130,12 +130,14 @@
             "feedback_description": "フィードバックや提案がありますか？それとも、ただおしゃべりしたいだけですか？Discord に参加しましょう。"
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "アカウントを解約する 😔😢",
+            "close_my_account_description": "アカウントの解約をご検討中とのことで、大変残念に思います。\n\nアカウントが解約されると、サービスへのアクセスができなくなりますのでご注意ください。\n\nこの操作は取り消すことができず、アカウントを元に戻すことはできません！",
+            "close_my_account_cancel": "やっぱり戻る！",
+            "close_my_account_step_1_title": "アカウントの解約",
+            "close_my_account_step_1_description": "本当にアカウントを解約してもよろしいですか？",
+            "close_my_account_step_2_description": "解約手続きを続けるには、確認のために以下に「アカウントを解約する」というフレーズを入力してください：",
+            "close_my_account_step_3_description": "本当に本当によろしいですか？\n\n「はい、今すぐアカウントを解約します」をタップすると、サービスにアクセスできなくなります。\n\nこの操作は取り消すことができず、アカウントを元に戻すことはできません！",
+            "proceed_description": "はい、今すぐアカウントを解約します"
         }
     },
     "login": {

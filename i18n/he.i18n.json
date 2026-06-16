@@ -130,12 +130,14 @@
             "feedback_description": "יש לך משוב, הצעות, أو שסתם בא לך להעביר את הזמן בכיף? הצטרף ל-Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "סגירת החשבון שלי 😔😢",
+            "close_my_account_description": "אנו מצטערים לשמוע שאתה שוקל לסגור את החשבון שלך.\n\nשים לב כי ברגע שהחשבון ייסגר, תאבד את הגישה לשירות.\n\nפעולה זו אינה הפיכה, ולא נוכל לשחזר את החשבון שלך!",
+            "close_my_account_cancel": "לא משנה, קח אותי חזרה!",
+            "close_my_account_step_1_title": "סגירת החשבון שלי",
+            "close_my_account_step_1_description": "האם אתה בטוח שברצונך לסגור את החשבון שלך?",
+            "close_my_account_step_2_description": "כדי להמשיך בתהליך הסגירה, אנא אשר זאת על ידי הזנת הביטוי 'סגירת החשבون שלי' להלן:",
+            "close_my_account_step_3_description": "אתה בטוח לחלוטין לגבי זה?\n\nברגע שתלחץ על ”כן, סגור את החשבון עכשיו”, תאבד את הגישה לשירות.\n\nפעולה זו אינה הפיכה, ולא נוכל לשחזר את החשבون שלך!",
+            "proceed_description": "כן, סגור את החשבון עכשיו"
         }
     },
     "login": {

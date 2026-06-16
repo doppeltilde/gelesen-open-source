@@ -130,12 +130,14 @@
             "feedback_description": "Masz opinie, sugestie lub chcesz po prostu pogadać? Dołącz do Discorda."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Zamknij moje konto 😔😢",
+            "close_my_account_description": "Przykro nam słyszeć, że rozważasz zamknięcie swojego konta.\n\nPamiętaj, że po zamknięciu konta utracisz dostęp do usługi.\n\nTa operacja jest nieodwracalna i nie będziemy mogli przywrócić Twojego konta!",
+            "close_my_account_cancel": "Nieważne, cofnij mnie!",
+            "close_my_account_step_1_title": "Zamknij moje konto",
+            "close_my_account_step_1_description": "Czy na pewno chcesz zamknąć swoje konto?",
+            "close_my_account_step_2_description": "Aby kontynuować proces zamykania konta, potwierdź, wpisując poniżej frazę 'ZAMKNIJ MOJE KONTO':",
+            "close_my_account_step_3_description": "CZY NA PEWNO TEGO CHCESZ?\n\nGdy dotkniesz „TAK, ZAMKNIJ KONTO TERAZ”, utracisz dostęp do usługi.\n\nTa operacja jest nieodwracalna i nie będziemy mogli przywrócić Twojego konta!",
+            "proceed_description": "TAK, ZAMKNIJ KONTO TERAZ"
         }
     },
     "login": {

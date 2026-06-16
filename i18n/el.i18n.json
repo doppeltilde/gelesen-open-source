@@ -130,12 +130,14 @@
             "feedback_description": "Έχετε σχόλια, προτάσεις ή απλώς θέλετε να κάνετε παρέα; Σύνδεση στο Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Κλείσιμο του λογαριασμού μου 😔😢",
+            "close_my_account_description": "Λυπούμαστε που μαθαίνουμε ότι σκέφτεστε να κλείσετε τον λογαριασμό σας.\n\nΠαρακαλούμε σημειώστε ότι μόλις κλείσει ο λογαριασμός σας, θα χάσετε την πρόσβαση στην υπηρεσία.\n\nΑυτή η ενέργεια είναι μη αναστρέψιμη και δεν μπορούμε να επαναφέρουμε τον λογαριασμό σας!",
+            "close_my_account_cancel": "Δεν πειράζει, πήγαινέ με πίσω!",
+            "close_my_account_step_1_title": "Κλείσιμο του λογαριασμού μου",
+            "close_my_account_step_1_description": "Είστε βέβαιοι ότι θέλετε να κλείσετε τον λογαριασμό σας;",
+            "close_my_account_step_2_description": "Για να συνεχίσετε με τη διαδικασία κλεισίματος, επιβεβαιώστε εισάγοντας τη φράση 'ΚΛΕΙΣΙΜΟ ΤΟΥ ΛΟΓΑΡΙΑΣΜΟΥ ΜΟΥ' παρακάτω:",
+            "close_my_account_step_3_description": "ΕΙΣΤΕ ΣΙΓΟΥΡΟΙ ΓΙΑ ΑΥΤΟ;\n\nΜόλις πατήσετε στο ”ΝΑΙ, ΚΛΕΙΣΙΜΟ ΛΟΓΑΡΙΑΣΜΟΥ ΤΩΡΑ”, θα χάσετε την πρόσβαση στην υπηρεσία.\n\nΑυτή η ενέργεια είναι μη αναστρέψιμη και δεν μπορούμε να επαναφέρουμε τον λογαριασμό σας!",
+            "proceed_description": "ΝΑΙ, ΚΛΕΙΣΙΜΟ ΛΟΓΑΡΙΑΣΜΟΥ ΤΩΡΑ"
         }
     },
     "login": {

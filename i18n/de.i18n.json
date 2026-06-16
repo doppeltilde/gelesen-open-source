@@ -130,12 +130,14 @@
             "feedback_description": "Hast du Feedback, Vorschläge oder möchtest einfach nur abhängen? Tritt dem Discord bei."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Mein Konto schließen 😔😢",
+            "close_my_account_description": "Es tut uns leid zu hören, dass du dein Konto schließen möchtest.\n\nBitte beachte, dass du nach dem Schließen deines Kontos den Zugriff auf den Dienst verlierst.\n\nDiese Aktion ist unwiderruflich und wir können dein Konto nicht wiederherstellen!",
+            "close_my_account_cancel": "Egal, bringt mich zurück!",
+            "close_my_account_step_1_title": "Mein Konto schließen",
+            "close_my_account_step_1_description": "Bist du sicher, dass du dein Konto schließen möchtest?",
+            "close_my_account_step_2_description": "Um mit der Schließung fortzufahren, bestätige dies bitte, indem du unten den Text 'MEIN KONTO SCHLIESSEN' eingibst:",
+            "close_my_account_step_3_description": "BIST DU DIR WIRKLICH SICHER?\n\nSobald du auf „JA, KONTO JETZT SCHLIESSEN“ tippst, verlierst du den Zugriff auf den Dienst.\n\nDiese Aktion ist unwiderruflich und wir können dein Konto nicht wiederherstellen!",
+            "proceed_description": "JA, KONTO JETZT SCHLIESSEN"
         }
     },
     "login": {

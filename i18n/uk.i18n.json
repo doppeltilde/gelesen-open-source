@@ -130,12 +130,14 @@
             "feedback_description": "Маєте відгуки, пропозиції або просто хочете поспілкуватися? Приєднуйтесь до Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Закрити мій акаунт 😔😢",
+            "close_my_account_description": "Нам дуже прикро чути, що ви плануєте закрити свій акаунт.\n\nБудь ласка, зверніть увагу: щойно ваш акаунт буде закрито, ви втратите доступ до сервісу.\n\nЦя дія є незворотною, і ми не зможемо відновити ваш акаунт!",
+            "close_my_account_cancel": "Не зважайте, поверніть мене назад!",
+            "close_my_account_step_1_title": "Закрити мій акаунт",
+            "close_my_account_step_1_description": "Ви впевнені, що хочете закрити свій акаунт?",
+            "close_my_account_step_2_description": "Щоб продовжити процес закриття, будь ласка, підтвердьте дію, ввівши фразу 'ЗАКРИТИ МІЙ АКАУНТ' нижче:",
+            "close_my_account_step_3_description": "ВИ ТОЧНО В ЦЬОМУ ВПЕВНЕНІ?\n\nЩойно ви натиснете на ”ТАК, ЗАКРИТИ АКАУНТ ЗАРАЗ”, ви втратите доступ до сервісу.\n\nЦя дія є незворотною, і ми не зможемо відновити ваш акаунт!",
+            "proceed_description": "ТАК, ЗАКРИТИ АКАУНТ ЗАРАЗ"
         }
     },
     "login": {

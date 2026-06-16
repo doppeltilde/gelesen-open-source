@@ -130,12 +130,14 @@
             "feedback_description": "Har du tilbakemeldinger, forslag, eller vil du bare henge ut? Bli med i Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Slett min konto 😔😢",
+            "close_my_account_description": "Vi beklager å høre at du vurderer å slette kontoen din.\n\nVennligst merk at når kontoen din er slettet, vil du miste tilgangen til tjenesten.\n\nDenne handlingen er irreversibel, og vi kan ikke gjenopprette kontoen din!",
+            "close_my_account_cancel": "Glem det, ta meg tilbake!",
+            "close_my_account_step_1_title": "Slett min konto",
+            "close_my_account_step_1_description": "Er du sikker på at du vil slette kontoen din?",
+            "close_my_account_step_2_description": "For å fortsette slettingen, vennligst bekreft ved å skrive inn setningen 'SLETT MIN KONTO' nedenfor:",
+            "close_my_account_step_3_description": "ER DU HELT SIKKER PÅ DETTE?\n\nNår du trykker på ”JA, SLETT KONTO NÅ”, mister du tilgangen til tjenesten.\n\nDenne handlingen er irreversibel, og vi kan ikke gjenopprette kontoen din!",
+            "proceed_description": "JA, SLETT KONTO NÅ"
         }
     },
     "login": {

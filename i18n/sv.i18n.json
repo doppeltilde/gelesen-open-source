@@ -130,12 +130,14 @@
             "feedback_description": "Har du feedback, förslag eller vill du bara hänga lite? Gå med i Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Avsluta mitt konto 😔😢",
+            "close_my_account_description": "Vi beklagar att höra att du överväger att avsluta ditt konto.\n\nTänk på courtesy att när ditt konto har avslutats kommer du att förlora tillgången till tjänsten.\n\nDenna åtgärd är irreversibel och vi kan inte återställa ditt konto!",
+            "close_my_account_cancel": "Glöm det, ta mig tillbaka!",
+            "close_my_account_step_1_title": "Avsluta mitt konto",
+            "close_my_account_step_1_description": "Är du säker på at du vill avsluta ditt konto?",
+            "close_my_account_step_2_description": "För att fortsätta med avslutsfasen, vänligen bekräfta genom att skriva in frasen 'AVSLUTA MITT KONTO' nedan:",
+            "close_my_account_step_3_description": "ÄR DU HELT SÄKER PÅ DET?\n\nSå fort du trycker på ”JA, AVSLUTA KONTO NU” kommer du att förlora tillgången till tjänsten.\n\nDenna åtgärd är irreversibel och vi kan inte återställa ditt konto!",
+            "proceed_description": "JA, AVSLUTA KONTO NU"
         }
     },
     "login": {

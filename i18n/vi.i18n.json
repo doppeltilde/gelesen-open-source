@@ -130,12 +130,14 @@
             "feedback_description": "Bạn có ý kiến phản hồi, góp ý, hay chỉ muốn trò chuyện cho vui? Tham gia Discord ngay."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Đóng tài khoản của tôi 😔😢",
+            "close_my_account_description": "Chúng tôi rất tiếc khi biết bạn đang xem xét việc đóng tài khoản của mình.\n\nXin lưu ý rằng một khi tài khoản bị đóng, bạn sẽ mất quyền truy cập vào dịch vụ.\n\nHành động này không thể hoàn tác và chúng tôi không thể khôi phục tài khoản của bạn!",
+            "close_my_account_cancel": "Bỏ qua đi, quay lại nào!",
+            "close_my_account_step_1_title": "Đóng tài khoản của tôi",
+            "close_my_account_step_1_description": "Bạn có chắc chắn muốn đóng tài khoản của mình không?",
+            "close_my_account_step_2_description": "Để tiếp tục quá trình đóng tài khoản, vui lòng xác nhận bằng cách nhập cụm từ 'ĐÓNG TÀI KHOẢN CỦA TÔI' vào bên dưới:",
+            "close_my_account_step_3_description": "BẠN CÓ CHẮC CHẮN VỀ ĐIỀU ĐÓ KHÔNG?\n\nNgay khi bạn nhấn vào ”CÓ, ĐÓNG TÀI KHOẢN NGAY”, bạn sẽ mất quyền truy cập vào dịch vụ.\n\nHành động này không thể hoàn tác và chúng tôi không thể khôi phục tài khoản của bạn!",
+            "proceed_description": "CÓ, ĐÓNG TÀI KHOẢN NGAY"
         }
     },
     "login": {

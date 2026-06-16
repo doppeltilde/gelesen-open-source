@@ -130,12 +130,14 @@
             "feedback_description": "هل لديك أي ملاحظات، اقتراحات، أو ترغب فقط في التسكع معنا؟ انضم إلى ديسكورد."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "إغلاق حسابي 😔😢",
+            "close_my_account_description": "نحن آسفون لسماع أنك تفكر في إغلاق حسابك.\n\nيرجى العلم أنه بمجرد إغلاق حسابك، ستفقد إمكانية الوصول إلى الخدمة.\n\nهذا الإجراء لا يمكن التراجع عنه، ولا يمكننا استعادة حسابك!",
+            "close_my_account_cancel": "لا يهم، عد بي إلى الخلف!",
+            "close_my_account_step_1_title": "إغلاق حسابي",
+            "close_my_account_step_1_description": "هل أنت متأكد أنك تريد إغلاق حسابك؟",
+            "close_my_account_step_2_description": "للمتابعة في عملية الإغلاق، يرجى التأكيد عن طريق إدخال العبارة 'إغلاق حسابي' أدناه:",
+            "close_my_account_step_3_description": "هل أنت متأكد تماماً من ذلك؟\n\nبمجرد الضغط على ”نعم، أغلق الحساب الآن”، ستفقد إمكانية الوصول إلى الخدمة.\n\nهذا الإجراء لا يمكن التراجع عنه، ولا يمكننا استعادة حسابك!",
+            "proceed_description": "نعم، أغلق الحساب الآن"
         }
     },
     "login": {

@@ -130,12 +130,14 @@
             "feedback_description": "Tens comentaris, suggeriments o simplement vols passar una estona amb nosaltres? Uneix-te al Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Tancar el meu compte 😔😢",
+            "close_my_account_description": "Lamentem saber que estàs considerant tancar el teu compte.\n\nTingues en compte que un cop tancat el compte, perdràs l'accés al servei.\n\nAquesta acció és irreversible i no podrem recuperar el teu compte!",
+            "close_my_account_cancel": "No importa, torna'm enrere!",
+            "close_my_account_step_1_title": "Tancar el meu compte",
+            "close_my_account_step_1_description": "Segur que vols tancar el teu compte?",
+            "close_my_account_step_2_description": "Per continuar amb el procés de tancament, confirma-ho introduint la frase 'TANCAR EL MEU COMPTE' a continuació:",
+            "close_my_account_step_3_description": "SEGUR QUE EN ESTÀS SEGUR?\n\nUn cop facis clic a ”SÍ, TANCA EL COMPTE ARA”, perdràs l'accés al servei.\n\nAquesta acció és irreversible i no podrem recuperar el teu compte!",
+            "proceed_description": "SÍ, TANCA EL COMPTE ARA"
         }
     },
     "login": {

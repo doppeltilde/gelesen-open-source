@@ -130,12 +130,14 @@
             "feedback_description": "有 tank 任何反馈、建议，或者只是想一起聊聊天？欢迎加入 Discord。"
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "关闭 my 账户 😔😢",
+            "close_my_account_description": "很抱歉听到您正考虑关闭您的账户。\n\n请注意，一旦您的账户被关闭，您将失去对该服务的访问权限。\n\n此操作是不可逆的，我们无法恢复您的账户！",
+            "close_my_account_cancel": "算了，带我返回！",
+            "close_my_account_step_1_title": "关闭我的账户",
+            "close_my_account_step_1_description": "您确定要关闭您的账户吗？",
+            "close_my_account_step_2_description": "如需继续关闭流程，请在下方输入“CLOSE MY ACCOUNT”（关闭我的账户）进行确认：",
+            "close_my_account_step_3_description": "您真的确定吗？\n\n一旦您点击“是的，立即关闭账户”，您将失去对该服务的访问权限。\n\n此操作是不可逆的，我们无法恢复您的账户！",
+            "proceed_description": "是的，立即关闭账户"
         }
     },
     "login": {

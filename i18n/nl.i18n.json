@@ -130,12 +130,14 @@
             "feedback_description": "Heb je feedback, suggesties, of wil je gewoon wat chillen? Word lid van Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Mijn account sluiten 😔😢",
+            "close_my_account_description": "Het spijt ons te horen dat je overweegt je account te sluiten.\n\nHoud er rekening mee dat je na het sluiten van je account de toegang tot de dienst verliest.\n\nDeze actie is onomkeerbaar en we kunnen je account niet herstellen!",
+            "close_my_account_cancel": "Laat maar, ga terug!",
+            "close_my_account_step_1_title": "Mijn account sluiten",
+            "close_my_account_step_1_description": "Weet je zeker dat je je account wilt sluiten?",
+            "close_my_account_step_2_description": "Om door te gaan met het sluitingsproces, verzoeken we je dit te bevestigen door hieronder de zin 'MIJN ACCOUNT SLUITEN' in te voeren:",
+            "close_my_account_step_3_description": "WEET JE DAT HEEL ZEKER?\n\nZodra je op ”JA, SLUIT ACCOUNT NU” tikt, verlies je de toegang tot de dienst.\n\nDeze actie is onomkeerbaar en we kunnen je account niet herstellen!",
+            "proceed_description": "JA, SLUIT ACCOUNT NU"
         }
     },
     "login": {

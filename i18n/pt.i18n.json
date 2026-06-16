@@ -130,12 +130,14 @@
             "feedback_description": "Tem algum feedback, sugestões ou quer apenas conversar? Entre no Discord."
         },
         "close_account": {
-            "close_my_account": "Close My Account 😔😢",
-            "close_my_account_description": "We're sorry to hear that you're considering closing your account.\n\nPlease note that once your account is closed, you will loose access to the service.\n\nThis action is irreversible, and we cannot return your account!",
-            "close_my_account_cancel": "Nevermind, take me back!",
-            "close_my_account_step_1_title": "Close My Account",
-            "close_my_account_step_1_description": "Are you sure you want to close your account?",
-            "close_my_account_step_2_description": "To continue with the closure process, please confirm by entering the phrase 'CLOSE MY ACCOUNT' below:"
+            "close_my_account": "Fechar Minha Conta 😔😢",
+            "close_my_account_description": "Lamentamos saber que você está considerando fechar sua conta.\n\nPor favor, note que assim que sua conta for fechada, você perderá o acesso ao serviço.\n\nEsta ação é irreversível e não poderemos recuperar sua conta!",
+            "close_my_account_cancel": "Esqueça, leve-me de volta!",
+            "close_my_account_step_1_title": "Fechar Minha Conta",
+            "close_my_account_step_1_description": "Tem certeza de que deseja fechar sua conta?",
+            "close_my_account_step_2_description": "Para continuar com o processo de encerramento, confirme digitando a frase 'FECHAR MINHA CONTA' abaixo:",
+            "close_my_account_step_3_description": "VOCÊ TEM CERTEZA DISSO?\n\nAssim que você tocar em ”SIM, FECHAR CONTA AGORA”, você perderá o acesso ao serviço.\n\nEsta ação é irreversível e não poderemos recuperar sua conta!",
+            "proceed_description": "SIM, FECHAR CONTA AGORA"
         }
     },
     "login": {
