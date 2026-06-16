@@ -160,6 +160,12 @@
         "my_library": "کتابخانه من",
         "no_stories_found": "هیچ داستانی یافت نشد."
     },
+    "blocklists": {
+        "my_blocklists": "لیست‌های مسدودسازی من",
+        "no_blocked_users_found": "هیچ کاربر مسدودشده‌ای یافت نشد.",
+        "no_blocked_stories_found": "هیچ استوری مسدودشده‌ای یافت نشد.",
+        "no_blocked_posts_found": "هیچ پست مسدودشده‌ای یافت نشد."
+    },
     "create": {
         "my_stories": "داستان‌های من",
         "create_story": "ایجاد داستان",

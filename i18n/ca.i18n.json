@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Les meves llistes de boicot",
+        "no_blocked_users_found": "No s'han trobat usuaris bloquejats.",
+        "no_blocked_stories_found": "No s'han trobat històries bloquejades.",
+        "no_blocked_posts_found": "No s'han trobat publicacions bloquejades."
+    },
     "create": {
         "my_stories": "Les meves històries",
         "create_story": "Crear història",

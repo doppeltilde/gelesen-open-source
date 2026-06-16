@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Οι λίστες αποκλεισμού μου",
+        "no_blocked_users_found": "Δεν βρέθηκαν αποκλεισμένοι χρήστες.",
+        "no_blocked_stories_found": "Δεν βρέθηκαν αποκλεισμένες ιστορίες.",
+        "no_blocked_posts_found": "Δεν βρέθηκαν αποκλεισμένες δημοσιεύσεις."
+    },
     "create": {
         "my_stories": "Οι ιστορίες μου",
         "create_story": "Δημιουργία Ιστορίας",

@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Мої чорні списки",
+        "no_blocked_users_found": "Заблокованих користувачів не знайдено.",
+        "no_blocked_stories_found": "Заблокованих історій не знайдено.",
+        "no_blocked_posts_found": "Заблокованих публікацій не знайдено."
+    },
     "create": {
         "my_stories": "Мої історії",
         "create_story": "Створити історію",

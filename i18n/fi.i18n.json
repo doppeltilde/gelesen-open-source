@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Estolistat",
+        "no_blocked_users_found": "Estettyjä käyttäjiä ei löytynyt.",
+        "no_blocked_stories_found": "Estettyjä tarinoita ei löytynyt.",
+        "no_blocked_posts_found": "Estettyjä julkaisuja ei löytynyt."
+    },
     "create": {
         "my_stories": "Omat tarinat",
         "create_story": "Luo tarina",

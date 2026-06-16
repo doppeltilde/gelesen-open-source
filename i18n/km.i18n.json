@@ -160,6 +160,12 @@
         "my_library": "បណ្ណាល័យរបស់ខ្ញុំ",
         "no_stories_found": "រកមិនឃើញរឿងឡើយ។"
     },
+    "blocklists": {
+        "my_blocklists": "បញ្ជីរារាំងរបស់ខ្ញុំ",
+        "no_blocked_users_found": "រកមិនឃើញអ្នកប្រើប្រាស់ដែលបានរารាំងទេ។",
+        "no_blocked_stories_found": "រកមិនឃើញរឿងដែលបានរារាំងទេ។",
+        "no_blocked_posts_found": "រកមិនឃើញការបង្ហោះដែលបានรារាំងទេ។"
+    },
     "create": {
         "my_stories": "រឿងរបស់ខ្ញុំ",
         "create_story": "បង្កើតរឿង",

@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "قوائم الحظر الخاصة بي",
+        "no_blocked_users_found": "لم يتم العثور على مستخدمين محظورين.",
+        "no_blocked_stories_found": "لم يتم العثور على قصص محظورة.",
+        "no_blocked_posts_found": "لم يتم العثور على منشورات محظورة."
+    },
     "create": {
         "my_stories": "قصصي",
         "create_story": "إنشاء قصة",

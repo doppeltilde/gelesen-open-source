@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Listele mele de blocare",
+        "no_blocked_users_found": "Nu au fost găsiți utilizatori blocați.",
+        "no_blocked_stories_found": "Nu au fost găsite povești blocate.",
+        "no_blocked_posts_found": "Nu au fost găsite postări blocate."
+    },
     "create": {
         "my_stories": "Poveștile mele",
         "create_story": "Creează poveste",

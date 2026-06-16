@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Mijn blokkeerlijsten",
+        "no_blocked_users_found": "Geen geblokkeerde gebruikers gevonden.",
+        "no_blocked_stories_found": "Geen geblokkeerde verhalen gevonden.",
+        "no_blocked_posts_found": "Geen geblokkeerde berichten gevonden."
+    },
     "create": {
         "my_stories": "Mijn verhalen",
         "create_story": "Verhaal maken",

@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Mis listas de bloqueo",
+        "no_blocked_users_found": "No se encontraron usuarios bloqueados.",
+        "no_blocked_stories_found": "No se encontraron historias bloqueadas.",
+        "no_blocked_posts_found": "No se encontraron publicaciones bloqueadas."
+    },
     "create": {
         "my_stories": "Mis historias",
         "create_story": "Crear historia",

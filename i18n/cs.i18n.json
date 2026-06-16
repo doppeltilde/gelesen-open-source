@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Moje seznamy blokovaných",
+        "no_blocked_users_found": "Nebyly nalezeni žádní blokovaní uživatelé.",
+        "no_blocked_stories_found": "Nebyly nalezeny žádné blokované příběhy.",
+        "no_blocked_posts_found": "Nebyly nalezeny žádné blokované příspěvky."
+    },
     "create": {
         "my_stories": "Moje příběhy",
         "create_story": "Vytvořit příběh",

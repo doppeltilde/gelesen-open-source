@@ -160,6 +160,12 @@
         "my_library": "คลังของฉัน",
         "no_stories_found": "ไม่พบเรื่องราว"
     },
+    "blocklists": {
+        "my_blocklists": "รายการบล็อกของฉัน",
+        "no_blocked_users_found": "ไม่พบผู้ใช้ที่ถูกบล็อก",
+        "no_blocked_stories_found": "ไม่พบสตอรี่ที่ถูกบล็อก",
+        "no_blocked_posts_found": "ไม่พบโพสต์ที่ถูกบล็อก"
+    },
     "create": {
         "my_stories": "เรื่องราวของฉัน",
         "create_story": "สร้างเรื่องราว",

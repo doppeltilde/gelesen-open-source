@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Моје листе блокираних",
+        "no_blocked_users_found": "Нема блокираних корисника.",
+        "no_blocked_stories_found": "Нема блокираних прича.",
+        "no_blocked_posts_found": "Нема блокираних објава."
+    },
     "create": {
         "my_stories": "Моје приче",
         "create_story": "Креирај причу",

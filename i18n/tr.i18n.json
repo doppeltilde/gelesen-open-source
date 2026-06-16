@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Engelleme listelerim",
+        "no_blocked_users_found": "Engellenen kullanıcı bulunamadı.",
+        "no_blocked_stories_found": "Engellenen hikaye bulunamadı.",
+        "no_blocked_posts_found": "Engellenen gönderi bulunamadı."
+    },
     "create": {
         "my_stories": "Hikayelerim",
         "create_story": "Hikaye Oluştur",

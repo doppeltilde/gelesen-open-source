@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Aking mga blocklist",
+        "no_blocked_users_found": "Walang nahanap na blocked na user.",
+        "no_blocked_stories_found": "Walang nahanap na blocked na kuwento.",
+        "no_blocked_posts_found": "Walang nahanap na blocked na post."
+    },
     "create": {
         "my_stories": "Aking mga kwento",
         "create_story": "Gumawa ng Kwento",

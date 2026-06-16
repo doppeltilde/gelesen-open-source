@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Tiltólistáim",
+        "no_blocked_users_found": "Nem találhatók blokkolt felhasználók.",
+        "no_blocked_stories_found": "Nem találhatók blokkolt történetek.",
+        "no_blocked_posts_found": "Nem találhatók blokkolt bejegyzések."
+    },
     "create": {
         "my_stories": "Történeteim",
         "create_story": "Történet létrehozása",

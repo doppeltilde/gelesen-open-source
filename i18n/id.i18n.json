@@ -160,6 +160,12 @@
         "my_library": "Perpustakaan Saya",
         "no_stories_found": "Cerita Tidak Ditemukan."
     },
+    "blocklists": {
+        "my_blocklists": "Daftar blokir saya",
+        "no_blocked_users_found": "Tidak ada pengguna yang diblokir.",
+        "no_blocked_stories_found": "Tidak ada cerita yang diblokir.",
+        "no_blocked_posts_found": "Tidak ada bài viết yang diblokir."
+    },
     "create": {
         "my_stories": "Cerita saya",
         "create_story": "Buat Cerita",

@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "My blokkeringslyste",
+        "no_blocked_users_found": "Geen geblokkeerde gebruikers gevind nie.",
+        "no_blocked_stories_found": "Geen geblokkeerde stories gevind nie.",
+        "no_blocked_posts_found": "Geen geblokkeerde plasings gevind nie."
+    },
     "create": {
         "my_stories": "My stories",
         "create_story": "Skep Storie",

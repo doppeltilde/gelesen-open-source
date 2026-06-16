@@ -160,6 +160,12 @@
         "my_library": "मेरी लाइब्रेरी",
         "no_stories_found": "कोई कहानियां नहीं मिलीं।"
     },
+    "blocklists": {
+        "my_blocklists": "मेरी ब्लॉक सूचियां",
+        "no_blocked_users_found": "कोई ब्लॉक किया गया उपयोगकर्ता नहीं मिला।",
+        "no_blocked_stories_found": "कोई ब्लॉक की गई कहानियां नहीं मिलीं।",
+        "no_blocked_posts_found": "कोई ब्लॉक की गई पोस्ट नहीं मिली।"
+    },
     "create": {
         "my_stories": "मेरी कहानियाँ",
         "create_story": "कहानी बनाएं",

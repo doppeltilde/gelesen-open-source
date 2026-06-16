@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "マイブロックリスト",
+        "no_blocked_users_found": "ブロック中のユーザーは見つかりません。",
+        "no_blocked_stories_found": "ブロック中のストーリーは見つかりません。",
+        "no_blocked_posts_found": "ブロック中の投稿は見つかりません。"
+    },
     "create": {
         "my_stories": "マイストーリー",
         "create_story": "ストーリーを作成",

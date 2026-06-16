@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "我的黑名单",
+        "no_blocked_users_found": "未找到已屏蔽的用户。",
+        "no_blocked_stories_found": "未找到已屏蔽的故事。",
+        "no_blocked_posts_found": "未找到已屏蔽的帖子。"
+    },
     "create": {
         "my_stories": "我的故事",
         "create_story": "创建故事",

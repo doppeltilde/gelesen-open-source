@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Danh sách chặn của tôi",
+        "no_blocked_users_found": "Không tìm thấy người dùng bị chặn.",
+        "no_blocked_stories_found": "Không tìm thấy tin bị chặn.",
+        "no_blocked_posts_found": "Không tìm thấy bài viết bị chặn."
+    },
     "create": {
         "my_stories": "Truyện của tôi",
         "create_story": "Tạo truyện",

@@ -160,6 +160,12 @@
         "my_library": "My Library",
         "no_stories_found": "No Stories Found."
     },
+    "blocklists": {
+        "my_blocklists": "Mina blockeringslistor",
+        "no_blocked_users_found": "Inga blockerade användare hittades.",
+        "no_blocked_stories_found": "Inga blockerade händelser hittades.",
+        "no_blocked_posts_found": "Inga blockerade inlägg hittades."
+    },
     "create": {
         "my_stories": "Mina berättelser",
         "create_story": "Skapa berättelse",
