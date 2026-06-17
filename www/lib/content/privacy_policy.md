@@ -67,7 +67,8 @@ Links to the privacy policy of third party service providers used by the applica
 - [Google Services](https://policies.google.com/privacy)
 - [OpenAI](https://privacy.openai.com/policies)
 - [RevenueCat](https://www.revenuecat.com/privacy/)
-- [xAI](https://x.ai/legal/privacy-policy)
+- [X](https://x.com/privacy)
+- [xAI, a division of SpaceX](https://x.ai/legal/privacy-policy)
 
 Links to the privacy policy of single sign-on providers:
 
@@ -77,7 +78,7 @@ Links to the privacy policy of single sign-on providers:
 - [Google [Scopes: Email]](https://policies.google.com/privacy?hl=en-US)
 - [Twitch [Scopes: Email]](https://legal.twitch.com/en/legal/privacy-notice/)
 - [Microsoft [Scopes: Email]](https://www.microsoft.com/privacy/privacystatement)
-- [X [Scopes: Email]](https://privacy.x.com/en)
+- [X [Scopes: Email]](https://x.com/privacy)
 
 #### 6. Security
 
@@ -108,6 +109,8 @@ Our age assurance methods may include (but are not limited to):
 - Supplementary verification (where necessary): In cases where our machine learning evaluation is uncertain, or if required for specific high-risk functionalities, we may, if legally permissible and necessary, request additional verification methods. This could potentially involve, for example, requesting a user to confirm their age through manual verification by our team.
 
 We use these signals and methods solely to tailor content, restrict access where appropriate, and fulfill legal obligations. Data obtained via platform APIs is handled in accordance with the respective platform’s terms and our strict purpose limitations.
+
+Learn more: [Open Source Vision Classification](https://github.com/doppeltilde/vision_classification)
 
 ##### Data We Process for Age Assurance and Estimation:
 
