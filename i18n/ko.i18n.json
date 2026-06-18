@@ -209,8 +209,8 @@
     "account_not_found": "계정을 찾을 수 없거나 폐쇄된 계정입니다."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "내 라이브러리",
+    "no_stories_found": "이야기가 발견되지 않았습니다."
   },
   "blocklists": {
     "my_blocklists": "내 차단 목록",

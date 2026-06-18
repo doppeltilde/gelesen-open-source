@@ -209,8 +209,8 @@
     "account_not_found": "Обліковий запис не знайдено або він був закритий."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Моя бібліотека",
+    "no_stories_found": "Не знайдено історій."
   },
   "blocklists": {
     "my_blocklists": "Мої чорні списки",

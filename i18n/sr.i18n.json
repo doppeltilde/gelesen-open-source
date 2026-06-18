@@ -209,8 +209,8 @@
     "account_not_found": "Налог није пронађен или је угашен."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Моја библиотека",
+    "no_stories_found": "Нису историја пронађена."
   },
   "blocklists": {
     "my_blocklists": "Моје листе блокираних",

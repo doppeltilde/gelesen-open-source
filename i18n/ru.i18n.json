@@ -209,8 +209,8 @@
     "account_not_found": "Аккаунт не найден или был удален."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Моя библиотека",
+    "no_stories_found": "Истории не найдены."
   },
   "blocklists": {
     "my_blocklists": "Мои черные списки",

@@ -209,8 +209,8 @@
     "account_not_found": "Hesap bulunamadı ya da kapatılmış."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Kütüphanem",
+    "no_stories_found": "Hikaye bulunamadı."
   },
   "blocklists": {
     "my_blocklists": "Engelleme listelerim",

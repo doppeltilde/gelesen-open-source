@@ -209,8 +209,8 @@
     "account_not_found": "Akun tidak ditemukan atau telah ditutup."
   },
   "library": {
-    "my_library": "Perpustakaan Saya",
-    "no_stories_found": "Cerita Tidak Ditemukan."
+    "my_library": "Perpustakaan saya",
+    "no_stories_found": "Tidak ada cerita ditemukan."
   },
   "blocklists": {
     "my_blocklists": "Daftar blokir saya",

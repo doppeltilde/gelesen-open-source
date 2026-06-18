@@ -209,8 +209,8 @@
     "account_not_found": "ไม่พบบัญชีหรือบัญชีถูกปิดไปแล้ว"
   },
   "library": {
-    "my_library": "คลังของฉัน",
-    "no_stories_found": "ไม่พบเรื่องราว"
+    "my_library": "ห้องสมุดของฉัน",
+    "no_stories_found": "ไม่พบเรื่องราวใดๆ"
   },
   "blocklists": {
     "my_blocklists": "รายการบล็อกของฉัน",

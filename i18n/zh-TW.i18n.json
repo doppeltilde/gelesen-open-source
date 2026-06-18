@@ -209,8 +209,8 @@
     "account_not_found": "找不到該帳戶或該帳戶已關閉。"
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "我的書庫",
+    "no_stories_found": "未找到任何故事。"
   },
   "blocklists": {
     "my_blocklists": "我的封鎖名單",

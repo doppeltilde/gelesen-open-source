@@ -209,8 +209,8 @@
     "account_not_found": "Contul nu a fost găsit sau a fost închis."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Biblioteca mea",
+    "no_stories_found": "Nu au fost găsite povești."
   },
   "blocklists": {
     "my_blocklists": "Listele mele de blocare",

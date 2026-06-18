@@ -209,8 +209,8 @@
     "account_not_found": "アカウントが見つからないか、既に閉鎖されています。"
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "私のライブラリ",
+    "no_stories_found": "ストーリーは見つかりませんでした。"
   },
   "blocklists": {
     "my_blocklists": "マイブロックリスト",

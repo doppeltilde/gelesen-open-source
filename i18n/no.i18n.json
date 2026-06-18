@@ -209,8 +209,8 @@
     "account_not_found": "Kontoen ble enten ikke funnet eller har blitt slettet."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Min bibliotek",
+    "no_stories_found": "Ingen historier funnet."
   },
   "blocklists": {
     "my_blocklists": "Mine blokkeringslister",

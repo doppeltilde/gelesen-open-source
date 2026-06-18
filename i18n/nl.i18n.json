@@ -209,8 +209,8 @@
     "account_not_found": "Account is niet gevonden of is gesloten."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Mijn bibliotheek",
+    "no_stories_found": "Geen verhalen gevonden."
   },
   "blocklists": {
     "my_blocklists": "Mijn blokkeerlijsten",

@@ -209,8 +209,8 @@
     "account_not_found": "Tiliä ei löytynyt tai se on suljettu."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Kirjastettani",
+    "no_stories_found": "Ei tarinoita löytynyt."
   },
   "blocklists": {
     "my_blocklists": "Estolistat",

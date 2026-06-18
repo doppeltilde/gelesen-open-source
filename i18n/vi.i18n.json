@@ -209,8 +209,8 @@
     "account_not_found": "Tài khoản không được tìm thấy hoặc đã bị đóng."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Thư viện của tôi",
+    "no_stories_found": "Không tìm thấy truyện."
   },
   "blocklists": {
     "my_blocklists": "Danh sách chặn của tôi",
