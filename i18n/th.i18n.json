@@ -255,18 +255,23 @@
     "grid_color_description": "เลือกสีตาราง",
     "grid_color_picker": "ตัวเลือกสีตาราง",
     "scene": {
-      "scenes": "ฉากทั้งหมด",
+      "scenes": "ฉาก",
       "scene": "ฉาก",
       "title": "ชื่อเรื่อง",
+      "title_description": "หัวข้อสำหรับส่วนฉาก ซึ่งบอกใบ้ถึงเนื้อหาของมัน",
       "chat": "แชท",
-      "interlude": "ฉากคั่น",
+      "chat_description": "การสนทนาระหว่างตัวละครหนึ่งคนหรือมากกว่า",
+      "interlude": "ช่วงพัก",
+      "interlude_description": "ส่วนสั้นๆ ที่คั่นกลางเรื่องเล่าหลัก",
       "tiktok": "TikTok",
-      "story_view": "มุมมองเนื้อเรื่อง",
+      "tiktok_description": "TikTok เหมือนฟีดหน้าหลัก",
+      "story_view": "มุมมองเรื่องราว",
       "custom": "กำหนดเอง",
       "instagram": "Instagram",
-      "visual_novel": "วิชวลโนเวล",
+      "instagram_description": "ฟีด Instagram เหมือนหน้าหลัก",
+      "visual_novel": "นิยายภาพ",
       "main_menu": "เมนูหลัก",
-      "scene_label": "ป้ายกำกับฉาก"
+      "scene_label": "ป้ายฉาก"
     }
   },
   "chat": {

@@ -257,14 +257,19 @@
     "scene": {
       "scenes": "Сцены",
       "scene": "Сцена",
-      "title": "Название",
+      "title": "Заголовок",
+      "title_description": "Заголовок для раздела сцены, намекающий на его содержание.",
       "chat": "Чат",
+      "chat_description": "Разговор одного или нескольких персонажей.",
       "interlude": "Интерлюдия",
+      "interlude_description": "Короткий фрагмент, который прерывает основной нарратив.",
       "tiktok": "TikTok",
-      "story_view": "Режим истории",
-      "custom": "Кастомный",
+      "tiktok_description": "TikTok, как домашняя лента.",
+      "story_view": "Просмотр истории",
+      "custom": "Пользовательский",
       "instagram": "Instagram",
-      "visual_novel": "Визуальная новелла",
+      "instagram_description": "Instagram, как домашняя лента.",
+      "visual_novel": "Визуальный роман",
       "main_menu": "Главное меню",
       "scene_label": "Метка сцены"
     }

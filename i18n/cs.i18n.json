@@ -258,15 +258,20 @@
       "scenes": "Scény",
       "scene": "Scéna",
       "title": "Název",
+      "title_description": "Nadpis pro sekci scény, který naznačuje její obsah.",
       "chat": "Chat",
-      "interlude": "Mezihra",
+      "chat_description": "Rozhovor mezi jednou nebo více postavami.",
+      "interlude": "Interludium",
+      "interlude_description": "Krátký úsek, který přeruší hlavní příběh.",
       "tiktok": "TikTok",
-      "story_view": "Zobrazení příběhu",
-      "custom": "Vlastní",
+      "tiktok_description": "TikTok jako domovní pohled.",
+      "story_view": "Zahlednávka příběhu",
+      "custom": "Přidělený",
       "instagram": "Instagram",
-      "visual_novel": "Vizuální román",
+      "instagram_description": "Domovní pohled jako Instagram.",
+      "visual_novel": "Vizualní román",
       "main_menu": "Hlavní menu",
-      "scene_label": "Štítek scény"
+      "scene_label": "Etiketa scény"
     }
   },
   "chat": {

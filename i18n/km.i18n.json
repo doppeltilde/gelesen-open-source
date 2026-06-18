@@ -255,18 +255,23 @@
     "grid_color_description": "ជ្រើសពណ៌ក្រឡា។",
     "grid_color_picker": "កម្មវិធីជ្រើសពណ៌ក្រឡា",
     "scene": {
-      "scenes": "ឈុតឆាកទាំងឡាយ",
-      "scene": "ឈុតឆាក",
+      "scenes": "ឆាក",
+      "scene": "ឆាក",
       "title": "ចំណងជើង",
-      "chat": "ជជែកកំសាន្ត",
-      "interlude": "ឈុតចន្លោះ",
+      "title_description": "ចំណងជើងសម្រាប់ផ្នែកឆាកមួយ ដែលបង្ហាញពីខ្លឹមសាររបស់វា។",
+      "chat": "ការសន្ទនា",
+      "chat_description": "ការសន្ទនា រវាងតួអង្គមួយ ឬច្រើន។",
+      "interlude": "ការសម្រាក",
+      "interlude_description": "ផ្នែកខ្លីមួយដែលរំលងរឿងសំខាន់។",
       "tiktok": "TikTok",
+      "tiktok_description": "TikTok ដូចជាចំណុចចាប់ផ្តើមនៅផ្ទះ។",
       "story_view": "ទិដ្ឋភាពរឿង",
-      "custom": "ផ្ទាល់ខ្លួន",
+      "custom": "តាមតម្រូវការ",
       "instagram": "Instagram",
-      "visual_novel": "ប្រលោមលោកគំនូរ",
-      "main_menu": "ម៉ឺនុយ முதன்மை",
-      "scene_label": "ស្លាកសម្គាល់ឈុត"
+      "instagram_description": "ចំណុចចាប់ផ្តើមដូច Instagram។",
+      "visual_novel": "ប្រលោមលោកមើលឃើញ",
+      "main_menu": "ម៉ឺនុយសំខាន់",
+      "scene_label": "ស្លាកឆាក"
     }
   },
   "chat": {

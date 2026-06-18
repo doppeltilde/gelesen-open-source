@@ -258,15 +258,20 @@
       "scenes": "Scènes",
       "scene": "Scène",
       "title": "Titel",
+      "title_description": "Een kop voor een scènesectie, die een hint geeft naar de inhoud.",
       "chat": "Chat",
+      "chat_description": "Een gesprek tussen één of meerdere personages.",
       "interlude": "Interlude",
+      "interlude_description": "Een korte sectie die het hoofdverhaal onderbreekt.",
       "tiktok": "TikTok",
-      "story_view": "Verhaalweergave",
+      "tiktok_description": "Een TikTok zoals een homefeed.",
+      "story_view": "Story Weergave",
       "custom": "Aangepast",
       "instagram": "Instagram",
-      "visual_novel": "Visual Novel",
+      "instagram_description": "Een Instagram zoals een homefeed.",
+      "visual_novel": "Visueel Verhaal",
       "main_menu": "Hoofdmenu",
-      "scene_label": "Scènelabel"
+      "scene_label": "Scène Label"
     }
   },
   "chat": {

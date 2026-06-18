@@ -255,18 +255,23 @@
     "grid_color_description": "Изаберите боју мреже.",
     "grid_color_picker": "Бирач боје мреже",
     "scene": {
-      "scenes": "Сцене",
-      "scene": "Сцена",
-      "title": "Наслов",
-      "chat": "Ћаскање",
-      "interlude": "Интерлудиј",
+      "scenes": "Scenari",
+      "scene": "Scena",
+      "title": "Naslov",
+      "title_description": "Naslov za sekciju scene, koji sugeriše njen sadržaj.",
+      "chat": "Čet",
+      "chat_description": "Razgovor između jedne ili više likova.",
+      "interlude": "Interlud",
+      "interlude_description": "Kratak segment koji prekida glavni narativ.",
       "tiktok": "TikTok",
-      "story_view": "Преглед приче",
-      "custom": "Прилагођено",
+      "tiktok_description": "TikTok kao kućni feed.",
+      "story_view": "Pregled priče",
+      "custom": "Prilagođeno",
       "instagram": "Instagram",
-      "visual_novel": "Визуелна новела",
-      "main_menu": "Главни мени",
-      "scene_label": "Ознака сцене"
+      "instagram_description": "Instagram kao kućni feed.",
+      "visual_novel": "Vizuelni roman",
+      "main_menu": "Glavno meni",
+      "scene_label": "Etiketa scene"
     }
   },
   "chat": {

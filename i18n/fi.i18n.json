@@ -258,15 +258,20 @@
       "scenes": "Kohtaukset",
       "scene": "Kohtaus",
       "title": "Otsikko",
-      "chat": "Chat",
-      "interlude": "Väliproloogi",
+      "title_description": "Otsikko kohtausosioon, joka vihjaa sen sisältöön.",
+      "chat": "Keskustelu",
+      "chat_description": "Keskustelu yhden tai useamman hahmon välillä.",
+      "interlude": "Interludium",
+      "interlude_description": "Lyhyt osa, joka katkaisee päänarratiivin.",
       "tiktok": "TikTok",
-      "story_view": "Tarina-näkymä",
+      "tiktok_description": "TikTok kotisivun kaltainen.",
+      "story_view": "Tarinaesitys",
       "custom": "Mukautettu",
       "instagram": "Instagram",
-      "visual_novel": "Visuaalinen novelli",
+      "instagram_description": "Instagram kotisivun kaltainen.",
+      "visual_novel": "Visuaalinen romaani",
       "main_menu": "Päävalikko",
-      "scene_label": "Kohtauksen nimi"
+      "scene_label": "Kohtausmerkintä"
     }
   },
   "chat": {

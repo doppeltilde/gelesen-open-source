@@ -255,18 +255,23 @@
     "grid_color_description": "בחר את צבע הרשת.",
     "grid_color_picker": "בוחר צבע רשת",
     "scene": {
-      "scenes": "סצינות",
-      "scene": "סצינה",
+      "scenes": "סצנות",
+      "scene": "סצנה",
       "title": "כותרת",
+      "title_description": "כותרת עבור סעיף סצנה, המרמזת על תוכנו.",
       "chat": "צ'אט",
-      "interlude": "קטע קישור",
-      "tiktok": "TikTok",
+      "chat_description": "שיחה בין דמות אחת או יותר.",
+      "interlude": "אינטרלוד",
+      "interlude_description": "קטע קצר ששובר את הנרטיב הראשי.",
+      "tiktok": "טיקטוק",
+      "tiktok_description": "פיד טיקטוק כמו פId בית.",
       "story_view": "תצוגת סיפור",
-      "custom": "התאמה אישית",
-      "instagram": "Instagram",
+      "custom": "מותאם אישית",
+      "instagram": "אינסטגרם",
+      "instagram_description": "פיד אינסטגרם כמו פיד בית.",
       "visual_novel": "רומן ויזואלי",
       "main_menu": "תפריט ראשי",
-      "scene_label": "תווית סצינה"
+      "scene_label": "תגית סצנה"
     }
   },
   "chat": {

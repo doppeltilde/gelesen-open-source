@@ -255,18 +255,23 @@
     "grid_color_description": "Válaszd ki a rács színét.",
     "grid_color_picker": "Rács színválasztó",
     "scene": {
-      "scenes": "Jelenetek",
-      "scene": "Jelenet",
+      "scenes": "Szereplők",
+      "scene": "Szereplő",
       "title": "Cím",
+      "title_description": "Cím egy szekcióhoz, amely jelezze a tartalmát.",
       "chat": "Chat",
-      "interlude": "Közjáték",
+      "chat_description": "Egy vagy több karakter közötti beszélgetés.",
+      "interlude": "Interlúdió",
+      "interlude_description": "Egy rövid rész, amely megszakítja a fő történetet.",
       "tiktok": "TikTok",
-      "story_view": "Történet nézet",
-      "custom": "Egyedi",
+      "tiktok_description": "TikTok otthoni feed-je.",
+      "story_view": "Történet megtekintése",
+      "custom": "Saját",
       "instagram": "Instagram",
-      "visual_novel": "Vizuális regény",
+      "instagram_description": "Instagram otthoni feed-je.",
+      "visual_novel": "Vizuális román",
       "main_menu": "Főmenü",
-      "scene_label": "Jelenet címkéje"
+      "scene_label": "Szereplőjelölés"
     }
   },
   "chat": {

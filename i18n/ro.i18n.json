@@ -255,18 +255,23 @@
     "grid_color_description": "Alege culoarea grilei.",
     "grid_color_picker": "Selector culoare grilă",
     "scene": {
-      "scenes": "Scene",
+      "scenes": "Cenușe",
       "scene": "Scenă",
       "title": "Titlu",
+      "title_description": "Un titlu pentru o secțiune de scenă, care sugerează conținutul.",
       "chat": "Chat",
+      "chat_description": "O conversație între unul sau mai mulți personaje.",
       "interlude": "Interludiu",
+      "interlude_description": "Un segment scurt care întrerupe narațiunea principală.",
       "tiktok": "TikTok",
-      "story_view": "Vizualizare poveste",
+      "tiktok_description": "Un TikTok ca feed de acasă.",
+      "story_view": "Vizualizare Poveste",
       "custom": "Personalizat",
       "instagram": "Instagram",
-      "visual_novel": "Roman vizual",
-      "main_menu": "Meniu principal",
-      "scene_label": "Etichetă scenă"
+      "instagram_description": "Un feed Instagram ca feed de acasă.",
+      "visual_novel": "Roman Vizual",
+      "main_menu": "Meniul Principal",
+      "scene_label": "Etichetă Scenă"
     }
   },
   "chat": {

@@ -258,15 +258,20 @@
       "scenes": "Tonele",
       "scene": "Toneel",
       "title": "Titel",
-      "chat": "Klets",
-      "interlude": "Tussenspel",
+      "title_description": "’n Kop vir 'n toneelgedeelte, wat insig gee in sy inhoud.",
+      "chat": "Gesprek",
+      "chat_description": "’n Bespreking tussen een of meer karakters.",
+      "interlude": "Interlude",
+      "interlude_description": "’n Kort segment wat die hoofnarratief onderbreek.",
       "tiktok": "TikTok",
-      "story_view": "Storie-aansig",
-      "custom": "Gepasmaak",
+      "tiktok_description": "’n TikTok soos 'n tuis-voorsiening.",
+      "story_view": "Storie-kyk",
+      "custom": "Aangepas",
       "instagram": "Instagram",
+      "instagram_description": "’n Instagram soos tuis-voorsiening.",
       "visual_novel": "Visuele Roman",
-      "main_menu": "Hoofkieslys",
-      "scene_label": "Toneeletiket"
+      "main_menu": "Hoofmenu",
+      "scene_label": "Toneel-etiket"
     }
   },
   "chat": {

@@ -258,15 +258,20 @@
       "scenes": "Escenes",
       "scene": "Escena",
       "title": "Títol",
+      "title_description": "Un encabezat per a una secció d'escena, que suggereix el seu contingut.",
       "chat": "Xat",
+      "chat_description": "Una conversa entre una o més caracteritzacions.",
       "interlude": "Interludi",
+      "interlude_description": "Un segment curt que interromp la narrativa principal.",
       "tiktok": "TikTok",
-      "story_view": "Vista de la història",
+      "tiktok_description": "Un feed de TikTok similar a la llar.",
+      "story_view": "Vista de història",
       "custom": "Personalitzat",
       "instagram": "Instagram",
+      "instagram_description": "Un feed de Instagram similar al llar.",
       "visual_novel": "Novella visual",
       "main_menu": "Menú principal",
-      "scene_label": "Etiqueta de l'escena"
+      "scene_label": "Etiqueta d'escena"
     }
   },
   "chat": {

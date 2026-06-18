@@ -258,15 +258,20 @@
       "scenes": "Escenas",
       "scene": "Escena",
       "title": "Título",
+      "title_description": "Un encabezado para una sección de escena, que insinúa su contenido.",
       "chat": "Chat",
+      "chat_description": "Una conversación entre uno o más personajes.",
       "interlude": "Interludio",
+      "interlude_description": "Un segmento corto que interrumpe la narrativa principal.",
       "tiktok": "TikTok",
-      "story_view": "Vista de la historia",
+      "tiktok_description": "Un feed de TikTok similar a la página de inicio.",
+      "story_view": "Vista de la Historia",
       "custom": "Personalizado",
       "instagram": "Instagram",
-      "visual_novel": "Novela visual",
-      "main_menu": "Menú principal",
-      "scene_label": "Etiqueta de escena"
+      "instagram_description": "Un feed de Instagram similar a la página de inicio.",
+      "visual_novel": "Novela Visual",
+      "main_menu": "Menú Principal",
+      "scene_label": "Etiqueta de Escena"
     }
   },
   "chat": {

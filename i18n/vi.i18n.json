@@ -255,18 +255,23 @@
     "grid_color_description": "Chọn màu lưới.",
     "grid_color_picker": "Bộ chọn màu lưới",
     "scene": {
-      "scenes": "Các phân cảnh",
-      "scene": "Phân cảnh",
+      "scenes": "Cảnh",
+      "scene": "Cảnh",
       "title": "Tiêu đề",
+      "title_description": "Một tiêu đề cho phần cảnh, gợi ý về nội dung của nó.",
       "chat": "Trò chuyện",
-      "interlude": "Phân đoạn giữa",
+      "chat_description": "Một cuộc trò chuyện giữa một hoặc nhiều nhân vật.",
+      "interlude": "Khoảng nghỉ",
+      "interlude_description": "Một đoạn ngắn ngắt quãng câu chuyện chính.",
       "tiktok": "TikTok",
-      "story_view": "Góc nhìn truyện",
+      "tiktok_description": "TikTok giống như nguồn cấp dữ liệu trang chủ.",
+      "story_view": "Xem Câu chuyện",
       "custom": "Tùy chỉnh",
       "instagram": "Instagram",
-      "visual_novel": "Visual Novel",
-      "main_menu": "Menu chính",
-      "scene_label": "Nhãn phân cảnh"
+      "instagram_description": "Nguồn cấp dữ liệu Instagram giống như trang chủ.",
+      "visual_novel": "Tiểu thuyết hình ảnh",
+      "main_menu": "Menu Chính",
+      "scene_label": "Nhãn Cảnh"
     }
   },
   "chat": {

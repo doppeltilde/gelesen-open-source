@@ -258,15 +258,20 @@
       "scenes": "Scener",
       "scene": "Scene",
       "title": "Titel",
+      "title_description": "En overskrift for en scensektion, der antyder dens indhold.",
       "chat": "Chat",
-      "interlude": "Mellemspil",
+      "chat_description": "En samtale mellem én eller flere karakterer.",
+      "interlude": "Interlude",
+      "interlude_description": "Et kort afsnit, der bryder den hovedfortælling.",
       "tiktok": "TikTok",
+      "tiktok_description": "Et TikTok-feed som et hjemmefeed.",
       "story_view": "Historievisning",
-      "custom": "Brugerdefineret",
+      "custom": "Tilpasset",
       "instagram": "Instagram",
+      "instagram_description": "Et Instagram-feed som et hjemmefeed.",
       "visual_novel": "Visuel roman",
       "main_menu": "Hovedmenu",
-      "scene_label": "Scenemærkat"
+      "scene_label": "Scenelabel"
     }
   },
   "chat": {

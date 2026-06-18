@@ -258,15 +258,20 @@
       "scenes": "Scener",
       "scene": "Scene",
       "title": "Tittel",
+      "title_description": "En overskrift for en scenseksjon, som antyder innholdet.",
       "chat": "Chat",
-      "interlude": "Mellomspill",
+      "chat_description": "En samtale mellom én eller flere karakterer.",
+      "interlude": "Interlude",
+      "interlude_description": "Et kort segment som bryter opp hovedfortellingen.",
       "tiktok": "TikTok",
+      "tiktok_description": "En TikTok som et hjemmefeed.",
       "story_view": "Historievisning",
       "custom": "Tilpasset",
       "instagram": "Instagram",
+      "instagram_description": "Et Instagram som et hjemmefeed.",
       "visual_novel": "Visuell roman",
       "main_menu": "Hovedmeny",
-      "scene_label": "Scenemerkelapp"
+      "scene_label": "Sceneetikett"
     }
   },
   "chat": {
