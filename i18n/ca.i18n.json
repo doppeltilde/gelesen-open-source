@@ -209,8 +209,8 @@
     "account_not_found": "No s'ha trobat el compte o s'ha tancat."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "La meva biblioteca",
+    "no_stories_found": "No s'han trobada històries."
   },
   "blocklists": {
     "my_blocklists": "Les meves llistes de boicot",

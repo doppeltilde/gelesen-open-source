@@ -209,8 +209,8 @@
     "account_not_found": "Účet nebyl nalezen nebo byl zrušen."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Moje knihovna",
+    "no_stories_found": "Žádné příběhy nenalezeny."
   },
   "blocklists": {
     "my_blocklists": "Moje seznamy blokovaných",

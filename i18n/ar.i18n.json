@@ -209,8 +209,8 @@
     "account_not_found": "لم يتم العثور على الحساب أو تم إغلاقه."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "مكتبتي",
+    "no_stories_found": "لم يتم العثور على أي قصص."
   },
   "blocklists": {
     "my_blocklists": "قوائم الحظر الخاصة بي",

@@ -209,8 +209,8 @@
     "account_not_found": "Ο λογαριασμός είτε δεν βρέθηκε είτε έχει κλείσει."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Η βιβλιοθήκη μου",
+    "no_stories_found": "Δεν βρέθηκαν ιστορίες."
   },
   "blocklists": {
     "my_blocklists": "Οι λίστες αποκλεισμού μου",

@@ -209,8 +209,8 @@
     "account_not_found": "Das Konto wurde entweder nicht gefunden oder geschlossen."
   },
   "library": {
-    "my_library": "My Library",
-    "no_stories_found": "No Stories Found."
+    "my_library": "Meine Bibliothek",
+    "no_stories_found": "Keine Geschichten gefunden."
   },
   "blocklists": {
     "my_blocklists": "Meine Blockierlisten",
