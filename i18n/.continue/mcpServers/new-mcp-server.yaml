@@ -1,0 +1,10 @@
+name: DDG Search
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: DDG Search
+    command: npx
+    args:
+      - -y
+      - duckduckgo-mcp-server
+    env: {}
