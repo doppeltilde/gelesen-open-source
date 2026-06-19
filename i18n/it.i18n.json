@@ -347,6 +347,7 @@
     "go_to_scene_description": "Termina la scena attuale e porta il giocatore alla scena specificata.",
     "go_to_message": "Vai al Messaggio",
     "go_to_message_description": "Salta alla conversazione specifica.",
-    "conditional_statements": "Dichiarazioni Condizionali"
+    "conditional_statements": "Dichiarazioni Condizionali",
+    "conditional_statements_description": "Rappresenta un punto di diramazione logico nel flusso della conversazione."
   }
 }
