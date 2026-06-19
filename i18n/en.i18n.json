@@ -32,7 +32,7 @@
         "language": "Language",
         "reactions": "Reactions",
         "reaction": "Reaction",
-        "story_does_not_exist_or_is_privae": "This story does not exists or is private.",
+        "story_does_not_exist_or_is_private": "This story does not exists or is private.",
         "completed": "Completed",
         "wip": "Work in Progress",
         "branching": "Branching",

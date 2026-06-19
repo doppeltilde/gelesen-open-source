@@ -32,7 +32,7 @@
     "language": "Språk",
     "reactions": "Reaktioner",
     "reaction": "Reaktion",
-    "story_does_not_exist_or_is_privae": "Den här berättelsen existerar inte eller är privat.",
+    "story_does_not_exist_or_is_private": "Den här berättelsen existerar inte eller är privat.",
     "completed": "Slutförd",
     "wip": "På gång",
     "branching": "Grenad",
