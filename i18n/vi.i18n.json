@@ -287,6 +287,8 @@
     "grid_color": "Màu lưới",
     "grid_color_description": "Chọn màu lưới.",
     "grid_color_picker": "Bộ chọn màu lưới",
+    "delete_story": "Xóa truyện",
+    "delete_story_description": "Bạn có chắc chắn muốn xóa truyện này không?",
     "scene": {
       "scenes": "Cảnh",
       "scene": "Cảnh",

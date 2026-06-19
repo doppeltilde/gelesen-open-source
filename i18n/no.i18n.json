@@ -287,6 +287,8 @@
     "grid_color": "Rutenettfarge",
     "grid_color_description": "Velg rutenettfargen.",
     "grid_color_picker": "Rutenettfargevelger",
+    "delete_story": "Slett historie",
+    "delete_story_description": "Er du sikker på at du vil slette denne historien?",
     "scene": {
       "scenes": "Scener",
       "scene": "Scene",

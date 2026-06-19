@@ -287,6 +287,8 @@
     "grid_color": "Warna grid",
     "grid_color_description": "Pilih warna grid.",
     "grid_color_picker": "Pemilih warna grid",
+    "delete_story": "Hapus Cerita",
+    "delete_story_description": "Apakah Anda yakin ingin menghapus cerita ini?",
     "scene": {
       "scenes": "Adegan",
       "scene": "Adegan",

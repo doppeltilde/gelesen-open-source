@@ -254,6 +254,8 @@
     "grid_color": "Color de la cuadrícula",
     "grid_color_description": "Elige el color de la cuadrícula.",
     "grid_color_picker": "Selector de color de cuadrícula",
+    "delete_story": "Eliminar historia",
+    "delete_story_description": "¿Estás seguro de que quieres eliminar esta historia?",
     "scene": {
       "scenes": "Escenas",
       "scene": "Escena",

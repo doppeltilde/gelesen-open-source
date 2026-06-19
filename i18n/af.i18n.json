@@ -287,6 +287,8 @@
     "grid_color": "Roosterkleur",
     "grid_color_description": "Kies die roosterkleur.",
     "grid_color_picker": "Roosterkleurkieser",
+    "delete_story": "Vee storie uit",
+    "delete_story_description": "Is jy seker jy wil hierdie storie uitvee?",
     "scene": {
       "scenes": "Tonele",
       "scene": "Toneel",

@@ -287,6 +287,8 @@
     "grid_color": "สีตาราง",
     "grid_color_description": "เลือกสีตาราง",
     "grid_color_picker": "ตัวเลือกสีตาราง",
+    "delete_story": "ลบเรื่องราว",
+    "delete_story_description": "คุณแน่ใจหรือไม่ว่าต้องการลบเรื่องราวนี้?",
     "scene": {
       "scenes": "ฉาก",
       "scene": "ฉาก",

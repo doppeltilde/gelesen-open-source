@@ -287,6 +287,8 @@
     "grid_color": "Cor da grade",
     "grid_color_description": "Escolha a cor da grade.",
     "grid_color_picker": "Seletor de cor da grade",
+    "delete_story": "Excluir história",
+    "delete_story_description": "Tem certeza de que deseja excluir esta história?",
     "scene": {
       "scenes": "Cenas",
       "scene": "Cena",

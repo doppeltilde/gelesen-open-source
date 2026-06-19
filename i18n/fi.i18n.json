@@ -287,6 +287,8 @@
     "grid_color": "Ruudukon väri",
     "grid_color_description": "Valitse ruudukon väri.",
     "grid_color_picker": "Ruudukon värivalitsin",
+    "delete_story": "Poista tarina",
+    "delete_story_description": "Haluatko varmasti poistaa tämän tarinan?",
     "scene": {
       "scenes": "Kohtaukset",
       "scene": "Kohtaus",

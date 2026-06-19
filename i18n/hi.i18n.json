@@ -287,6 +287,8 @@
     "grid_color": "ग्रिड रंग",
     "grid_color_description": "ग्रिड रंग चुनें।",
     "grid_color_picker": "ग्रिड रंग चयनकर्ता",
+    "delete_story": "कहानी हटाएं",
+    "delete_story_description": "क्या आप वाकई इस कहानी को हटाना चाहते हैं?",
     "scene": {
       "scenes": "दृश्य",
       "scene": "दृश्य",

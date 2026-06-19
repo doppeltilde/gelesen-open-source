@@ -287,6 +287,8 @@
     "grid_color": "Колір сітки",
     "grid_color_description": "Виберіть колір сітки.",
     "grid_color_picker": "Вибір кольору сітки",
+    "delete_story": "Видалити історію",
+    "delete_story_description": "Ви впевнені, що хочете видалити цю історію?",
     "scene": {
       "scenes": "Сцени",
       "scene": "Сцена",

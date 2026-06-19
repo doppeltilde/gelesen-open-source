@@ -287,6 +287,8 @@
     "grid_color": "Rasterkleur",
     "grid_color_description": "Kies de rasterkleur.",
     "grid_color_picker": "Rasterkleurkiezer",
+    "delete_story": "Verhaal verwijderen",
+    "delete_story_description": "Weet je zeker dat je dit verhaal wilt verwijderen?",
     "scene": {
       "scenes": "Scènes",
       "scene": "Scène",

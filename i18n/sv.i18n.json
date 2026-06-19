@@ -287,6 +287,8 @@
     "grid_color": "Rutnätsfärg",
     "grid_color_description": "Välj rutnätsfärgen.",
     "grid_color_picker": "Rutnätsfärgväljare",
+    "delete_story": "Ta bort berättelse",
+    "delete_story_description": "Är du säker på att du vill ta bort den här berättelsen?",
     "scene": {
       "scenes": "Scener",
       "scene": "Scen",

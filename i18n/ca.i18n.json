@@ -287,6 +287,8 @@
     "grid_color": "Color de la graella",
     "grid_color_description": "Tria el color de la graella.",
     "grid_color_picker": "Selector de color de la graella",
+    "delete_story": "Eliminar la història",
+    "delete_story_description": "Segur que voleu eliminar aquesta història?",
     "scene": {
       "scenes": "Escenes",
       "scene": "Escena",

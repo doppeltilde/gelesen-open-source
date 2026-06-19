@@ -287,6 +287,8 @@
     "grid_color": "Colore griglia",
     "grid_color_description": "Scegli il colore della griglia.",
     "grid_color_picker": "Selettore colore griglia",
+    "delete_story": "Elimina storia",
+    "delete_story_description": "Sei sicuro di voler eliminare questa storia?",
     "scene": {
       "scenes": "Scene",
       "scene": "Scena",

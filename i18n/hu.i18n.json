@@ -287,6 +287,8 @@
     "grid_color": "Rács színe",
     "grid_color_description": "Válaszd ki a rács színét.",
     "grid_color_picker": "Rács színválasztó",
+    "delete_story": "Történet törlése",
+    "delete_story_description": "Biztosan törölni szeretné ezt a történetet?",
     "scene": {
       "scenes": "Szereplők",
       "scene": "Szereplő",

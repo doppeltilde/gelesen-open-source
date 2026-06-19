@@ -287,6 +287,8 @@
     "grid_color": "لون الشبكة",
     "grid_color_description": "اختر لون الشبكة.",
     "grid_color_picker": "منتقي لون الشبكة",
+    "delete_story": "حذف القصة",
+    "delete_story_description": "هل أنت متأكد أنك تريد حذف هذه القصة؟",
     "scene": {
       "scenes": "مشاهد",
       "scene": "مشهد",

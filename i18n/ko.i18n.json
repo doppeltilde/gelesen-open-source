@@ -287,6 +287,8 @@
     "grid_color": "그리드 색상",
     "grid_color_description": "그리드 색상을 선택하세요.",
     "grid_color_picker": "그리드 색상 선택기",
+    "delete_story": "스토리 삭제",
+    "delete_story_description": "이 스토리를 정말로 삭제하시겠습니까?",
     "scene": {
       "scenes": "장면",
       "scene": "장면",

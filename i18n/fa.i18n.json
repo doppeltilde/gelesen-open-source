@@ -287,6 +287,8 @@
     "grid_color": "رنگ شبکه",
     "grid_color_description": "رنگ شبکه را انتخاب کنید.",
     "grid_color_picker": "انتخابگر رنگ شبکه",
+    "delete_story": "حذف داستان",
+    "delete_story_description": "آیا از حذف این داستان مطمئن هستید؟",
     "scene": {
       "scenes": "صحنه‌ها",
       "scene": "صحنه",

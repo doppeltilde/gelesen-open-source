@@ -287,6 +287,8 @@
     "grid_color": "Kolor siatki",
     "grid_color_description": "Wybierz kolor siatki.",
     "grid_color_picker": "Wybór koloru siatki",
+    "delete_story": "Usuń opowiadanie",
+    "delete_story_description": "Czy na pewno chcesz usunąć to opowiadanie?",
     "scene": {
       "scenes": "Sceny",
       "scene": "Scena",

@@ -287,6 +287,8 @@
     "grid_color": "Gitterfarve",
     "grid_color_description": "Vælg gitterfarven.",
     "grid_color_picker": "Gitterfarvevælger",
+    "delete_story": "Slet historie",
+    "delete_story_description": "Er du sikker på, at du vil slette denne historie?",
     "scene": {
       "scenes": "Scener",
       "scene": "Scene",

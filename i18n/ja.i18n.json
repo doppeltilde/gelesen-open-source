@@ -287,6 +287,8 @@
     "grid_color": "グリッドカラー",
     "grid_color_description": "グリッドカラーを選択してください。",
     "grid_color_picker": "グリッドカラーピッカー",
+    "delete_story": "ストーリーを削除",
+    "delete_story_description": "このストーリーを削除してもよろしいですか？",
     "scene": {
       "scenes": "シーン",
       "scene": "シーン",

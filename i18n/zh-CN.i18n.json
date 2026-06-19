@@ -287,6 +287,8 @@
     "grid_color": "网格颜色",
     "grid_color_description": "选择网格颜色。",
     "grid_color_picker": "网格颜色选择器",
+    "delete_story": "删除故事",
+    "delete_story_description": "您確定要刪除這個故事嗎？",
     "scene": {
       "scenes": "场景",
       "scene": "场景",

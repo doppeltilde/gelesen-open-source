@@ -287,6 +287,8 @@
     "grid_color": "צבע רשת",
     "grid_color_description": "בחר את צבע הרשת.",
     "grid_color_picker": "בוחר צבע רשת",
+    "delete_story": "מחיקת סיפור",
+    "delete_story_description": "האם אתה בטוח שברצונך למחוק את הסיפור הזה?",
     "scene": {
       "scenes": "סצנות",
       "scene": "סצנה",

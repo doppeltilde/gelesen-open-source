@@ -287,6 +287,8 @@
     "grid_color": "Barva mřížky",
     "grid_color_description": "Vyberte barvu mřížky.",
     "grid_color_picker": "Výběr barvy mřížky",
+    "delete_story": "Smazat příběh",
+    "delete_story_description": "Opravdu chcete tento příběh smazat?",
     "scene": {
       "scenes": "Scény",
       "scene": "Scéna",

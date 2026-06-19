@@ -287,6 +287,8 @@
     "grid_color": "Izgara rengi",
     "grid_color_description": "Izgara rengini seçin.",
     "grid_color_picker": "Izgara renk seçici",
+    "delete_story": "Hikayeyi Sil",
+    "delete_story_description": "Bu hikayeyi silmek istediğinizden emin misiniz?",
     "scene": {
       "scenes": "Sahneler",
       "scene": "Sahne",

@@ -287,6 +287,8 @@
     "grid_color": "Culoarea grilei",
     "grid_color_description": "Alege culoarea grilei.",
     "grid_color_picker": "Selector culoare grilă",
+    "delete_story": "Șterge povestea",
+    "delete_story_description": "Sigur dorești să ștergi această poveste?",
     "scene": {
       "scenes": "Cenușe",
       "scene": "Scenă",

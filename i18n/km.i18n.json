@@ -287,6 +287,8 @@
     "grid_color": "ពណ៌ក្រឡា",
     "grid_color_description": "ជ្រើសពណ៌ក្រឡា។",
     "grid_color_picker": "កម្មវិធីជ្រើសពណ៌ក្រឡា",
+    "delete_story": "លុបរឿង",
+    "delete_story_description": "តើអ្នកពិតជាចង់លុបរឿងនេះមែនទេ?",
     "scene": {
       "scenes": "ឆាក",
       "scene": "ឆាក",

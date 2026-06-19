@@ -287,6 +287,8 @@
     "grid_color": "Цвет сетки",
     "grid_color_description": "Выберите цвет сетки.",
     "grid_color_picker": "Выбор цвета сетки",
+    "delete_story": "Удалить историю",
+    "delete_story_description": "Вы уверены, что хотите удалить эту историю?",
     "scene": {
       "scenes": "Сцены",
       "scene": "Сцена",

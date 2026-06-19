@@ -287,6 +287,8 @@
     "grid_color": "Rasterfarbe",
     "grid_color_description": "Wähle die Rasterfarbe.",
     "grid_color_picker": "Rasterfarbauswahl",
+    "delete_story": "Geschichte löschen",
+    "delete_story_description": "Bist du sicher, dass du diese Geschichte löschen möchtest?",
     "scene": {
       "scenes": "Szenen",
       "scene": "Szene",

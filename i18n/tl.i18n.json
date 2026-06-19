@@ -287,6 +287,8 @@
     "grid_color": "Kulay ng grid",
     "grid_color_description": "Piliin ang kulay ng grid.",
     "grid_color_picker": "Tagapili ng kulay ng grid",
+    "delete_story": "Burahin ang Kuwento",
+    "delete_story_description": "Sigurado ka bang gusto mong burahin ang kuwentong ito?",
     "scene": {
       "scenes": "Mga Eksena",
       "scene": "Eksena",
