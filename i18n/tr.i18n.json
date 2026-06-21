@@ -71,7 +71,13 @@
     "identity_profiles": "Kimlik Profilleri",
     "edit_identites_description": "Kimlik profili, karakterin bir sahnedeki personasını belirlemenin bir yoludur.",
     "edit_stats": "İstatistikleri Düzenle",
-    "edit_stats_description": "Karakterin güçlü yönleri, zayıf yönleri ve ilerlemesi."
+    "edit_stats_description": "Karakterin güçlü yönleri, zayıf yönleri ve ilerlemesi.",
+    "set_as_player": "Oyuncu Olarak Ayarla",
+    "set_as_player_description": "Bu karakteri oyuncu olarak ayarlamak istediğinizden emin misiniz?",
+    "translate": "Çevir",
+    "translate_description": "Bu düğmeye dokunmak, metni tercih ettiğiniz dile çevirecektir.",
+    "always_translate": "Her Zaman Çevir",
+    "always_translate_description": "”Her Zaman Çevir” seçeneği etkinleştirildiğinde, tüm metinler otomatik olarak çevrilir."
   },
   "sessions": {
     "my_sessions": "Oturumlarım",

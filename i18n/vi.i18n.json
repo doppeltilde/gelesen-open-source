@@ -71,7 +71,13 @@
     "identity_profiles": "Hồ sơ danh tính",
     "edit_identites_description": "Hồ sơ danh tính là cách thiết lập hình tượng/vai trò của nhân vật cho một phân cảnh.",
     "edit_stats": "Chỉnh sửa chỉ số",
-    "edit_stats_description": "Điểm mạnh, điểm yếu và tiến trình của nhân vật."
+    "edit_stats_description": "Điểm mạnh, điểm yếu và tiến trình của nhân vật.",
+    "set_as_player": "Đặt làm Người chơi",
+    "set_as_player_description": "Bạn có chắc chắn muốn đặt nhân vật này làm người chơi không?",
+    "translate": "Dịch",
+    "translate_description": "Nhấn vào nút này sẽ dịch văn bản sang ngôn ngữ ưu tiên của bạn.",
+    "always_translate": "Luôn luôn dịch",
+    "always_translate_description": "Khi tính năng ”Luôn luôn dịch” được bật, tất cả văn bản sẽ tự động được dịch."
   },
   "sessions": {
     "my_sessions": "Phiên hoạt động của tôi",

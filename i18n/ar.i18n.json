@@ -71,7 +71,13 @@
     "identity_profiles": "ملفات الهوية التعريفية",
     "edit_identites_description": "ملف الهوية هو طريقة لتحديد شخصية الشخصية في مشهد معين.",
     "edit_stats": "تعديل الإحصائيات",
-    "edit_stats_description": "نقاط قوة الشخصية، ونقاط ضعفها، وتقدمها."
+    "edit_stats_description": "نقاط قوة الشخصية، ونقاط ضعفها، وتقدمها.",
+    "set_as_player": "تعيين كلاعب",
+    "set_as_player_description": "هل أنت متأكد من أنك تريد تعيين هذه الشخصية كلاعب؟",
+    "translate": "ترجمة",
+    "translate_description": "سيؤدي النقر فوق هذا الزر إلى ترجمة النص إلى لغتك المفضلة.",
+    "always_translate": "ترجمة دائماً",
+    "always_translate_description": "عند تمكين ”ترجمة دائماً”، سيتم ترجمة النص بالكامل تلقائياً."
   },
   "sessions": {
     "my_sessions": "جلساتي",

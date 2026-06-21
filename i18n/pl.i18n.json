@@ -71,7 +71,13 @@
     "identity_profiles": "Profile tożsamości",
     "edit_identites_description": "Profil tożsamości pozwala określić osobowość postaci na potrzeby danej sceny.",
     "edit_stats": "Edytuj statystyki",
-    "edit_stats_description": "Mocne i słabe strony oraz postępy postaci."
+    "edit_stats_description": "Mocne i słabe strony oraz postępy postaci.",
+    "set_as_player": "Ustaw jako gracza",
+    "set_as_player_description": "Czy na pewno chcesz ustawić tę postać jako gracza?",
+    "translate": "Przetłumacz",
+    "translate_description": "Stuknięcie tego przycisku spowoduje przetłumaczenie tekstu na preferowany język.",
+    "always_translate": "Zawsze tłumacz",
+    "always_translate_description": "Gdy opcja „Zawsze tłumacz” jest włączona, cały tekst będzie tłumaczony automatycznie."
   },
   "sessions": {
     "my_sessions": "Moje sesje",

@@ -71,7 +71,13 @@
     "identity_profiles": "Profil Identitas",
     "edit_identites_description": "Profil identitas adalah cara untuk mengatur persona karakter dalam sebuah adegan.",
     "edit_stats": "Edit Statistik",
-    "edit_stats_description": "Kekuatan, kelemahan, dan perkembangan karakter."
+    "edit_stats_description": "Kekuatan, kelemahan, dan perkembangan karakter.",
+    "set_as_player": "Atur sebagai Pemain",
+    "set_as_player_description": "Apakah Anda yakin ingin mengatur karakter ini sebagai pemain?",
+    "translate": "Terjemahkan",
+    "translate_description": "Mengetuk tombol ini akan menerjemahkan teks ke dalam bahasa pilihan Anda.",
+    "always_translate": "Selalu Terjemahkan",
+    "always_translate_description": "Ketika ”Selalu Terjemahkan” diaktifkan, semua teks akan diterjemahkan secara otomatis."
   },
   "sessions": {
     "my_sessions": "Sesi saya",

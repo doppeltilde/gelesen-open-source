@@ -71,7 +71,13 @@
     "identity_profiles": "Identitetsprofiler",
     "edit_identites_description": "En identitetsprofil är ett sätt att ställa in karaktärens persona för en viss scen.",
     "edit_stats": "Redigera statistik",
-    "edit_stats_description": "Karaktärens styrkor, svagheter och framsteg."
+    "edit_stats_description": "Karaktärens styrkor, svagheter och framsteg.",
+    "set_as_player": "Välj som spelare",
+    "set_as_player_description": "Är du säker på att du vill välja den här karaktären som spelare?",
+    "translate": "Översätt",
+    "translate_description": "Om du trycker på den här knappen översätts texten till ditt föredragna språk.",
+    "always_translate": "Översätt alltid",
+    "always_translate_description": "När ”Översätt alltid” är aktiverat kommer all text att översättas automatiskt."
   },
   "sessions": {
     "my_sessions": "Mina sessioner",

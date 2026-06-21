@@ -71,7 +71,13 @@
     "identity_profiles": "Identiteettiprofiilit",
     "edit_identites_description": "Identiteettiprofiili on tapa määrittää hahmon persoona tiettyä kohtausta varten.",
     "edit_stats": "Muokkaa tilastoja",
-    "edit_stats_description": "Hahmon vahvuudet, heikkoudet ja edistyminen."
+    "edit_stats_description": "Hahmon vahvuudet, heikkoudet ja edistyminen.",
+    "set_as_player": "Aseta pelaajaksi",
+    "set_as_player_description": "Haluatko varmasti asettaa tämän hahmon pelaajaksi?",
+    "translate": "Käännä",
+    "translate_description": "Tämän painikkeen napauttaminen kääntää tekstin valitsemallesi kielelle.",
+    "always_translate": "Käännä aina",
+    "always_translate_description": "Kun ”Käännä aina” on käytössä, kaikki teksti käännetään automaattisesti."
   },
   "sessions": {
     "my_sessions": "Omat istunnot",

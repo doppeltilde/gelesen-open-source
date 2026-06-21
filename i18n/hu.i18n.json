@@ -71,7 +71,13 @@
     "identity_profiles": "Identitásprofilok",
     "edit_identites_description": "Az identitásprofil segítségével beállítható a karakter személyisége egy adott jelenethez.",
     "edit_stats": "Statisztikák szerkesztése",
-    "edit_stats_description": "A karakter erősségei, gyengeségei és előrehaladása."
+    "edit_stats_description": "A karakter erősségei, gyengeségei és előrehaladása.",
+    "set_as_player": "Beállítás játékosként",
+    "set_as_player_description": "Biztosan be szeretné állítani ezt a karaktert játékosként?",
+    "translate": "Fordítás",
+    "translate_description": "Erre gombra koppintva a szöveg a kiválasztott nyelvre lesz fordítva.",
+    "always_translate": "Mindig fordítson",
+    "always_translate_description": "Ha a „Mindig fordítson” opció be van kapcsolva, minden szöveg automatikusan le lesz fordítva."
   },
   "sessions": {
     "my_sessions": "Munkameneteim",

@@ -71,7 +71,13 @@
     "identity_profiles": "Identiteitsprofielen",
     "edit_identites_description": "Een identiteitsprofiel is een manier om de persona van een personage voor een scène in te stellen.",
     "edit_stats": "Statistieken bewerken",
-    "edit_stats_description": "De sterke en zwakke punten en de voortgang van het personage."
+    "edit_stats_description": "De sterke en zwakke punten en de voortgang van het personage.",
+    "set_as_player": "Instellen als speler",
+    "set_as_player_description": "Weet je zeker dat je dit personage als speler wilt instellen?",
+    "translate": "Vertalen",
+    "translate_description": "Als je op deze knop tikt, wordt de tekst vertaald in de taal van jouw voorkeur.",
+    "always_translate": "Altijd vertalen",
+    "always_translate_description": "Wanneer ”Altijd vertalen” is ingeschakeld, wordt alle tekst automatisch vertaald."
   },
   "sessions": {
     "my_sessions": "Mijn sessies",

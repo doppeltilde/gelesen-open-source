@@ -71,7 +71,13 @@
     "identity_profiles": "アイデンティティプロファイル",
     "edit_identites_description": "アイデンティティプロファイルとは、シーンに合わせてキャラクターのペルソナを設定する機能です。",
     "edit_stats": "ステータス編集",
-    "edit_stats_description": "キャラクターの長所、短所、および進行状況。"
+    "edit_stats_description": "キャラクターの長所、短所、および進行状況。",
+    "set_as_player": "プレイヤーに設定",
+    "set_as_player_description": "本当にこのキャラクターをプレイヤーに設定しますか？",
+    "translate": "翻訳",
+    "translate_description": "このボタンをタップすると、テキストが設定した言語に翻訳されます。",
+    "always_translate": "常に翻訳",
+    "always_translate_description": "「常に翻訳」を有効にすると、すべてのテキストが自動的に翻訳されます。"
   },
   "sessions": {
     "my_sessions": "マイセッション",

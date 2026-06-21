@@ -71,7 +71,13 @@
     "identity_profiles": "Perfils d'identitat",
     "edit_identites_description": "Un perfil d'identitat és una manera de definir la persona del personatge per a una escena.",
     "edit_stats": "Editar estadístiques",
-    "edit_stats_description": "Les fortaleses, febleses i el progrés del personatge."
+    "edit_stats_description": "Les fortaleses, febleses i el personatge.",
+    "set_as_player": "Definir como jugador",
+    "set_as_player_description": "¿Seguro que quieres definir este personaje como el jugador?",
+    "translate": "Traducir",
+    "translate_description": "Al tocar este botón se traducirá el texto a tu idioma de preferencia.",
+    "always_translate": "Traducir siempre",
+    "always_translate_description": "Cuando ”Traducir siempre” está activado, todo el texto se traducirá automáticamente."
   },
   "sessions": {
     "my_sessions": "Les meves sessions",

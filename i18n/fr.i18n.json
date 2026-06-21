@@ -71,7 +71,13 @@
     "identity_profiles": "Profils d'identité",
     "edit_identites_description": "Un profil d'identité permet de définir le rôle ou la personnalité d'un personnage pour une scène.",
     "edit_stats": "Modifier les stats",
-    "edit_stats_description": "Les forces, faiblesses et la progression du personnage."
+    "edit_stats_description": "Les forces, faiblesses et la progression du personnage.",
+    "set_as_player": "Définir comme joueur",
+    "set_as_player_description": "Voulez-vous vraiment définir ce personnage comme le joueur ?",
+    "translate": "Traduire",
+    "translate_description": "Appuyer på ce bouton traduira le texte dans votre langue préférée.",
+    "always_translate": "Toujours traduire",
+    "always_translate_description": "Lorsque l'option ”Toujours traduire” est activée, tout le texte sera traduit automatiquement."
   },
   "sessions": {
     "my_sessions": "Mes sessions",

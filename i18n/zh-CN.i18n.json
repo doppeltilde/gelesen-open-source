@@ -71,7 +71,13 @@
     "identity_profiles": "身份档案",
     "edit_identites_description": "身份档案是一种为场景设定角色个性的方式。",
     "edit_stats": "编辑属性",
-    "edit_stats_description": "角色的优势、劣势和进度。"
+    "edit_stats_description": "角色的优势、劣势和进度。",
+    "set_as_player": "设为玩家",
+    "set_as_player_description": "您确定要将此角色设为玩家吗？",
+    "translate": "翻译",
+    "translate_description": "点击此按钮会将文本翻译为您首选的语言。",
+    "always_translate": "总是翻译",
+    "always_translate_description": "启用“总是翻译”后，所有文本都将自动进行翻译。"
   },
   "sessions": {
     "my_sessions": "我的会话",

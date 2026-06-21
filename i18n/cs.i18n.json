@@ -71,7 +71,13 @@
     "identity_profiles": "Profily identity",
     "edit_identites_description": "Profil identity je způsob, jak nastavit osobnost postavy pro danou scénu.",
     "edit_stats": "Upravit statistiky",
-    "edit_stats_description": "Silné a slabé stránky postavy a její pokrok."
+    "edit_stats_description": "Silné a slabé stránky postavy a její pokrok.",
+    "set_as_player": "Nastavit jako hráče",
+    "set_as_player_description": "Opravdu chcete nastavit tuto postavu jako hráče?",
+    "translate": "Přeložit",
+    "translate_description": "Klepnutím na toto tlačítko se text přeloží do vašeho preferovaného jazyka.",
+    "always_translate": "Vždy překládat",
+    "always_translate_description": "Když je zapnuta funkce „Vždy překládat“, veškerý text se automaticky přeloží."
   },
   "sessions": {
     "my_sessions": "Moje relace",

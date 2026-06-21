@@ -71,7 +71,13 @@
     "identity_profiles": "Profiluri de identitate",
     "edit_identites_description": "Un profil de identitate este o modalitate de a stabili personalitatea personajului pentru o scenă.",
     "edit_stats": "Editează atributele",
-    "edit_stats_description": "Punctele tari, punctele slabe și progresul personajului."
+    "edit_stats_description": "Punctele tari, punctele slabe și progresul personajului.",
+    "set_as_player": "Setează ca jucător",
+    "set_as_player_description": "Sigur dorești să setezi acest personaj ca jucător?",
+    "translate": "Traducere",
+    "translate_description": "Atingerea acestui buton va traduce textul în limba preferată.",
+    "always_translate": "Traducere automată",
+    "always_translate_description": "Când opțiunea ”Traducere automată” este activată, tot textul va fi tradus automat."
   },
   "sessions": {
     "my_sessions": "Sesiunile mele",

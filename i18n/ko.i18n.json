@@ -71,7 +71,13 @@
     "identity_profiles": "아이덴티티 프로필",
     "edit_identites_description": "아이덴티티 프로필은 특정 장면에 대한 캐릭터의 페르소나를 설정하는 방법입니다.",
     "edit_stats": "능력치 편집",
-    "edit_stats_description": "캐릭터의 장점, 단점 및 진행 상황입니다."
+    "edit_stats_description": "캐릭터의 장점, 단점 및 진행 상황입니다.",
+    "set_as_player": "플레이어로 설정",
+    "set_as_player_description": "정말로 이 캐릭터를 플레이어로 설정하시겠습니까?",
+    "translate": "번역",
+    "translate_description": "이 버튼을 누르면 텍스트가 기본 설정 언어로 번역됩니다.",
+    "always_translate": "항상 번역",
+    "always_translate_description": "「항상 번역」 기능이 활성화되면 모든 텍스트가 자동으로 번역됩니다."
   },
   "sessions": {
     "my_sessions": "내 세션",

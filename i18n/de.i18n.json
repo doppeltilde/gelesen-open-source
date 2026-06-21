@@ -71,7 +71,13 @@
     "identity_profiles": "Identitätsprofile",
     "edit_identites_description": "Ein Identitätsprofil bestimmt die Persona eines Charakters für eine Szene.",
     "edit_stats": "Stats bearbeiten",
-    "edit_stats_description": "Stärken, Schwächen und Fortschritt des Charakters."
+    "edit_stats_description": "Stärken, Schwächen und Fortschritt des Charakters.",
+    "set_as_player": "Als Spieler festlegen",
+    "set_as_player_description": "Bist du sicher, dass du diesen Charakter als Spieler festlegen möchtest?",
+    "translate": "Übersetzen",
+    "translate_description": "Tippe auf diese Schaltfläche, um den Text in deine bevorzugte Sprache zu übersetzen.",
+    "always_translate": "Immer übersetzen",
+    "always_translate_description": "Wenn „Immer übersetzen“ aktiviert ist, wird jeder Text automatisch übersetzt."
   },
   "sessions": {
     "my_sessions": "Meine Sitzungen",

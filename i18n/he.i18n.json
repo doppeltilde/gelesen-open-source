@@ -71,7 +71,13 @@
     "identity_profiles": "פרופילי זהות",
     "edit_identites_description": "פרופיל זהות הוא דרך לקבוע את הפרסונה של הדמות עבור סצנה מסוימת.",
     "edit_stats": "עריכת נתונים",
-    "edit_stats_description": "החוזקות, החולשות וההתקדמות של הדמות."
+    "edit_stats_description": "החוזקות, החולשות וההתקדמות של הדמות.",
+    "set_as_player": "הגדר כשחקן",
+    "set_as_player_description": "האם אתה בטוח שברצונך להגדיר דמות זו כשחקן?",
+    "translate": "תרגם",
+    "translate_description": "לחיצה על כפתור זה תתרגם את הטקסט לשפה המועדפת עליך.",
+    "always_translate": "תרגם תמיד",
+    "always_translate_description": "כאשר האפשרות ”תרגם תמיד” מופעלת, כל הטקסט יתורגם באופן אוטומטי."
   },
   "sessions": {
     "my_sessions": "התחברויות פעילות",

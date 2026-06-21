@@ -71,7 +71,13 @@
     "identity_profiles": "Profili identiteta",
     "edit_identites_description": "Profil identiteta je način da se postavi persona lika za određenu scenu.",
     "edit_stats": "Izmeni statistiku",
-    "edit_stats_description": "Vrline, mane i napredak lika."
+    "edit_stats_description": "Vrline, mane i napredak lika.",
+    "set_as_player": "Postavi kao igrača",
+    "set_as_player_description": "Da li ste sigurni da želite da postavite ovog lika kao igrača?",
+    "translate": "Prevedi",
+    "translate_description": "Dodirivanjem ovog dugmeta tekst će se prevesti na vaš željeni jezik.",
+    "always_translate": "Uvek prevedi",
+    "always_translate_description": "Kada je omogućena opcija ”Uvek prevedi”, sav tekst će se automatski prevoditi."
   },
   "sessions": {
     "my_sessions": "Moje sesije",

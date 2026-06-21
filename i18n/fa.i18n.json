@@ -71,7 +71,13 @@
     "identity_profiles": "پروفایل‌های هویت",
     "edit_identites_description": "پروفایل هویت روشی برای تعیین پرسونای شخصیت برای یک صحنه است.",
     "edit_stats": "ویرایش آمار",
-    "edit_stats_description": "نقاط قوت، ضعف و پیشرفت شخصیت."
+    "edit_stats_description": "نقاط قوت، ضعف و پیشرفت شخصیت.",
+    "set_as_player": "تنظیم به عنوان بازیکن",
+    "set_as_player_description": "آیا مطمئن هستید که می‌خواهید این شخصیت را به عنوان بازیکن تنظیم کنید؟",
+    "translate": "ترجمه",
+    "translate_description": "با ضربه زدن روی این دکمه، متن به زبان مورد نظر شما ترجمه می‌شود.",
+    "always_translate": "ترجمه همیشگی",
+    "always_translate_description": "وقتی ”ترجمه همیشگی” فعال باشد، تمام متن‌ها به طور خودکار ترجمه خواهند شد."
   },
   "sessions": {
     "my_sessions": "نشست‌های من",

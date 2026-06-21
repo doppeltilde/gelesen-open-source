@@ -71,7 +71,13 @@
     "identity_profiles": "Mga Profile ng Pagkakakilanlan",
     "edit_identites_description": "Ang profile ng pagkakakilanlan ay isang paraan upang itakda ang persona ng karakter para sa isang eksena.",
     "edit_stats": "I-edit ang Mga Stats",
-    "edit_stats_description": "Ang mga kalakasan, kahinaan, at pag-unlad ng karakter."
+    "edit_stats_description": "Ang mga kalakasan, kahinaan, at pag-unlad ng karakter.",
+    "set_as_player": "I-set bilang Player",
+    "set_as_player_description": "Sigurado ka bang gusto mong i-set ang karakter na ito bilang player?",
+    "translate": "I-translate",
+    "translate_description": "Ang pag-tap sa button na ito ay magta-translate ng text sa iyong gustong wika.",
+    "always_translate": "Palaging I-translate",
+    "always_translate_description": "Kapag naka-enable ang ”Palaging I-translate”, awtomatikong isasalin ang lahat ng text."
   },
   "sessions": {
     "my_sessions": "Aking mga session",
